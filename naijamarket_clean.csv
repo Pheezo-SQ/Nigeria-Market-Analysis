@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Month,Month_Name,Quarter,State,Platform,Category,Age_Group,Gender,Customer_Segment,Device_Type,Payment_Method,Delivery_Option,Order_Value_NGN,Quantity,Total_Value_NGN,Discount_Pct,Discount_Amount_NGN,Final_Value_NGN,Delivery_Days,Customer_Satisfaction,Repeat_Purchase_Likelihood,Returned,Platform_Rating
+NM-10001,2023-02-17,2,Feb,Q1,Abuja,Jumia,Health & Beauty,35-44,Male,Student,Mobile,Card,Same Day,9605.73,1,9605.73,0,0.0,9605.73,1,5,High,0,4.0
+NM-10002,2023-01-23,1,Jan,Q1,Oyo,Jumia,Sports & Fitness,45-54,Female,Young Professional,Mobile,Transfer,2-3 Days,59459.62,1,59459.62,25,14864.91,44594.71,2,3,High,1,3.7
+NM-10003,2023-07-06,7,Jul,Q3,Abuja,Jumia,Home & Living,25-34,Male,Young Professional,Tablet,USSD,Same Day,23705.22,1,23705.22,10,2370.52,21334.7,1,5,High,1,4.2
+NM-10004,2023-10-18,10,Oct,Q4,Kaduna,Amazon Nigeria,Electronics,25-34,Male,Business Owner,Desktop,Card,Standard (5-7 Days),308583.15,1,308583.15,10,30858.31,277724.84,5,2,Low,0,4.8
+NM-10005,2023-12-15,12,Dec,Q4,Anambra,Konga,Food & Grocery,18-24,Male,Student,Mobile,Wallet,Same Day,11709.68,1,11709.68,5,585.48,11124.2,1,5,High,0,3.8
+NM-10006,2023-11-17,11,Nov,Q4,Kaduna,Jumia,Automobile Parts,25-34,Male,Student,Mobile,Card,Next Day,65301.4,2,130602.8,10,13060.28,117542.52,1,5,High,0,3.5
+NM-10007,2023-02-05,2,Feb,Q1,Kaduna,Amazon Nigeria,Health & Beauty,18-24,Female,Young Professional,Mobile,Card,Same Day,34284.5,1,34284.5,0,0.0,34284.5,1,5,High,1,4.5
+NM-10008,2023-06-23,6,Jun,Q2,Rivers,PayPorte,Automobile Parts,18-24,Male,Business Owner,Mobile,USSD,Standard (5-7 Days),12038.58,2,24077.16,10,2407.72,21669.44,7,3,Medium,1,4.7
+NM-10009,2023-07-28,7,Jul,Q3,Abuja,Jiji,Health & Beauty,25-34,Male,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),8688.32,1,8688.32,5,434.42,8253.9,6,4,High,0,3.1
+NM-10010,2023-08-25,8,Aug,Q3,Kaduna,Shoprite Online,Fashion,18-24,Male,Business Owner,Mobile,Card,Standard (5-7 Days),13491.87,4,53967.48,5,2698.37,51269.11,7,4,High,1,4.7
+NM-10011,2023-05-16,5,May,Q2,Kano,Konga,Books & Education,25-34,Female,Student,Desktop,Card,Next Day,14007.99,2,28015.98,0,0.0,28015.98,2,3,High,0,4.5
+NM-10012,2023-04-06,4,Apr,Q2,Lagos,Jumia,Books & Education,18-24,Female,Student,Desktop,Wallet,Next Day,2425.04,1,2425.04,20,485.01,1940.03,2,3,High,0,4.3
+NM-10013,2023-11-27,11,Nov,Q4,Enugu,Jumia,Health & Beauty,25-34,Male,Retiree,Mobile,Card,Next Day,12249.91,1,12249.91,15,1837.49,10412.42,1,5,Medium,0,3.7
+NM-10014,2023-12-01,12,Dec,Q4,Kaduna,Amazon Nigeria,Home & Living,35-44,Female,Young Professional,Mobile,USSD,2-3 Days,65828.18,2,131656.36,10,13165.64,118490.72,2,2,Low,1,4.4
+NM-10015,2023-01-23,1,Jan,Q1,Rivers,PayPorte,Health & Beauty,35-44,Female,Business Owner,Mobile,Wallet,Same Day,2615.23,2,5230.46,10,523.05,4707.41,1,5,High,0,4.9
+NM-10016,2023-01-21,1,Jan,Q1,Kano,Jiji,Sports & Fitness,18-24,Male,Business Owner,Mobile,Wallet,Next Day,72318.27,1,72318.27,0,0.0,72318.27,1,5,High,0,4.9
+NM-10017,2023-05-08,5,May,Q2,Kano,WhatsApp Commerce,Food & Grocery,45-54,Female,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),8136.53,2,16273.06,0,0.0,16273.06,5,2,Low,1,3.4
+NM-10018,2023-10-02,10,Oct,Q4,Rivers,Konga,Health & Beauty,35-44,Male,Student,Tablet,Transfer,2-3 Days,13262.37,1,13262.37,20,2652.47,10609.9,2,5,Medium,0,3.9
+NM-10019,2023-09-24,9,Sep,Q3,Borno,WhatsApp Commerce,Fashion,18-24,Male,Young Professional,Desktop,Cash on Delivery,2-3 Days,41874.16,1,41874.16,15,6281.12,35593.04,3,2,Low,1,4.4
+NM-10020,2023-07-14,7,Jul,Q3,Oyo,Jiji,Automobile Parts,18-24,Female,Homemaker,Mobile,USSD,Next Day,138045.05,3,414135.15,10,41413.51,372721.64,2,5,Medium,0,4.2
+NM-10021,2023-11-14,11,Nov,Q4,Kaduna,Konga,Books & Education,25-34,Female,Retiree,Mobile,Card,Same Day,6025.04,3,18075.12,15,2711.27,15363.85,1,3,Low,1,4.5
+NM-10022,2023-02-24,2,Feb,Q1,Delta,Konga,Home & Living,35-44,Male,Retiree,Mobile,Cash on Delivery,Next Day,94518.35,1,94518.35,15,14177.75,80340.6,2,3,High,0,4.4
+NM-10023,2023-03-23,3,Mar,Q1,Enugu,Jiji,Books & Education,45-54,Female,Retiree,Desktop,Wallet,Standard (5-7 Days),11539.35,1,11539.35,0,0.0,11539.35,7,3,Medium,0,4.4
+NM-10024,2023-04-20,4,Apr,Q2,Rivers,Jumia,Sports & Fitness,25-34,Male,Retiree,Mobile,Wallet,Next Day,8881.39,1,8881.39,10,888.14,7993.25,2,5,High,1,4.6
+NM-10025,2023-11-05,11,Nov,Q4,Borno,Konga,Electronics,25-34,Female,Business Owner,Mobile,USSD,Standard (5-7 Days),315766.8,1,315766.8,0,0.0,315766.8,6,2,Low,0,4.3
+NM-10026,2023-06-17,6,Jun,Q2,Lagos,Instagram Shop,Electronics,18-24,Male,Young Professional,Mobile,Transfer,Standard (5-7 Days),85906.2,1,85906.2,15,12885.93,73020.27,6,2,Low,1,3.7
+NM-10027,2023-08-31,8,Aug,Q3,Abuja,Shoprite Online,Electronics,35-44,Male,Retiree,Tablet,Transfer,Same Day,239268.71,2,478537.42,0,0.0,478537.42,1,5,High,0,3.3
+NM-10028,2023-10-31,10,Oct,Q4,Oyo,Jumia,Electronics,55+,Male,Young Professional,Mobile,USSD,Standard (5-7 Days),246355.83,2,492711.66,0,0.0,492711.66,7,4,High,0,3.9
+NM-10029,2023-11-30,11,Nov,Q4,Anambra,Shoprite Online,Fashion,25-34,Female,Young Professional,Tablet,Cash on Delivery,Next Day,14343.46,3,43030.38,10,4303.04,38727.34,2,5,High,0,4.9
+NM-10030,2023-04-04,4,Apr,Q2,Oyo,Amazon Nigeria,Home & Living,18-24,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,61068.24,1,61068.24,0,0.0,61068.24,3,1,Low,0,4.5
+NM-10031,2023-06-06,6,Jun,Q2,Delta,Jiji,Books & Education,25-34,Female,Young Professional,Desktop,Cash on Delivery,2-3 Days,10463.46,1,10463.46,10,1046.35,9417.11,3,4,High,0,3.5
+NM-10032,2023-09-26,9,Sep,Q3,Rivers,Jumia,Food & Grocery,35-44,Female,Business Owner,Mobile,Card,2-3 Days,15726.19,5,78630.95,15,11794.64,66836.31,2,3,Low,0,4.8
+NM-10033,2023-04-05,4,Apr,Q2,Enugu,Jumia,Food & Grocery,25-34,Male,Young Professional,Mobile,Cash on Delivery,2-3 Days,24206.45,1,24206.45,20,4841.29,19365.16,2,4,High,0,4.7
+NM-10034,2023-08-15,8,Aug,Q3,Abuja,WhatsApp Commerce,Fashion,35-44,Male,Homemaker,Desktop,Wallet,Next Day,15488.83,2,30977.66,5,1548.88,29428.78,1,5,Medium,0,4.1
+NM-10035,2023-08-21,8,Aug,Q3,Kano,Jumia,Books & Education,25-34,Male,Young Professional,Mobile,Wallet,Next Day,2460.93,1,2460.93,0,0.0,2460.93,1,5,High,0,3.7
+NM-10036,2023-09-10,9,Sep,Q3,Oyo,Jiji,Health & Beauty,55+,Female,Retiree,Mobile,Cash on Delivery,Standard (5-7 Days),16727.16,2,33454.32,20,6690.86,26763.46,5,1,Medium,1,5.0
+NM-10037,2023-11-22,11,Nov,Q4,Oyo,Jiji,Food & Grocery,18-24,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,20727.63,4,82910.52,5,4145.53,78764.99,3,4,High,0,3.6
+NM-10038,2023-09-21,9,Sep,Q3,Anambra,Shoprite Online,Electronics,18-24,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,291350.61,1,291350.61,20,58270.12,233080.49,3,3,Medium,0,4.3
+NM-10039,2023-05-03,5,May,Q2,Lagos,Jumia,Food & Grocery,18-24,Female,Student,Mobile,USSD,Same Day,18325.0,1,18325.0,0,0.0,18325.0,1,5,High,0,4.1
+NM-10040,2023-04-08,4,Apr,Q2,Oyo,Jiji,Health & Beauty,25-34,Male,Retiree,Desktop,Cash on Delivery,Next Day,32460.71,1,32460.71,20,6492.14,25968.57,1,4,Medium,0,4.5
+NM-10041,2023-07-13,7,Jul,Q3,Borno,Jiji,Books & Education,25-34,Female,Student,Mobile,Card,2-3 Days,7647.15,1,7647.15,0,0.0,7647.15,3,5,High,0,4.8
+NM-10042,2023-08-14,8,Aug,Q3,Anambra,Konga,Food & Grocery,45-54,Female,Business Owner,Tablet,Cash on Delivery,2-3 Days,4293.37,3,12880.11,0,0.0,12880.11,3,5,High,0,4.0
+NM-10043,2023-12-17,12,Dec,Q4,Abuja,Amazon Nigeria,Automobile Parts,35-44,Male,Retiree,Mobile,USSD,Same Day,184818.39,5,924091.95,15,138613.79,785478.16,1,5,Medium,0,3.1
+NM-10044,2023-04-03,4,Apr,Q2,Kaduna,Shoprite Online,Health & Beauty,25-34,Female,Retiree,Mobile,USSD,Next Day,8024.47,1,8024.47,20,1604.89,6419.58,1,3,Medium,0,3.5
+NM-10045,2023-10-28,10,Oct,Q4,Lagos,Amazon Nigeria,Books & Education,25-34,Male,Young Professional,Mobile,USSD,Same Day,5538.58,4,22154.32,10,2215.43,19938.89,1,5,Medium,0,3.7
+NM-10046,2023-01-26,1,Jan,Q1,Oyo,WhatsApp Commerce,Health & Beauty,18-24,Female,Student,Tablet,Transfer,2-3 Days,32095.05,2,64190.1,15,9628.51,54561.59,2,5,Medium,0,4.5
+NM-10047,2023-06-01,6,Jun,Q2,Kano,Jiji,Electronics,35-44,Male,Young Professional,Desktop,USSD,2-3 Days,124450.91,1,124450.91,0,0.0,124450.91,3,3,High,0,4.6
+NM-10048,2023-07-07,7,Jul,Q3,Kaduna,Shoprite Online,Books & Education,55+,Female,Business Owner,Mobile,Transfer,Standard (5-7 Days),2719.09,1,2719.09,0,0.0,2719.09,6,3,High,0,4.6
+NM-10049,2023-02-02,2,Feb,Q1,Kaduna,Jumia,Home & Living,45-54,Male,Business Owner,Mobile,Cash on Delivery,2-3 Days,78071.45,1,78071.45,15,11710.72,66360.73,2,1,Medium,0,4.0
+NM-10050,2023-11-12,11,Nov,Q4,Kaduna,PayPorte,Automobile Parts,35-44,Female,Student,Desktop,Wallet,Standard (5-7 Days),86358.25,4,345433.0,0,0.0,345433.0,6,3,Medium,0,5.0
+NM-10051,2023-02-16,2,Feb,Q1,Kaduna,Jiji,Sports & Fitness,55+,Female,Young Professional,Mobile,Transfer,Same Day,54370.42,2,108740.84,10,10874.08,97866.76,1,4,High,0,4.5
+NM-10052,2023-03-08,3,Mar,Q1,Rivers,Jiji,Home & Living,25-34,Female,Retiree,Desktop,USSD,Same Day,67124.78,2,134249.56,0,0.0,134249.56,1,5,High,0,3.5
+NM-10053,2023-11-11,11,Nov,Q4,Kano,Shoprite Online,Fashion,25-34,Male,Student,Mobile,Transfer,Same Day,4821.33,2,9642.66,20,1928.53,7714.13,1,5,High,0,4.4
+NM-10054,2023-11-21,11,Nov,Q4,Delta,PayPorte,Books & Education,18-24,Male,Homemaker,Desktop,Transfer,Next Day,9402.42,2,18804.84,5,940.24,17864.6,2,4,High,0,4.3
+NM-10055,2023-08-01,8,Aug,Q3,Enugu,PayPorte,Home & Living,25-34,Male,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),88905.44,1,88905.44,5,4445.27,84460.17,5,3,Medium,0,3.2
+NM-10056,2023-12-07,12,Dec,Q4,Anambra,Jumia,Sports & Fitness,35-44,Male,Retiree,Mobile,Card,2-3 Days,75525.87,1,75525.87,20,15105.17,60420.7,3,3,Low,0,4.1
+NM-10057,2023-11-15,11,Nov,Q4,Abuja,Konga,Sports & Fitness,45-54,Female,Homemaker,Desktop,Transfer,Next Day,50631.57,2,101263.14,0,0.0,101263.14,2,3,High,1,3.7
+NM-10058,2023-08-03,8,Aug,Q3,Kano,Jiji,Automobile Parts,35-44,Male,Business Owner,Mobile,Transfer,Same Day,95099.99,1,95099.99,5,4755.0,90344.99,1,4,Medium,0,3.9
+NM-10059,2023-12-14,12,Dec,Q4,Anambra,Konga,Books & Education,25-34,Male,Retiree,Mobile,Cash on Delivery,Same Day,10659.56,1,10659.56,10,1065.96,9593.6,1,5,Medium,1,4.5
+NM-10060,2023-09-14,9,Sep,Q3,Oyo,Konga,Electronics,25-34,Female,Retiree,Desktop,Cash on Delivery,Next Day,202172.4,2,404344.8,5,20217.24,384127.56,2,1,Medium,0,4.0
+NM-10061,2023-02-15,2,Feb,Q1,Abuja,Konga,Sports & Fitness,45-54,Female,Retiree,Desktop,Card,Standard (5-7 Days),37190.1,1,37190.1,5,1859.51,35330.59,6,4,Medium,0,4.3
+NM-10062,2023-03-30,3,Mar,Q1,Enugu,Jiji,Sports & Fitness,18-24,Male,Young Professional,Desktop,USSD,Next Day,49782.32,2,99564.64,10,9956.46,89608.18,1,5,High,1,4.1
+NM-10063,2023-10-30,10,Oct,Q4,Borno,Konga,Sports & Fitness,35-44,Female,Student,Mobile,Card,Standard (5-7 Days),8269.08,1,8269.08,5,413.45,7855.63,5,3,Medium,0,3.6
+NM-10064,2023-04-07,4,Apr,Q2,Borno,Jiji,Books & Education,45-54,Female,Student,Mobile,Wallet,Standard (5-7 Days),5840.61,1,5840.61,0,0.0,5840.61,5,4,High,0,4.3
+NM-10065,2023-07-18,7,Jul,Q3,Lagos,Jumia,Books & Education,25-34,Female,Young Professional,Mobile,Cash on Delivery,Next Day,7018.39,1,7018.39,10,701.84,6316.55,2,2,Low,1,4.6
+NM-10066,2023-06-08,6,Jun,Q2,Kaduna,Jumia,Food & Grocery,35-44,Female,Young Professional,Mobile,USSD,Next Day,14855.21,2,29710.42,5,1485.52,28224.9,1,5,Medium,0,3.9
+NM-10067,2023-11-13,11,Nov,Q4,Delta,Jumia,Food & Grocery,35-44,Female,Homemaker,Mobile,Card,Same Day,5014.13,1,5014.13,0,0.0,5014.13,1,5,Medium,0,4.5
+NM-10068,2023-08-14,8,Aug,Q3,Delta,Jumia,Home & Living,25-34,Female,Homemaker,Tablet,USSD,Next Day,58093.2,1,58093.2,5,2904.66,55188.54,2,5,Medium,0,4.2
+NM-10069,2023-08-12,8,Aug,Q3,Abuja,PayPorte,Fashion,25-34,Female,Young Professional,Mobile,USSD,2-3 Days,6851.97,3,20555.91,15,3083.39,17472.52,2,2,Low,0,3.1
+NM-10070,2023-12-28,12,Dec,Q4,Abuja,Amazon Nigeria,Sports & Fitness,35-44,Male,Student,Mobile,Card,Standard (5-7 Days),39652.37,2,79304.74,20,15860.95,63443.79,5,4,High,0,3.2
+NM-10071,2023-09-13,9,Sep,Q3,Oyo,Jumia,Fashion,18-24,Female,Homemaker,Mobile,Transfer,Standard (5-7 Days),28063.04,1,28063.04,10,2806.3,25256.74,6,3,High,0,4.4
+NM-10072,2023-11-22,11,Nov,Q4,Abuja,Jiji,Sports & Fitness,25-34,Male,Homemaker,Tablet,Transfer,Same Day,33402.98,1,33402.98,15,5010.45,28392.53,1,4,Medium,0,4.5
+NM-10073,2023-02-02,2,Feb,Q1,Kano,Jumia,Sports & Fitness,35-44,Female,Business Owner,Desktop,Card,Standard (5-7 Days),58419.42,4,233677.68,0,0.0,233677.68,5,4,High,0,4.1
+NM-10074,2023-08-12,8,Aug,Q3,Lagos,Shoprite Online,Home & Living,25-34,Female,Retiree,Mobile,USSD,2-3 Days,107290.95,2,214581.9,20,42916.38,171665.52,3,4,High,0,4.6
+NM-10075,2023-08-17,8,Aug,Q3,Anambra,Jumia,Food & Grocery,25-34,Male,Business Owner,Mobile,Wallet,Same Day,15860.3,1,15860.3,10,1586.03,14274.27,1,5,High,0,4.5
+NM-10076,2023-08-13,8,Aug,Q3,Lagos,Jumia,Automobile Parts,18-24,Female,Business Owner,Mobile,USSD,Same Day,14681.4,1,14681.4,15,2202.21,12479.19,1,5,Medium,0,4.1
+NM-10077,2023-04-06,4,Apr,Q2,Abuja,Jiji,Sports & Fitness,55+,Male,Young Professional,Mobile,Cash on Delivery,Next Day,41927.34,1,41927.34,10,4192.73,37734.61,2,4,Medium,1,4.0
+NM-10078,2023-06-13,6,Jun,Q2,Abuja,Jumia,Fashion,45-54,Female,Student,Mobile,Cash on Delivery,Same Day,31049.27,2,62098.54,10,6209.85,55888.69,1,5,High,0,3.7
+NM-10079,2023-03-08,3,Mar,Q1,Rivers,Shoprite Online,Home & Living,25-34,Female,Student,Mobile,Cash on Delivery,2-3 Days,75374.06,1,75374.06,5,3768.7,71605.36,3,5,High,0,3.9
+NM-10080,2023-03-24,3,Mar,Q1,Enugu,Konga,Food & Grocery,25-34,Male,Homemaker,Mobile,Card,Same Day,9421.2,2,18842.4,5,942.12,17900.28,1,4,Medium,0,3.6
+NM-10081,2023-01-15,1,Jan,Q1,Kano,Jiji,Food & Grocery,45-54,Female,Young Professional,Mobile,Card,2-3 Days,3868.13,4,15472.52,15,2320.88,13151.64,2,4,High,0,3.6
+NM-10082,2023-04-15,4,Apr,Q2,Oyo,Konga,Automobile Parts,25-34,Female,Retiree,Mobile,USSD,Next Day,73316.97,1,73316.97,20,14663.39,58653.58,2,2,Low,0,3.8
+NM-10083,2023-04-08,4,Apr,Q2,Abuja,Jumia,Automobile Parts,55+,Female,Business Owner,Mobile,Wallet,2-3 Days,154519.3,1,154519.3,10,15451.93,139067.37,3,1,Low,0,3.6
+NM-10084,2023-07-07,7,Jul,Q3,Delta,Jiji,Books & Education,18-24,Male,Student,Mobile,USSD,Standard (5-7 Days),11812.07,1,11812.07,5,590.6,11221.47,7,2,Low,1,4.2
+NM-10085,2023-09-18,9,Sep,Q3,Borno,Jumia,Fashion,35-44,Male,Retiree,Mobile,Cash on Delivery,2-3 Days,19858.26,1,19858.26,0,0.0,19858.26,3,4,High,0,3.7
+NM-10086,2023-01-09,1,Jan,Q1,Borno,Shoprite Online,Health & Beauty,35-44,Male,Young Professional,Mobile,Wallet,Standard (5-7 Days),14471.63,2,28943.26,25,7235.81,21707.45,7,3,High,0,4.6
+NM-10087,2023-01-17,1,Jan,Q1,Borno,Jumia,Electronics,18-24,Female,Homemaker,Mobile,Wallet,Standard (5-7 Days),206811.04,2,413622.08,0,0.0,413622.08,6,2,Low,1,4.5
+NM-10088,2023-09-30,9,Sep,Q3,Lagos,PayPorte,Home & Living,25-34,Male,Business Owner,Mobile,Wallet,Standard (5-7 Days),44367.61,1,44367.61,15,6655.14,37712.47,5,4,Medium,1,5.0
+NM-10089,2023-10-06,10,Oct,Q4,Oyo,PayPorte,Books & Education,25-34,Female,Retiree,Mobile,USSD,2-3 Days,6625.87,5,33129.35,15,4969.4,28159.95,3,3,High,0,3.9
+NM-10090,2023-10-28,10,Oct,Q4,Oyo,Shoprite Online,Home & Living,18-24,Female,Student,Desktop,Card,2-3 Days,32517.44,1,32517.44,20,6503.49,26013.95,2,2,Low,0,4.9
+NM-10091,2023-02-15,2,Feb,Q1,Kano,Konga,Books & Education,25-34,Male,Retiree,Mobile,Cash on Delivery,2-3 Days,10306.03,1,10306.03,15,1545.9,8760.13,2,5,High,1,4.1
+NM-10092,2023-10-06,10,Oct,Q4,Oyo,Amazon Nigeria,Electronics,25-34,Female,Young Professional,Mobile,USSD,2-3 Days,190646.71,3,571940.13,0,0.0,571940.13,3,5,High,0,4.4
+NM-10093,2023-07-27,7,Jul,Q3,Lagos,Shoprite Online,Health & Beauty,35-44,Female,Young Professional,Mobile,Wallet,Next Day,29377.17,1,29377.17,0,0.0,29377.17,1,5,Medium,0,3.9
+NM-10094,2023-02-01,2,Feb,Q1,Oyo,Instagram Shop,Health & Beauty,35-44,Female,Homemaker,Desktop,Wallet,2-3 Days,24203.05,1,24203.05,0,0.0,24203.05,2,5,High,0,3.3
+NM-10095,2023-11-02,11,Nov,Q4,Kano,Konga,Sports & Fitness,35-44,Female,Homemaker,Mobile,Cash on Delivery,Next Day,70358.26,1,70358.26,5,3517.91,66840.35,2,2,Medium,0,4.6
+NM-10096,2023-09-20,9,Sep,Q3,Delta,Jumia,Home & Living,45-54,Male,Student,Mobile,Wallet,Standard (5-7 Days),52773.83,2,105547.66,10,10554.77,94992.89,6,2,Low,0,4.2
+NM-10097,2023-11-27,11,Nov,Q4,Lagos,Instagram Shop,Fashion,35-44,Female,Young Professional,Mobile,Cash on Delivery,Next Day,43478.87,1,43478.87,20,8695.77,34783.1,2,2,Medium,1,3.2
+NM-10098,2023-08-06,8,Aug,Q3,Enugu,Konga,Food & Grocery,25-34,Female,Student,Desktop,Card,2-3 Days,14234.47,3,42703.41,0,0.0,42703.41,2,3,High,0,4.4
+NM-10099,2023-01-25,1,Jan,Q1,Borno,Shoprite Online,Electronics,25-34,Female,Homemaker,Mobile,Card,Same Day,96985.94,1,96985.94,5,4849.3,92136.64,1,5,High,0,3.6
+NM-10100,2023-10-13,10,Oct,Q4,Borno,Shoprite Online,Sports & Fitness,25-34,Male,Business Owner,Mobile,Card,Next Day,76087.54,3,228262.62,20,45652.52,182610.1,2,5,High,0,3.6
+NM-10101,2023-12-29,12,Dec,Q4,Anambra,Konga,Health & Beauty,25-34,Male,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),7191.43,1,7191.43,0,0.0,7191.43,7,3,Medium,0,3.6
+NM-10102,2023-11-05,11,Nov,Q4,Delta,Amazon Nigeria,Fashion,25-34,Female,Homemaker,Desktop,Wallet,Same Day,4661.0,1,4661.0,15,699.15,3961.85,1,5,High,0,4.9
+NM-10103,2023-05-25,5,May,Q2,Abuja,Shoprite Online,Books & Education,45-54,Female,Young Professional,Mobile,Card,Standard (5-7 Days),6638.93,1,6638.93,5,331.95,6306.98,7,4,High,0,4.5
+NM-10104,2023-10-11,10,Oct,Q4,Kaduna,Instagram Shop,Sports & Fitness,35-44,Male,Homemaker,Mobile,USSD,Next Day,75041.63,2,150083.26,5,7504.16,142579.1,1,4,Medium,0,4.9
+NM-10105,2023-04-05,4,Apr,Q2,Kaduna,Jumia,Books & Education,18-24,Female,Business Owner,Mobile,Cash on Delivery,Next Day,13878.14,1,13878.14,10,1387.81,12490.33,1,5,High,0,3.8
+NM-10106,2023-09-30,9,Sep,Q3,Kano,Jumia,Books & Education,35-44,Male,Homemaker,Mobile,USSD,Standard (5-7 Days),8947.19,1,8947.19,10,894.72,8052.47,5,3,High,0,3.7
+NM-10107,2023-07-11,7,Jul,Q3,Abuja,Jiji,Home & Living,25-34,Male,Business Owner,Mobile,Card,2-3 Days,115319.25,1,115319.25,0,0.0,115319.25,3,5,High,0,3.1
+NM-10108,2023-06-19,6,Jun,Q2,Anambra,Konga,Books & Education,25-34,Male,Young Professional,Mobile,Transfer,Same Day,9139.06,3,27417.18,0,0.0,27417.18,1,5,High,0,4.4
+NM-10109,2023-12-31,12,Dec,Q4,Oyo,Amazon Nigeria,Electronics,55+,Female,Retiree,Desktop,Card,Same Day,290002.3,4,1160009.2,0,0.0,1160009.2,1,5,High,0,5.0
+NM-10110,2023-11-01,11,Nov,Q4,Abuja,Jiji,Sports & Fitness,25-34,Female,Homemaker,Mobile,Transfer,Same Day,34149.43,2,68298.86,0,0.0,68298.86,1,4,High,0,4.2
+NM-10111,2023-11-21,11,Nov,Q4,Anambra,Jumia,Health & Beauty,18-24,Female,Business Owner,Mobile,Card,2-3 Days,7514.0,1,7514.0,5,375.7,7138.3,2,4,Medium,0,4.2
+NM-10112,2023-07-31,7,Jul,Q3,Enugu,Konga,Electronics,45-54,Male,Homemaker,Mobile,Transfer,2-3 Days,144912.85,1,144912.85,20,28982.57,115930.28,2,4,High,0,4.1
+NM-10113,2023-02-24,2,Feb,Q1,Anambra,Jumia,Fashion,35-44,Male,Student,Mobile,USSD,Standard (5-7 Days),8690.56,1,8690.56,5,434.53,8256.03,6,2,Medium,0,4.7
+NM-10114,2023-06-16,6,Jun,Q2,Rivers,Konga,Food & Grocery,55+,Female,Young Professional,Tablet,Cash on Delivery,Standard (5-7 Days),10649.27,3,31947.81,5,1597.39,30350.42,7,4,High,0,4.7
+NM-10115,2023-05-10,5,May,Q2,Rivers,Konga,Health & Beauty,18-24,Male,Student,Desktop,Transfer,Standard (5-7 Days),23906.55,2,47813.1,15,7171.97,40641.13,7,3,Medium,0,4.4
+NM-10116,2023-07-01,7,Jul,Q3,Enugu,Jumia,Sports & Fitness,35-44,Female,Retiree,Mobile,Wallet,Same Day,16641.73,2,33283.46,10,3328.35,29955.11,1,3,Low,0,4.2
+NM-10117,2023-02-23,2,Feb,Q1,Borno,Jumia,Sports & Fitness,25-34,Male,Homemaker,Mobile,Cash on Delivery,Next Day,26452.85,4,105811.4,0,0.0,105811.4,1,4,High,0,4.4
+NM-10118,2023-12-13,12,Dec,Q4,Delta,Jumia,Health & Beauty,45-54,Female,Student,Desktop,Transfer,Same Day,28501.63,4,114006.52,15,17100.98,96905.54,1,5,Medium,0,4.3
+NM-10119,2023-12-27,12,Dec,Q4,Anambra,Konga,Home & Living,35-44,Male,Homemaker,Mobile,Cash on Delivery,Same Day,98003.93,1,98003.93,0,0.0,98003.93,1,4,High,0,3.9
+NM-10120,2023-06-02,6,Jun,Q2,Anambra,Jiji,Fashion,45-54,Female,Young Professional,Mobile,USSD,Next Day,41584.67,2,83169.34,10,8316.93,74852.41,2,3,Low,0,4.0
+NM-10121,2023-03-13,3,Mar,Q1,Anambra,Jiji,Automobile Parts,35-44,Female,Student,Mobile,Cash on Delivery,Next Day,43922.93,3,131768.79,10,13176.88,118591.91,2,2,Medium,0,4.4
+NM-10122,2023-01-17,1,Jan,Q1,Anambra,PayPorte,Books & Education,35-44,Male,Student,Mobile,Cash on Delivery,Same Day,5210.51,1,5210.51,0,0.0,5210.51,1,5,Medium,0,5.0
+NM-10123,2023-05-07,5,May,Q2,Enugu,Shoprite Online,Electronics,35-44,Female,Retiree,Mobile,Cash on Delivery,Same Day,114732.49,5,573662.45,5,28683.12,544979.33,1,5,High,0,4.5
+NM-10124,2023-09-30,9,Sep,Q3,Kaduna,Amazon Nigeria,Automobile Parts,45-54,Female,Retiree,Mobile,Card,Next Day,61968.32,1,61968.32,5,3098.42,58869.9,2,3,High,1,4.4
+NM-10125,2023-05-07,5,May,Q2,Abuja,Jumia,Automobile Parts,25-34,Female,Young Professional,Tablet,Transfer,Next Day,154202.93,2,308405.86,5,15420.29,292985.57,2,4,High,0,3.9
+NM-10126,2023-02-02,2,Feb,Q1,Kaduna,Konga,Books & Education,35-44,Female,Retiree,Mobile,USSD,Standard (5-7 Days),12241.65,1,12241.65,25,3060.41,9181.24,6,2,Low,1,4.7
+NM-10127,2023-08-08,8,Aug,Q3,Lagos,Jumia,Books & Education,25-34,Female,Business Owner,Mobile,Transfer,Standard (5-7 Days),4231.3,2,8462.6,0,0.0,8462.6,6,1,Low,1,4.3
+NM-10128,2023-12-15,12,Dec,Q4,Rivers,Konga,Fashion,18-24,Male,Business Owner,Mobile,Transfer,Same Day,21692.81,1,21692.81,5,1084.64,20608.17,1,3,Low,0,3.6
+NM-10129,2023-11-09,11,Nov,Q4,Kaduna,Konga,Health & Beauty,18-24,Female,Young Professional,Mobile,Card,Next Day,23625.66,1,23625.66,15,3543.85,20081.81,1,5,Medium,0,4.3
+NM-10130,2023-11-04,11,Nov,Q4,Anambra,Konga,Automobile Parts,35-44,Male,Business Owner,Desktop,USSD,2-3 Days,123201.51,2,246403.02,15,36960.45,209442.57,3,4,High,0,4.7
+NM-10131,2023-07-04,7,Jul,Q3,Rivers,Konga,Fashion,25-34,Female,Student,Mobile,Card,Same Day,42224.82,1,42224.82,20,8444.96,33779.86,1,5,High,0,3.6
+NM-10132,2023-11-24,11,Nov,Q4,Oyo,Jumia,Electronics,25-34,Male,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),194749.21,2,389498.42,0,0.0,389498.42,7,4,Medium,0,4.5
+NM-10133,2023-01-29,1,Jan,Q1,Abuja,Jumia,Automobile Parts,18-24,Female,Young Professional,Mobile,Card,Standard (5-7 Days),67383.69,2,134767.38,15,20215.11,114552.27,7,1,Low,0,3.8
+NM-10134,2023-02-02,2,Feb,Q1,Kaduna,Jumia,Health & Beauty,45-54,Male,Student,Desktop,Transfer,2-3 Days,11045.86,5,55229.3,10,5522.93,49706.37,3,4,High,0,3.6
+NM-10135,2023-01-24,1,Jan,Q1,Borno,PayPorte,Fashion,45-54,Male,Student,Desktop,Card,Same Day,22814.11,1,22814.11,0,0.0,22814.11,1,4,High,0,3.2
+NM-10136,2023-08-27,8,Aug,Q3,Kaduna,Jumia,Electronics,55+,Male,Business Owner,Mobile,Card,Same Day,305120.8,2,610241.6,5,30512.08,579729.52,1,5,High,0,4.0
+NM-10137,2023-04-30,4,Apr,Q2,Delta,WhatsApp Commerce,Home & Living,18-24,Male,Young Professional,Desktop,Wallet,Next Day,67277.7,2,134555.4,10,13455.54,121099.86,1,5,High,0,3.4
+NM-10138,2023-09-24,9,Sep,Q3,Rivers,Konga,Electronics,55+,Female,Business Owner,Mobile,Card,Same Day,153374.03,3,460122.09,5,23006.1,437115.99,1,3,High,0,4.1
+NM-10139,2023-02-08,2,Feb,Q1,Kano,Jumia,Health & Beauty,25-34,Male,Business Owner,Desktop,USSD,2-3 Days,33165.53,1,33165.53,15,4974.83,28190.7,2,3,Medium,0,4.8
+NM-10140,2023-12-27,12,Dec,Q4,Rivers,Konga,Books & Education,45-54,Male,Student,Desktop,USSD,Next Day,10907.85,1,10907.85,15,1636.18,9271.67,2,4,High,0,4.6
+NM-10141,2023-03-13,3,Mar,Q1,Kano,Jumia,Automobile Parts,18-24,Male,Business Owner,Mobile,Cash on Delivery,Next Day,31319.03,1,31319.03,15,4697.85,26621.18,1,5,High,0,3.8
+NM-10142,2023-06-19,6,Jun,Q2,Abuja,Jumia,Fashion,18-24,Female,Student,Desktop,Card,Next Day,8146.16,4,32584.64,0,0.0,32584.64,2,1,Low,0,4.6
+NM-10143,2023-03-12,3,Mar,Q1,Lagos,Jiji,Home & Living,18-24,Male,Business Owner,Mobile,USSD,Standard (5-7 Days),53212.0,2,106424.0,15,15963.6,90460.4,6,4,High,0,4.8
+NM-10144,2023-05-24,5,May,Q2,Enugu,Konga,Health & Beauty,18-24,Female,Young Professional,Mobile,Card,Next Day,4404.21,5,22021.05,10,2202.11,19818.94,1,4,High,0,4.5
+NM-10145,2023-12-24,12,Dec,Q4,Rivers,Jiji,Automobile Parts,25-34,Male,Young Professional,Desktop,USSD,Next Day,76886.36,2,153772.72,15,23065.91,130706.81,2,5,High,1,4.1
+NM-10146,2023-11-11,11,Nov,Q4,Kano,Konga,Fashion,25-34,Male,Student,Mobile,Transfer,Same Day,11461.5,1,11461.5,15,1719.22,9742.28,1,3,High,0,4.2
+NM-10147,2023-08-12,8,Aug,Q3,Kaduna,WhatsApp Commerce,Sports & Fitness,25-34,Female,Retiree,Mobile,Cash on Delivery,2-3 Days,64180.03,4,256720.12,10,25672.01,231048.11,3,4,High,0,3.6
+NM-10148,2023-04-24,4,Apr,Q2,Kano,PayPorte,Automobile Parts,55+,Female,Student,Mobile,Wallet,2-3 Days,130812.18,1,130812.18,5,6540.61,124271.57,2,3,Medium,0,4.9
+NM-10149,2023-01-01,1,Jan,Q1,Kaduna,Konga,Health & Beauty,25-34,Male,Business Owner,Mobile,Card,2-3 Days,4064.79,1,4064.79,5,203.24,3861.55,3,5,High,0,4.3
+NM-10150,2023-03-29,3,Mar,Q1,Rivers,Jumia,Fashion,55+,Male,Young Professional,Mobile,Transfer,2-3 Days,40293.11,1,40293.11,0,0.0,40293.11,3,5,High,0,4.3
+NM-10151,2023-10-04,10,Oct,Q4,Anambra,Jumia,Fashion,35-44,Female,Student,Mobile,USSD,Standard (5-7 Days),14141.12,1,14141.12,0,0.0,14141.12,7,3,Medium,0,3.6
+NM-10152,2023-07-23,7,Jul,Q3,Borno,Konga,Fashion,25-34,Male,Retiree,Mobile,Transfer,Same Day,22779.67,3,68339.01,0,0.0,68339.01,1,5,High,0,3.8
+NM-10153,2023-10-11,10,Oct,Q4,Oyo,Jiji,Food & Grocery,55+,Female,Homemaker,Mobile,Transfer,Standard (5-7 Days),3402.63,1,3402.63,10,340.26,3062.37,6,2,Medium,0,4.0
+NM-10154,2023-04-19,4,Apr,Q2,Borno,PayPorte,Food & Grocery,55+,Male,Homemaker,Tablet,Transfer,Next Day,20594.6,1,20594.6,5,1029.73,19564.87,2,2,Low,1,3.2
+NM-10155,2023-10-18,10,Oct,Q4,Enugu,Konga,Sports & Fitness,18-24,Male,Retiree,Mobile,USSD,Standard (5-7 Days),48682.99,2,97365.98,25,24341.49,73024.49,6,4,High,0,4.2
+NM-10156,2023-06-19,6,Jun,Q2,Delta,Jumia,Health & Beauty,18-24,Female,Homemaker,Mobile,Cash on Delivery,Standard (5-7 Days),24941.7,1,24941.7,5,1247.09,23694.61,5,2,Low,1,4.8
+NM-10157,2023-07-28,7,Jul,Q3,Rivers,Jumia,Books & Education,18-24,Male,Young Professional,Mobile,USSD,Same Day,11502.75,2,23005.5,20,4601.1,18404.4,1,4,Medium,0,3.5
+NM-10158,2023-05-21,5,May,Q2,Rivers,Amazon Nigeria,Home & Living,45-54,Female,Business Owner,Mobile,Transfer,Same Day,47360.47,1,47360.47,5,2368.02,44992.45,1,5,Medium,0,4.2
+NM-10159,2023-04-20,4,Apr,Q2,Kaduna,Konga,Health & Beauty,18-24,Female,Homemaker,Mobile,Transfer,Same Day,30356.11,2,60712.22,10,6071.22,54641.0,1,2,Medium,1,4.3
+NM-10160,2023-06-04,6,Jun,Q2,Lagos,Jumia,Health & Beauty,25-34,Male,Retiree,Mobile,USSD,2-3 Days,24508.88,3,73526.64,5,3676.33,69850.31,2,5,High,0,3.9
+NM-10161,2023-11-30,11,Nov,Q4,Abuja,Konga,Sports & Fitness,35-44,Female,Young Professional,Mobile,USSD,2-3 Days,26708.12,1,26708.12,15,4006.22,22701.9,3,3,Low,0,3.9
+NM-10162,2023-12-18,12,Dec,Q4,Anambra,Konga,Electronics,25-34,Female,Business Owner,Mobile,Wallet,Next Day,194102.76,2,388205.52,20,77641.1,310564.42,2,5,Medium,0,3.8
+NM-10163,2023-08-04,8,Aug,Q3,Enugu,Shoprite Online,Food & Grocery,25-34,Female,Business Owner,Mobile,USSD,2-3 Days,20126.08,1,20126.08,0,0.0,20126.08,3,4,High,1,3.1
+NM-10164,2023-07-29,7,Jul,Q3,Rivers,Jiji,Automobile Parts,18-24,Male,Young Professional,Mobile,Wallet,Next Day,197540.79,3,592622.37,30,177786.71,414835.66,1,4,High,1,3.6
+NM-10165,2023-02-15,2,Feb,Q1,Lagos,Jumia,Health & Beauty,25-34,Female,Young Professional,Desktop,Card,Next Day,6705.69,1,6705.69,5,335.28,6370.41,2,1,Medium,1,4.2
+NM-10166,2023-10-29,10,Oct,Q4,Lagos,PayPorte,Home & Living,18-24,Male,Student,Mobile,Card,2-3 Days,40203.24,1,40203.24,0,0.0,40203.24,3,4,High,0,3.3
+NM-10167,2023-03-09,3,Mar,Q1,Delta,Konga,Home & Living,25-34,Female,Retiree,Tablet,Card,Same Day,29286.88,1,29286.88,10,2928.69,26358.19,1,5,High,0,3.6
+NM-10168,2023-08-31,8,Aug,Q3,Lagos,PayPorte,Electronics,25-34,Female,Retiree,Mobile,Transfer,Standard (5-7 Days),250125.85,1,250125.85,10,25012.58,225113.27,6,3,High,0,4.2
+NM-10169,2023-04-12,4,Apr,Q2,Kano,Konga,Fashion,18-24,Male,Young Professional,Mobile,Wallet,2-3 Days,28578.08,2,57156.16,15,8573.42,48582.74,3,4,High,1,4.1
+NM-10170,2023-02-08,2,Feb,Q1,Rivers,Jumia,Fashion,55+,Female,Business Owner,Desktop,Transfer,Next Day,33389.67,1,33389.67,0,0.0,33389.67,1,4,High,0,4.0
+NM-10171,2023-03-29,3,Mar,Q1,Kaduna,Konga,Fashion,45-54,Female,Business Owner,Desktop,Transfer,Same Day,16803.75,3,50411.25,25,12602.81,37808.44,1,5,High,1,4.0
+NM-10172,2023-09-05,9,Sep,Q3,Delta,Shoprite Online,Food & Grocery,18-24,Female,Retiree,Mobile,Transfer,Next Day,20452.09,2,40904.18,0,0.0,40904.18,2,1,Medium,0,4.8
+NM-10173,2023-10-23,10,Oct,Q4,Abuja,Amazon Nigeria,Books & Education,35-44,Female,Student,Mobile,Transfer,Same Day,11270.94,1,11270.94,25,2817.74,8453.2,1,5,High,0,3.8
+NM-10174,2023-02-08,2,Feb,Q1,Enugu,Amazon Nigeria,Electronics,45-54,Female,Retiree,Mobile,Transfer,Standard (5-7 Days),266729.05,1,266729.05,5,13336.45,253392.6,7,2,Low,0,4.6
+NM-10175,2023-10-13,10,Oct,Q4,Delta,Jumia,Books & Education,18-24,Male,Young Professional,Mobile,Cash on Delivery,Same Day,8912.83,3,26738.49,15,4010.77,22727.72,1,5,High,0,4.1
+NM-10176,2023-06-24,6,Jun,Q2,Enugu,Shoprite Online,Books & Education,35-44,Male,Student,Mobile,USSD,Same Day,6294.38,2,12588.76,15,1888.31,10700.45,1,5,High,0,3.8
+NM-10177,2023-06-23,6,Jun,Q2,Oyo,Jiji,Home & Living,25-34,Female,Business Owner,Desktop,Transfer,Next Day,17393.06,1,17393.06,20,3478.61,13914.45,1,5,Medium,0,4.1
+NM-10178,2023-03-07,3,Mar,Q1,Lagos,Jiji,Automobile Parts,35-44,Male,Retiree,Mobile,Wallet,Next Day,27882.36,2,55764.72,10,5576.47,50188.25,2,5,High,0,4.9
+NM-10179,2023-06-10,6,Jun,Q2,Oyo,Konga,Food & Grocery,45-54,Female,Homemaker,Mobile,Card,2-3 Days,18373.11,4,73492.44,10,7349.24,66143.2,2,4,High,0,4.8
+NM-10180,2023-12-30,12,Dec,Q4,Kano,Jiji,Sports & Fitness,35-44,Female,Homemaker,Desktop,Transfer,Standard (5-7 Days),35728.32,2,71456.64,15,10718.5,60738.14,5,3,Low,0,4.3
+NM-10181,2023-10-05,10,Oct,Q4,Rivers,Jumia,Food & Grocery,35-44,Male,Student,Mobile,USSD,Same Day,2743.05,3,8229.15,0,0.0,8229.15,1,5,High,0,4.0
+NM-10182,2023-08-15,8,Aug,Q3,Anambra,Instagram Shop,Sports & Fitness,35-44,Female,Homemaker,Mobile,Wallet,Next Day,67078.74,3,201236.22,15,30185.43,171050.79,2,5,Medium,0,3.4
+NM-10183,2023-05-11,5,May,Q2,Kano,Shoprite Online,Fashion,18-24,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,3237.1,1,3237.1,25,809.27,2427.83,2,4,High,0,3.6
+NM-10184,2023-10-06,10,Oct,Q4,Borno,Jiji,Fashion,35-44,Male,Homemaker,Mobile,USSD,Same Day,25555.51,1,25555.51,0,0.0,25555.51,1,5,High,0,5.0
+NM-10185,2023-06-14,6,Jun,Q2,Lagos,Jumia,Sports & Fitness,55+,Female,Retiree,Mobile,Cash on Delivery,Next Day,32984.32,2,65968.64,0,0.0,65968.64,2,5,High,0,3.6
+NM-10186,2023-11-19,11,Nov,Q4,Rivers,Konga,Fashion,35-44,Male,Young Professional,Mobile,Transfer,Same Day,35490.46,3,106471.38,5,5323.57,101147.81,1,5,High,0,3.6
+NM-10187,2023-10-22,10,Oct,Q4,Kano,Jumia,Sports & Fitness,35-44,Female,Young Professional,Mobile,Transfer,Next Day,66443.07,3,199329.21,5,9966.46,189362.75,2,3,Medium,0,4.4
+NM-10188,2023-11-07,11,Nov,Q4,Abuja,Shoprite Online,Electronics,25-34,Female,Young Professional,Mobile,Transfer,Same Day,43979.25,2,87958.5,5,4397.93,83560.57,1,4,High,0,4.7
+NM-10189,2023-03-05,3,Mar,Q1,Oyo,WhatsApp Commerce,Food & Grocery,35-44,Female,Young Professional,Mobile,USSD,Same Day,2960.78,2,5921.56,5,296.08,5625.48,1,5,High,0,4.3
+NM-10190,2023-10-18,10,Oct,Q4,Enugu,Jumia,Food & Grocery,18-24,Female,Retiree,Mobile,Card,Next Day,21601.78,3,64805.34,25,16201.33,48604.01,2,4,Medium,0,4.0
+NM-10191,2023-10-27,10,Oct,Q4,Rivers,Jumia,Fashion,35-44,Male,Retiree,Mobile,Card,2-3 Days,9400.59,2,18801.18,15,2820.18,15981.0,2,3,High,0,3.9
+NM-10192,2023-11-27,11,Nov,Q4,Kaduna,Jumia,Sports & Fitness,25-34,Male,Retiree,Mobile,Cash on Delivery,2-3 Days,50103.7,3,150311.1,20,30062.22,120248.88,2,4,High,1,4.3
+NM-10193,2023-07-20,7,Jul,Q3,Borno,Jiji,Home & Living,35-44,Male,Homemaker,Mobile,Transfer,Standard (5-7 Days),30680.26,2,61360.52,15,9204.08,52156.44,6,3,Low,0,3.0
+NM-10194,2023-03-16,3,Mar,Q1,Rivers,Amazon Nigeria,Food & Grocery,35-44,Female,Business Owner,Mobile,Wallet,Next Day,18926.16,1,18926.16,5,946.31,17979.85,1,3,Medium,0,3.4
+NM-10195,2023-05-21,5,May,Q2,Kaduna,Konga,Books & Education,35-44,Female,Student,Mobile,Transfer,Same Day,12770.78,1,12770.78,10,1277.08,11493.7,1,5,High,0,4.8
+NM-10196,2023-03-26,3,Mar,Q1,Rivers,Jiji,Sports & Fitness,25-34,Male,Business Owner,Mobile,USSD,Same Day,21479.3,1,21479.3,0,0.0,21479.3,1,5,Medium,0,4.6
+NM-10197,2023-10-21,10,Oct,Q4,Abuja,Konga,Books & Education,18-24,Male,Retiree,Mobile,Cash on Delivery,Standard (5-7 Days),9496.69,1,9496.69,10,949.67,8547.02,5,2,Medium,0,4.4
+NM-10198,2023-11-04,11,Nov,Q4,Oyo,Instagram Shop,Home & Living,18-24,Female,Student,Mobile,Cash on Delivery,Standard (5-7 Days),21411.9,2,42823.8,15,6423.57,36400.23,7,3,High,0,3.1
+NM-10199,2023-04-01,4,Apr,Q2,Anambra,Konga,Fashion,45-54,Female,Young Professional,Mobile,Transfer,Standard (5-7 Days),22986.51,2,45973.02,0,0.0,45973.02,6,3,High,0,4.7
+NM-10200,2023-07-15,7,Jul,Q3,Anambra,Jiji,Sports & Fitness,55+,Female,Business Owner,Mobile,Transfer,Next Day,30639.35,3,91918.05,20,18383.61,73534.44,1,4,High,0,4.2
+NM-10201,2023-04-16,4,Apr,Q2,Enugu,Konga,Home & Living,25-34,Male,Homemaker,Mobile,Transfer,Same Day,84093.17,1,84093.17,5,4204.66,79888.51,1,5,High,0,4.8
+NM-10202,2023-05-10,5,May,Q2,Anambra,Shoprite Online,Automobile Parts,25-34,Female,Retiree,Desktop,Wallet,Next Day,197793.59,2,395587.18,15,59338.08,336249.1,2,2,Medium,0,4.0
+NM-10203,2023-11-04,11,Nov,Q4,Kaduna,Shoprite Online,Electronics,45-54,Male,Business Owner,Mobile,Card,Same Day,160851.44,1,160851.44,0,0.0,160851.44,1,5,High,0,4.4
+NM-10204,2023-09-19,9,Sep,Q3,Borno,Jumia,Food & Grocery,18-24,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,13863.71,1,13863.71,0,0.0,13863.71,3,4,Medium,0,4.4
+NM-10205,2023-10-26,10,Oct,Q4,Anambra,Jiji,Electronics,35-44,Female,Business Owner,Desktop,Transfer,2-3 Days,131611.91,4,526447.64,0,0.0,526447.64,3,4,High,0,3.1
+NM-10206,2023-10-16,10,Oct,Q4,Oyo,Konga,Fashion,35-44,Female,Student,Tablet,Wallet,2-3 Days,23312.46,1,23312.46,5,1165.62,22146.84,3,5,Medium,0,3.8
+NM-10207,2023-12-11,12,Dec,Q4,Rivers,Shoprite Online,Automobile Parts,25-34,Male,Retiree,Mobile,USSD,2-3 Days,151767.32,1,151767.32,10,15176.73,136590.59,3,4,Medium,1,4.4
+NM-10208,2023-11-13,11,Nov,Q4,Rivers,Konga,Home & Living,25-34,Female,Business Owner,Desktop,Card,Next Day,45943.15,2,91886.3,0,0.0,91886.3,1,2,Medium,0,4.7
+NM-10209,2023-03-07,3,Mar,Q1,Borno,Amazon Nigeria,Books & Education,25-34,Female,Retiree,Tablet,Card,2-3 Days,2231.0,2,4462.0,5,223.1,4238.9,3,5,High,0,4.0
+NM-10210,2023-04-06,4,Apr,Q2,Kaduna,PayPorte,Electronics,25-34,Female,Business Owner,Mobile,Card,2-3 Days,198768.74,1,198768.74,5,9938.44,188830.3,3,4,High,0,4.7
+NM-10211,2023-07-15,7,Jul,Q3,Oyo,Konga,Food & Grocery,45-54,Female,Retiree,Mobile,Wallet,2-3 Days,6509.45,3,19528.35,15,2929.25,16599.1,2,4,High,0,3.9
+NM-10212,2023-11-19,11,Nov,Q4,Delta,Jumia,Electronics,25-34,Male,Retiree,Mobile,Cash on Delivery,Same Day,47261.13,2,94522.26,0,0.0,94522.26,1,2,Medium,0,4.3
+NM-10213,2023-02-10,2,Feb,Q1,Kano,WhatsApp Commerce,Health & Beauty,35-44,Male,Young Professional,Mobile,USSD,Standard (5-7 Days),14884.81,1,14884.81,10,1488.48,13396.33,7,4,High,0,4.7
+NM-10214,2023-08-16,8,Aug,Q3,Abuja,Jumia,Sports & Fitness,35-44,Male,Retiree,Mobile,Card,2-3 Days,63354.03,4,253416.12,15,38012.42,215403.7,3,3,Low,0,4.7
+NM-10215,2023-02-12,2,Feb,Q1,Abuja,Jumia,Automobile Parts,18-24,Male,Young Professional,Mobile,Transfer,Same Day,27954.25,2,55908.5,0,0.0,55908.5,1,4,High,0,3.5
+NM-10216,2023-12-24,12,Dec,Q4,Kaduna,Amazon Nigeria,Sports & Fitness,25-34,Male,Business Owner,Mobile,Cash on Delivery,2-3 Days,44985.86,2,89971.72,5,4498.59,85473.13,3,4,Medium,0,3.8
+NM-10217,2023-12-19,12,Dec,Q4,Kano,Jumia,Electronics,25-34,Female,Homemaker,Desktop,Wallet,2-3 Days,323899.61,4,1295598.44,5,64779.92,1230818.52,3,4,High,0,4.1
+NM-10218,2023-11-10,11,Nov,Q4,Rivers,Jumia,Automobile Parts,35-44,Female,Homemaker,Mobile,Cash on Delivery,Standard (5-7 Days),163054.39,2,326108.78,0,0.0,326108.78,5,4,Medium,0,3.9
+NM-10219,2023-05-18,5,May,Q2,Borno,Konga,Sports & Fitness,18-24,Male,Young Professional,Mobile,Transfer,Same Day,13502.98,1,13502.98,0,0.0,13502.98,1,5,High,0,4.1
+NM-10220,2023-05-09,5,May,Q2,Lagos,Konga,Food & Grocery,25-34,Male,Homemaker,Mobile,Transfer,Same Day,20796.77,3,62390.31,0,0.0,62390.31,1,4,Medium,0,4.4
+NM-10221,2023-04-12,4,Apr,Q2,Rivers,Konga,Health & Beauty,25-34,Female,Young Professional,Mobile,USSD,Same Day,14213.87,1,14213.87,10,1421.39,12792.48,1,5,High,0,3.8
+NM-10222,2023-11-13,11,Nov,Q4,Lagos,Jiji,Books & Education,18-24,Male,Student,Mobile,Wallet,Next Day,6068.7,4,24274.8,15,3641.22,20633.58,1,5,High,0,3.5
+NM-10223,2023-01-21,1,Jan,Q1,Enugu,Shoprite Online,Sports & Fitness,25-34,Male,Retiree,Desktop,Cash on Delivery,Standard (5-7 Days),40882.96,1,40882.96,0,0.0,40882.96,7,2,Medium,1,4.8
+NM-10224,2023-09-17,9,Sep,Q3,Enugu,Jumia,Food & Grocery,25-34,Female,Business Owner,Mobile,Cash on Delivery,2-3 Days,10718.0,1,10718.0,0,0.0,10718.0,2,4,High,0,4.1
+NM-10225,2023-01-23,1,Jan,Q1,Enugu,Jumia,Health & Beauty,18-24,Female,Homemaker,Mobile,USSD,Same Day,29643.78,1,29643.78,20,5928.76,23715.02,1,4,High,0,4.3
+NM-10226,2023-09-09,9,Sep,Q3,Borno,Jumia,Sports & Fitness,55+,Male,Homemaker,Mobile,Card,Same Day,74558.68,3,223676.04,5,11183.8,212492.24,1,5,High,0,4.3
+NM-10227,2023-07-17,7,Jul,Q3,Enugu,Jumia,Fashion,18-24,Male,Young Professional,Mobile,USSD,Same Day,10957.34,1,10957.34,0,0.0,10957.34,1,3,High,0,4.4
+NM-10228,2023-06-30,6,Jun,Q2,Abuja,Jumia,Food & Grocery,25-34,Female,Retiree,Mobile,Wallet,Next Day,22757.15,2,45514.3,30,13654.29,31860.01,2,4,High,0,4.5
+NM-10229,2023-09-23,9,Sep,Q3,Oyo,Konga,Books & Education,55+,Female,Young Professional,Tablet,Cash on Delivery,Same Day,3323.66,3,9970.98,0,0.0,9970.98,1,2,Low,0,4.7
+NM-10230,2023-05-12,5,May,Q2,Kano,Jumia,Books & Education,45-54,Male,Business Owner,Mobile,USSD,2-3 Days,12449.5,1,12449.5,5,622.48,11827.02,2,3,Medium,0,4.4
+NM-10231,2023-06-21,6,Jun,Q2,Abuja,Jiji,Health & Beauty,18-24,Male,Business Owner,Desktop,Transfer,Standard (5-7 Days),13807.73,3,41423.19,5,2071.16,39352.03,7,3,High,0,4.6
+NM-10232,2023-01-26,1,Jan,Q1,Anambra,Jumia,Electronics,25-34,Male,Young Professional,Mobile,USSD,2-3 Days,240667.81,5,1203339.05,25,300834.76,902504.29,2,3,Medium,0,4.2
+NM-10233,2023-04-12,4,Apr,Q2,Lagos,Jiji,Health & Beauty,35-44,Female,Business Owner,Mobile,Transfer,Next Day,18355.49,2,36710.98,0,0.0,36710.98,1,4,High,0,3.2
+NM-10234,2023-06-29,6,Jun,Q2,Anambra,Konga,Sports & Fitness,35-44,Male,Business Owner,Mobile,Card,Same Day,50832.8,5,254164.0,5,12708.2,241455.8,1,5,High,0,3.6
+NM-10235,2023-04-18,4,Apr,Q2,Lagos,Jumia,Food & Grocery,25-34,Male,Student,Mobile,USSD,2-3 Days,19020.3,1,19020.3,10,1902.03,17118.27,3,4,High,0,4.4
+NM-10236,2023-01-05,1,Jan,Q1,Lagos,Jumia,Electronics,18-24,Female,Retiree,Mobile,USSD,2-3 Days,37310.26,2,74620.52,10,7462.05,67158.47,2,3,High,0,4.2
+NM-10237,2023-12-31,12,Dec,Q4,Abuja,Instagram Shop,Books & Education,25-34,Male,Homemaker,Mobile,Wallet,Next Day,1790.09,1,1790.09,10,179.01,1611.08,2,4,High,0,3.6
+NM-10238,2023-07-21,7,Jul,Q3,Enugu,Jumia,Electronics,25-34,Male,Young Professional,Desktop,USSD,2-3 Days,235072.14,1,235072.14,5,11753.61,223318.53,3,4,High,0,3.7
+NM-10239,2023-03-16,3,Mar,Q1,Kano,Jiji,Home & Living,25-34,Female,Retiree,Mobile,Card,Next Day,80466.65,2,160933.3,0,0.0,160933.3,1,4,High,0,4.8
+NM-10240,2023-04-05,4,Apr,Q2,Anambra,WhatsApp Commerce,Health & Beauty,35-44,Male,Young Professional,Desktop,Cash on Delivery,Next Day,3351.44,5,16757.2,10,1675.72,15081.48,1,5,High,0,4.0
+NM-10241,2023-01-17,1,Jan,Q1,Borno,Konga,Sports & Fitness,18-24,Male,Young Professional,Desktop,Card,Standard (5-7 Days),35052.78,4,140211.12,20,28042.22,112168.9,7,3,Medium,0,4.7
+NM-10242,2023-07-14,7,Jul,Q3,Delta,Amazon Nigeria,Books & Education,25-34,Male,Young Professional,Desktop,USSD,Standard (5-7 Days),11222.71,1,11222.71,25,2805.68,8417.03,6,3,High,0,3.5
+NM-10243,2023-06-05,6,Jun,Q2,Enugu,Konga,Electronics,25-34,Male,Business Owner,Mobile,Wallet,Next Day,274181.8,1,274181.8,0,0.0,274181.8,2,4,High,0,3.6
+NM-10244,2023-12-31,12,Dec,Q4,Borno,Instagram Shop,Food & Grocery,18-24,Female,Student,Mobile,Cash on Delivery,Same Day,22603.28,3,67809.84,0,0.0,67809.84,1,5,High,0,3.2
+NM-10245,2023-12-04,12,Dec,Q4,Anambra,PayPorte,Food & Grocery,45-54,Female,Student,Mobile,Cash on Delivery,Next Day,21841.47,1,21841.47,0,0.0,21841.47,1,4,High,0,3.2
+NM-10246,2023-01-03,1,Jan,Q1,Kano,WhatsApp Commerce,Electronics,25-34,Female,Retiree,Desktop,Wallet,Standard (5-7 Days),218674.62,1,218674.62,0,0.0,218674.62,6,3,High,0,4.8
+NM-10247,2023-12-08,12,Dec,Q4,Oyo,Jiji,Home & Living,18-24,Female,Young Professional,Mobile,Transfer,2-3 Days,71480.66,2,142961.32,5,7148.07,135813.25,2,4,High,0,4.4
+NM-10248,2023-07-08,7,Jul,Q3,Borno,Jiji,Food & Grocery,18-24,Male,Business Owner,Desktop,Cash on Delivery,Same Day,22643.18,3,67929.54,15,10189.43,57740.11,1,3,High,0,4.1
+NM-10249,2023-12-28,12,Dec,Q4,Enugu,Jumia,Home & Living,25-34,Female,Homemaker,Mobile,Wallet,Same Day,38026.54,2,76053.08,5,3802.65,72250.43,1,5,High,0,4.3
+NM-10250,2023-07-31,7,Jul,Q3,Oyo,WhatsApp Commerce,Electronics,35-44,Female,Young Professional,Mobile,Transfer,Next Day,30239.88,1,30239.88,15,4535.98,25703.9,1,4,High,0,4.0
+NM-10251,2023-06-23,6,Jun,Q2,Kaduna,Shoprite Online,Fashion,45-54,Male,Business Owner,Mobile,USSD,Same Day,41735.75,1,41735.75,5,2086.79,39648.96,1,4,High,1,3.9
+NM-10252,2023-07-01,7,Jul,Q3,Anambra,Instagram Shop,Electronics,25-34,Female,Homemaker,Mobile,Wallet,Same Day,37181.37,1,37181.37,15,5577.21,31604.16,1,5,High,0,3.2
+NM-10253,2023-06-04,6,Jun,Q2,Oyo,PayPorte,Sports & Fitness,45-54,Male,Young Professional,Mobile,Transfer,Standard (5-7 Days),20426.63,1,20426.63,0,0.0,20426.63,5,3,Low,0,4.0
+NM-10254,2023-09-22,9,Sep,Q3,Rivers,Konga,Books & Education,35-44,Male,Retiree,Mobile,Wallet,Next Day,10635.68,1,10635.68,15,1595.35,9040.33,2,5,High,0,4.6
+NM-10255,2023-04-18,4,Apr,Q2,Kaduna,Konga,Electronics,35-44,Male,Homemaker,Mobile,Transfer,Same Day,122494.92,1,122494.92,0,0.0,122494.92,1,3,Low,0,4.3
+NM-10256,2023-06-09,6,Jun,Q2,Enugu,Jumia,Sports & Fitness,35-44,Male,Young Professional,Mobile,Wallet,2-3 Days,50607.98,1,50607.98,5,2530.4,48077.58,2,5,High,0,4.4
+NM-10257,2023-10-01,10,Oct,Q4,Borno,Jiji,Books & Education,35-44,Female,Retiree,Mobile,Wallet,Next Day,2560.37,4,10241.48,15,1536.22,8705.26,1,5,High,0,3.9
+NM-10258,2023-06-19,6,Jun,Q2,Rivers,Instagram Shop,Food & Grocery,18-24,Female,Business Owner,Mobile,Wallet,Standard (5-7 Days),20141.91,3,60425.73,5,3021.29,57404.44,6,1,Medium,0,4.1
+NM-10259,2023-07-31,7,Jul,Q3,Enugu,Jumia,Fashion,25-34,Male,Young Professional,Mobile,USSD,2-3 Days,13020.16,1,13020.16,0,0.0,13020.16,3,3,High,0,4.1
+NM-10260,2023-06-16,6,Jun,Q2,Kaduna,Jiji,Home & Living,18-24,Female,Student,Mobile,Card,Standard (5-7 Days),68835.09,3,206505.27,0,0.0,206505.27,7,1,Medium,0,4.3
+NM-10261,2023-05-30,5,May,Q2,Abuja,Jumia,Food & Grocery,35-44,Male,Student,Desktop,Wallet,Next Day,10969.6,2,21939.2,0,0.0,21939.2,2,5,High,1,4.7
+NM-10262,2023-01-01,1,Jan,Q1,Abuja,Jiji,Automobile Parts,45-54,Female,Young Professional,Desktop,Card,2-3 Days,143043.99,3,429131.97,5,21456.6,407675.37,2,4,High,0,3.8
+NM-10263,2023-08-02,8,Aug,Q3,Anambra,Jiji,Food & Grocery,45-54,Male,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),5548.15,5,27740.75,10,2774.07,24966.68,5,3,Low,1,4.3
+NM-10264,2023-08-06,8,Aug,Q3,Kano,Jumia,Automobile Parts,35-44,Male,Young Professional,Desktop,Cash on Delivery,Standard (5-7 Days),113993.61,1,113993.61,5,5699.68,108293.93,7,1,Medium,0,4.2
+NM-10265,2023-05-24,5,May,Q2,Lagos,WhatsApp Commerce,Books & Education,18-24,Female,Business Owner,Mobile,USSD,Same Day,7776.64,1,7776.64,20,1555.33,6221.31,1,5,High,0,4.1
+NM-10266,2023-10-21,10,Oct,Q4,Borno,Jumia,Electronics,25-34,Female,Student,Mobile,USSD,Standard (5-7 Days),260827.87,1,260827.87,25,65206.97,195620.9,5,1,Medium,0,4.1
+NM-10267,2023-05-23,5,May,Q2,Kano,Jiji,Health & Beauty,18-24,Male,Business Owner,Mobile,Wallet,Same Day,10691.66,2,21383.32,0,0.0,21383.32,1,3,Low,0,3.3
+NM-10268,2023-01-17,1,Jan,Q1,Delta,Konga,Food & Grocery,18-24,Female,Retiree,Desktop,USSD,Standard (5-7 Days),9885.5,1,9885.5,0,0.0,9885.5,6,4,High,0,4.5
+NM-10269,2023-09-30,9,Sep,Q3,Kaduna,Jumia,Health & Beauty,25-34,Male,Retiree,Mobile,Transfer,Standard (5-7 Days),10093.99,2,20187.98,5,1009.4,19178.58,7,4,High,0,4.8
+NM-10270,2023-05-11,5,May,Q2,Lagos,Jumia,Sports & Fitness,25-34,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,53730.09,1,53730.09,15,8059.51,45670.58,2,3,High,0,4.4
+NM-10271,2023-04-09,4,Apr,Q2,Abuja,Jumia,Fashion,25-34,Male,Retiree,Mobile,Wallet,2-3 Days,4429.75,2,8859.5,0,0.0,8859.5,2,5,High,0,4.3
+NM-10272,2023-08-07,8,Aug,Q3,Kano,Amazon Nigeria,Food & Grocery,55+,Male,Student,Mobile,USSD,Standard (5-7 Days),17921.09,2,35842.18,15,5376.33,30465.85,5,2,Low,0,4.6
+NM-10273,2023-08-09,8,Aug,Q3,Kano,Konga,Books & Education,18-24,Female,Student,Mobile,Card,Standard (5-7 Days),4448.22,2,8896.44,20,1779.29,7117.15,5,1,Low,1,4.3
+NM-10274,2023-09-09,9,Sep,Q3,Lagos,PayPorte,Health & Beauty,25-34,Female,Retiree,Mobile,Card,Same Day,18039.53,1,18039.53,15,2705.93,15333.6,1,5,High,0,4.1
+NM-10275,2023-02-11,2,Feb,Q1,Kaduna,Konga,Health & Beauty,25-34,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,29838.4,2,59676.8,0,0.0,59676.8,2,1,Low,1,4.0
+NM-10276,2023-09-08,9,Sep,Q3,Abuja,Amazon Nigeria,Books & Education,35-44,Female,Homemaker,Mobile,Card,Same Day,6748.36,2,13496.72,10,1349.67,12147.05,1,2,Medium,0,4.6
+NM-10277,2023-01-10,1,Jan,Q1,Enugu,Konga,Food & Grocery,35-44,Female,Young Professional,Mobile,Wallet,Same Day,12838.05,3,38514.15,0,0.0,38514.15,1,5,High,0,4.6
+NM-10278,2023-06-22,6,Jun,Q2,Abuja,Shoprite Online,Fashion,18-24,Male,Homemaker,Mobile,Transfer,Next Day,37083.88,5,185419.4,10,18541.94,166877.46,2,4,High,0,4.5
+NM-10279,2023-08-13,8,Aug,Q3,Borno,Jumia,Fashion,35-44,Female,Student,Mobile,Transfer,Next Day,13233.07,2,26466.14,0,0.0,26466.14,2,5,Medium,1,4.3
+NM-10280,2023-11-09,11,Nov,Q4,Oyo,Konga,Books & Education,25-34,Female,Young Professional,Mobile,Card,Standard (5-7 Days),10837.59,2,21675.18,15,3251.28,18423.9,6,3,High,0,4.8
+NM-10281,2023-03-18,3,Mar,Q1,Borno,Konga,Home & Living,18-24,Male,Homemaker,Desktop,Cash on Delivery,2-3 Days,83803.03,4,335212.12,5,16760.61,318451.51,2,5,High,0,4.3
+NM-10282,2023-05-01,5,May,Q2,Delta,Jumia,Electronics,25-34,Male,Homemaker,Mobile,Wallet,Standard (5-7 Days),256670.03,2,513340.06,5,25667.0,487673.06,5,4,Medium,0,4.0
+NM-10283,2023-07-18,7,Jul,Q3,Rivers,Jumia,Books & Education,55+,Male,Student,Desktop,Transfer,Next Day,6542.05,1,6542.05,0,0.0,6542.05,2,3,Low,0,3.6
+NM-10284,2023-11-10,11,Nov,Q4,Delta,Konga,Food & Grocery,35-44,Female,Business Owner,Mobile,USSD,Next Day,22828.3,2,45656.6,10,4565.66,41090.94,1,5,High,0,3.9
+NM-10285,2023-03-18,3,Mar,Q1,Anambra,Shoprite Online,Home & Living,45-54,Female,Business Owner,Mobile,Card,Next Day,110081.79,3,330245.37,5,16512.27,313733.1,1,5,High,0,4.6
+NM-10286,2023-06-01,6,Jun,Q2,Abuja,Konga,Home & Living,55+,Male,Student,Mobile,Transfer,Standard (5-7 Days),32492.18,5,162460.9,0,0.0,162460.9,7,3,High,0,4.1
+NM-10287,2023-11-18,11,Nov,Q4,Kano,Amazon Nigeria,Automobile Parts,35-44,Male,Retiree,Desktop,Card,Standard (5-7 Days),21574.13,3,64722.39,5,3236.12,61486.27,6,4,High,0,3.4
+NM-10288,2023-11-13,11,Nov,Q4,Abuja,Jiji,Sports & Fitness,18-24,Male,Business Owner,Mobile,Transfer,Same Day,7106.45,1,7106.45,10,710.64,6395.81,1,5,Medium,0,4.9
+NM-10289,2023-06-26,6,Jun,Q2,Borno,Amazon Nigeria,Home & Living,25-34,Male,Homemaker,Mobile,Card,Standard (5-7 Days),57027.22,1,57027.22,15,8554.08,48473.14,6,3,High,1,4.6
+NM-10290,2023-03-26,3,Mar,Q1,Abuja,Jumia,Books & Education,55+,Male,Young Professional,Mobile,Transfer,2-3 Days,5225.23,2,10450.46,5,522.52,9927.94,2,4,High,0,4.5
+NM-10291,2023-11-27,11,Nov,Q4,Lagos,Jumia,Fashion,25-34,Male,Young Professional,Desktop,Transfer,2-3 Days,36046.62,1,36046.62,10,3604.66,32441.96,3,4,High,0,4.0
+NM-10292,2023-10-02,10,Oct,Q4,Oyo,Shoprite Online,Electronics,35-44,Male,Student,Mobile,Card,Next Day,110557.61,5,552788.05,15,82918.21,469869.84,1,3,High,0,3.9
+NM-10293,2023-10-01,10,Oct,Q4,Kaduna,Jumia,Electronics,25-34,Female,Homemaker,Tablet,USSD,2-3 Days,116022.52,4,464090.08,5,23204.5,440885.58,2,5,High,0,4.3
+NM-10294,2023-09-03,9,Sep,Q3,Oyo,Konga,Health & Beauty,25-34,Male,Business Owner,Mobile,Wallet,Standard (5-7 Days),31755.67,1,31755.67,10,3175.57,28580.1,6,3,Medium,0,4.3
+NM-10295,2023-09-20,9,Sep,Q3,Rivers,Jiji,Home & Living,35-44,Female,Student,Mobile,USSD,Standard (5-7 Days),50358.72,1,50358.72,10,5035.87,45322.85,6,1,Low,0,3.7
+NM-10296,2023-08-06,8,Aug,Q3,Delta,Amazon Nigeria,Fashion,45-54,Male,Student,Desktop,Card,Standard (5-7 Days),33601.43,1,33601.43,15,5040.21,28561.22,5,2,Low,1,4.2
+NM-10297,2023-03-12,3,Mar,Q1,Anambra,Jumia,Automobile Parts,35-44,Female,Young Professional,Mobile,USSD,Standard (5-7 Days),46257.45,3,138772.35,0,0.0,138772.35,6,4,High,0,3.5
+NM-10298,2023-11-27,11,Nov,Q4,Oyo,Jumia,Books & Education,18-24,Female,Retiree,Mobile,Transfer,Standard (5-7 Days),4804.13,1,4804.13,0,0.0,4804.13,7,3,Medium,0,4.8
+NM-10299,2023-03-11,3,Mar,Q1,Abuja,Konga,Electronics,25-34,Female,Student,Mobile,USSD,Next Day,134724.13,1,134724.13,5,6736.21,127987.92,2,3,High,0,4.3
+NM-10300,2023-07-05,7,Jul,Q3,Abuja,Jiji,Food & Grocery,25-34,Female,Student,Mobile,Wallet,2-3 Days,4204.17,2,8408.34,15,1261.25,7147.09,2,3,High,0,4.8
+NM-10301,2023-03-01,3,Mar,Q1,Kano,Jumia,Food & Grocery,25-34,Female,Student,Mobile,Wallet,Same Day,20833.43,4,83333.72,5,4166.69,79167.03,1,5,High,0,4.4
+NM-10302,2023-02-10,2,Feb,Q1,Lagos,Shoprite Online,Fashion,25-34,Male,Retiree,Mobile,Card,Next Day,20841.81,2,41683.62,0,0.0,41683.62,1,2,Medium,0,3.2
+NM-10303,2023-12-10,12,Dec,Q4,Oyo,Jumia,Health & Beauty,35-44,Male,Young Professional,Desktop,Transfer,Next Day,13924.84,1,13924.84,15,2088.73,11836.11,2,3,Medium,0,4.2
+NM-10304,2023-01-03,1,Jan,Q1,Abuja,Shoprite Online,Electronics,18-24,Female,Young Professional,Mobile,Wallet,2-3 Days,341149.27,1,341149.27,0,0.0,341149.27,3,4,High,0,3.7
+NM-10305,2023-09-11,9,Sep,Q3,Anambra,Konga,Home & Living,25-34,Female,Business Owner,Mobile,Cash on Delivery,Same Day,92661.47,2,185322.94,10,18532.29,166790.65,1,5,High,0,4.6
+NM-10306,2023-01-07,1,Jan,Q1,Rivers,Jiji,Health & Beauty,55+,Male,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),34958.51,1,34958.51,0,0.0,34958.51,5,1,Low,1,5.0
+NM-10307,2023-09-13,9,Sep,Q3,Abuja,Konga,Home & Living,25-34,Male,Retiree,Mobile,USSD,Same Day,37029.61,2,74059.22,10,7405.92,66653.3,1,5,High,0,4.5
+NM-10308,2023-02-04,2,Feb,Q1,Abuja,Jumia,Books & Education,18-24,Male,Retiree,Mobile,Cash on Delivery,Same Day,8224.82,1,8224.82,0,0.0,8224.82,1,5,Medium,0,4.5
+NM-10309,2023-01-10,1,Jan,Q1,Rivers,Jumia,Books & Education,45-54,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,14359.84,1,14359.84,5,717.99,13641.85,3,3,Medium,0,4.2
+NM-10310,2023-12-12,12,Dec,Q4,Oyo,Amazon Nigeria,Food & Grocery,25-34,Male,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),13282.74,2,26565.48,10,2656.55,23908.93,7,4,High,0,4.9
+NM-10311,2023-10-26,10,Oct,Q4,Borno,PayPorte,Health & Beauty,18-24,Male,Young Professional,Mobile,USSD,Same Day,3374.24,3,10122.72,5,506.14,9616.58,1,5,Medium,0,3.5
+NM-10312,2023-12-03,12,Dec,Q4,Oyo,Jiji,Fashion,25-34,Male,Business Owner,Mobile,USSD,Same Day,39261.48,2,78522.96,20,15704.59,62818.37,1,5,High,0,3.6
+NM-10313,2023-08-12,8,Aug,Q3,Abuja,Shoprite Online,Fashion,18-24,Male,Homemaker,Mobile,Card,2-3 Days,11473.86,2,22947.72,25,5736.93,17210.79,2,3,Medium,0,4.6
+NM-10314,2023-09-01,9,Sep,Q3,Borno,Shoprite Online,Fashion,18-24,Female,Student,Mobile,Wallet,2-3 Days,20938.45,1,20938.45,0,0.0,20938.45,3,4,High,0,4.0
+NM-10315,2023-08-28,8,Aug,Q3,Enugu,Jumia,Electronics,25-34,Female,Student,Desktop,Wallet,Standard (5-7 Days),104758.54,2,209517.08,15,31427.56,178089.52,7,2,Low,1,4.0
+NM-10316,2023-05-03,5,May,Q2,Abuja,Jiji,Automobile Parts,35-44,Male,Retiree,Desktop,USSD,2-3 Days,29803.25,1,29803.25,0,0.0,29803.25,3,4,High,0,3.3
+NM-10317,2023-02-12,2,Feb,Q1,Kano,Jumia,Health & Beauty,35-44,Male,Young Professional,Mobile,Wallet,Standard (5-7 Days),12701.91,1,12701.91,0,0.0,12701.91,7,3,Low,1,3.7
+NM-10318,2023-11-04,11,Nov,Q4,Abuja,Jiji,Fashion,25-34,Male,Homemaker,Mobile,Wallet,2-3 Days,8135.63,3,24406.89,5,1220.34,23186.55,2,3,Low,0,3.5
+NM-10319,2023-05-07,5,May,Q2,Anambra,Jumia,Electronics,25-34,Male,Student,Mobile,Cash on Delivery,2-3 Days,337710.64,3,1013131.92,25,253282.98,759848.94,3,4,High,1,4.5
+NM-10320,2023-10-01,10,Oct,Q4,Lagos,PayPorte,Home & Living,45-54,Female,Student,Mobile,USSD,2-3 Days,104699.59,3,314098.77,5,15704.94,298393.83,3,2,Low,1,4.8
+NM-10321,2023-06-20,6,Jun,Q2,Kaduna,Amazon Nigeria,Automobile Parts,25-34,Male,Homemaker,Mobile,Transfer,Standard (5-7 Days),145738.12,3,437214.36,15,65582.15,371632.21,7,1,Medium,0,4.4
+NM-10322,2023-06-10,6,Jun,Q2,Lagos,Jiji,Food & Grocery,25-34,Female,Student,Desktop,Cash on Delivery,Same Day,15243.61,1,15243.61,0,0.0,15243.61,1,5,Medium,0,4.2
+NM-10323,2023-10-20,10,Oct,Q4,Kaduna,Shoprite Online,Home & Living,45-54,Female,Retiree,Mobile,Transfer,Standard (5-7 Days),30816.02,4,123264.08,20,24652.82,98611.26,6,2,Low,0,3.5
+NM-10324,2023-12-11,12,Dec,Q4,Abuja,Instagram Shop,Food & Grocery,35-44,Female,Young Professional,Mobile,Wallet,Standard (5-7 Days),13365.43,1,13365.43,0,0.0,13365.43,7,3,Low,0,4.2
+NM-10325,2023-11-13,11,Nov,Q4,Oyo,PayPorte,Home & Living,25-34,Male,Homemaker,Mobile,Cash on Delivery,Same Day,56862.32,1,56862.32,10,5686.23,51176.09,1,5,High,0,3.4
+NM-10326,2023-07-01,7,Jul,Q3,Anambra,PayPorte,Health & Beauty,25-34,Male,Homemaker,Mobile,Transfer,Same Day,34894.03,4,139576.12,25,34894.03,104682.09,1,5,High,0,3.3
+NM-10327,2023-06-12,6,Jun,Q2,Enugu,Jumia,Food & Grocery,45-54,Male,Student,Mobile,USSD,2-3 Days,18335.88,1,18335.88,0,0.0,18335.88,2,4,Medium,0,4.7
+NM-10328,2023-03-19,3,Mar,Q1,Oyo,Jiji,Health & Beauty,35-44,Female,Business Owner,Mobile,Wallet,2-3 Days,20559.43,4,82237.72,10,8223.77,74013.95,2,2,Low,1,3.9
+NM-10329,2023-03-05,3,Mar,Q1,Delta,Jumia,Sports & Fitness,45-54,Female,Homemaker,Mobile,Wallet,Same Day,30569.93,1,30569.93,0,0.0,30569.93,1,5,High,1,4.2
+NM-10330,2023-03-04,3,Mar,Q1,Anambra,Instagram Shop,Home & Living,25-34,Female,Business Owner,Mobile,Cash on Delivery,Same Day,50329.53,2,100659.06,25,25164.76,75494.3,1,3,High,0,3.9
+NM-10331,2023-10-19,10,Oct,Q4,Oyo,Jiji,Electronics,25-34,Female,Homemaker,Tablet,USSD,Standard (5-7 Days),58322.27,3,174966.81,15,26245.02,148721.79,5,3,Medium,0,3.2
+NM-10332,2023-11-28,11,Nov,Q4,Oyo,Jumia,Automobile Parts,25-34,Male,Student,Mobile,Transfer,Next Day,152491.24,2,304982.48,0,0.0,304982.48,2,5,High,0,4.6
+NM-10333,2023-07-08,7,Jul,Q3,Enugu,Jumia,Books & Education,18-24,Male,Homemaker,Mobile,Cash on Delivery,Standard (5-7 Days),9787.22,1,9787.22,5,489.36,9297.86,6,3,High,0,4.2
+NM-10334,2023-06-03,6,Jun,Q2,Enugu,Jumia,Books & Education,18-24,Male,Student,Mobile,Cash on Delivery,2-3 Days,12860.76,1,12860.76,0,0.0,12860.76,2,4,High,0,4.6
+NM-10335,2023-01-24,1,Jan,Q1,Kaduna,Jumia,Fashion,35-44,Female,Homemaker,Mobile,Wallet,Next Day,6498.2,3,19494.6,0,0.0,19494.6,2,5,High,0,3.6
+NM-10336,2023-09-02,9,Sep,Q3,Borno,Jumia,Fashion,18-24,Male,Homemaker,Mobile,Cash on Delivery,Standard (5-7 Days),22326.85,1,22326.85,10,2232.68,20094.17,7,4,High,1,4.5
+NM-10337,2023-11-29,11,Nov,Q4,Abuja,Jumia,Electronics,45-54,Male,Young Professional,Mobile,Card,Next Day,63626.65,1,63626.65,15,9544.0,54082.65,1,5,High,0,4.5
+NM-10338,2023-07-20,7,Jul,Q3,Delta,WhatsApp Commerce,Books & Education,25-34,Female,Homemaker,Desktop,Transfer,Next Day,2187.45,1,2187.45,10,218.75,1968.7,2,4,High,0,4.0
+NM-10339,2023-02-02,2,Feb,Q1,Delta,Jiji,Books & Education,25-34,Male,Business Owner,Mobile,Card,Same Day,5115.96,2,10231.92,20,2046.38,8185.54,1,5,High,0,3.6
+NM-10340,2023-12-03,12,Dec,Q4,Rivers,Konga,Books & Education,55+,Female,Young Professional,Mobile,Card,2-3 Days,7824.31,3,23472.93,15,3520.94,19951.99,3,4,High,1,3.8
+NM-10341,2023-09-10,9,Sep,Q3,Abuja,PayPorte,Food & Grocery,18-24,Male,Retiree,Mobile,Card,Standard (5-7 Days),8983.99,1,8983.99,0,0.0,8983.99,6,3,Low,0,4.8
+NM-10342,2023-06-24,6,Jun,Q2,Lagos,Shoprite Online,Sports & Fitness,35-44,Female,Business Owner,Mobile,Cash on Delivery,Same Day,63651.32,2,127302.64,15,19095.4,108207.24,1,5,Medium,0,4.9
+NM-10343,2023-02-23,2,Feb,Q1,Delta,WhatsApp Commerce,Fashion,45-54,Male,Student,Desktop,Transfer,Same Day,10015.94,1,10015.94,0,0.0,10015.94,1,4,High,0,3.2
+NM-10344,2023-08-31,8,Aug,Q3,Kaduna,Konga,Food & Grocery,35-44,Male,Student,Desktop,Transfer,Standard (5-7 Days),9850.36,1,9850.36,0,0.0,9850.36,6,3,Medium,0,4.5
+NM-10345,2023-01-06,1,Jan,Q1,Kano,Shoprite Online,Automobile Parts,55+,Male,Retiree,Desktop,Cash on Delivery,2-3 Days,145784.14,1,145784.14,0,0.0,145784.14,3,5,Medium,0,4.3
+NM-10346,2023-06-05,6,Jun,Q2,Kano,Instagram Shop,Electronics,45-54,Female,Business Owner,Tablet,Wallet,Standard (5-7 Days),256719.6,1,256719.6,5,12835.98,243883.62,7,3,High,1,4.2
+NM-10347,2023-03-06,3,Mar,Q1,Borno,PayPorte,Sports & Fitness,18-24,Male,Young Professional,Desktop,Cash on Delivery,Same Day,43555.7,1,43555.7,0,0.0,43555.7,1,4,High,0,3.5
+NM-10348,2023-03-05,3,Mar,Q1,Oyo,PayPorte,Fashion,18-24,Female,Homemaker,Desktop,Transfer,2-3 Days,21846.95,2,43693.9,0,0.0,43693.9,2,5,High,0,4.1
+NM-10349,2023-05-07,5,May,Q2,Borno,Jumia,Health & Beauty,35-44,Female,Young Professional,Mobile,USSD,Next Day,5919.87,1,5919.87,0,0.0,5919.87,2,2,Low,0,3.8
+NM-10350,2023-08-14,8,Aug,Q3,Abuja,Konga,Automobile Parts,35-44,Female,Young Professional,Mobile,Wallet,2-3 Days,140291.43,4,561165.72,15,84174.86,476990.86,2,4,High,1,4.2
+NM-10351,2023-03-03,3,Mar,Q1,Rivers,Konga,Electronics,35-44,Male,Business Owner,Tablet,Card,Same Day,138811.3,1,138811.3,10,13881.13,124930.17,1,5,High,0,4.3
+NM-10352,2023-01-23,1,Jan,Q1,Lagos,Instagram Shop,Health & Beauty,18-24,Male,Homemaker,Mobile,USSD,Same Day,16071.19,2,32142.38,10,3214.24,28928.14,1,5,Medium,0,4.3
+NM-10353,2023-06-23,6,Jun,Q2,Delta,PayPorte,Food & Grocery,25-34,Female,Student,Mobile,USSD,Standard (5-7 Days),14442.87,4,57771.48,20,11554.3,46217.18,5,3,High,0,4.4
+NM-10354,2023-09-01,9,Sep,Q3,Enugu,Jiji,Fashion,55+,Female,Homemaker,Tablet,Card,Same Day,24110.83,1,24110.83,10,2411.08,21699.75,1,5,High,1,3.9
+NM-10355,2023-09-28,9,Sep,Q3,Enugu,Jiji,Automobile Parts,25-34,Male,Homemaker,Mobile,Wallet,2-3 Days,68937.43,1,68937.43,0,0.0,68937.43,2,2,Low,0,3.3
+NM-10356,2023-06-15,6,Jun,Q2,Borno,WhatsApp Commerce,Food & Grocery,18-24,Male,Young Professional,Mobile,Transfer,Standard (5-7 Days),7932.49,4,31729.96,20,6345.99,25383.97,5,4,High,0,3.8
+NM-10357,2023-01-10,1,Jan,Q1,Abuja,Jumia,Sports & Fitness,18-24,Female,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),24456.14,4,97824.56,10,9782.46,88042.1,6,3,Medium,0,4.5
+NM-10358,2023-11-14,11,Nov,Q4,Kano,Konga,Food & Grocery,18-24,Female,Student,Mobile,Card,Standard (5-7 Days),8652.74,5,43263.7,0,0.0,43263.7,7,2,Medium,0,3.9
+NM-10359,2023-08-10,8,Aug,Q3,Kano,Shoprite Online,Fashion,35-44,Female,Young Professional,Mobile,USSD,Next Day,11855.71,1,11855.71,15,1778.36,10077.35,2,4,High,0,3.9
+NM-10360,2023-12-23,12,Dec,Q4,Borno,Konga,Food & Grocery,35-44,Male,Young Professional,Mobile,Transfer,Same Day,18175.89,2,36351.78,10,3635.18,32716.6,1,5,High,0,4.0
+NM-10361,2023-12-30,12,Dec,Q4,Lagos,Jumia,Sports & Fitness,35-44,Female,Homemaker,Mobile,Card,Same Day,31194.4,1,31194.4,10,3119.44,28074.96,1,5,Medium,0,4.3
+NM-10362,2023-10-17,10,Oct,Q4,Lagos,Jumia,Automobile Parts,18-24,Male,Student,Desktop,Transfer,Standard (5-7 Days),137057.7,2,274115.4,0,0.0,274115.4,5,2,Low,1,4.4
+NM-10363,2023-05-21,5,May,Q2,Enugu,Jiji,Books & Education,25-34,Female,Student,Desktop,Transfer,2-3 Days,3143.19,1,3143.19,5,157.16,2986.03,2,3,Medium,0,3.0
+NM-10364,2023-06-18,6,Jun,Q2,Rivers,Konga,Electronics,45-54,Male,Retiree,Tablet,Card,Same Day,119119.96,2,238239.92,0,0.0,238239.92,1,5,High,0,3.8
+NM-10365,2023-10-24,10,Oct,Q4,Kaduna,Amazon Nigeria,Sports & Fitness,35-44,Female,Business Owner,Desktop,Wallet,Standard (5-7 Days),13486.8,5,67434.0,20,13486.8,53947.2,7,1,Medium,0,4.3
+NM-10366,2023-04-30,4,Apr,Q2,Abuja,Jumia,Electronics,18-24,Female,Business Owner,Mobile,Wallet,Standard (5-7 Days),304635.22,2,609270.44,10,60927.04,548343.4,6,4,High,0,4.5
+NM-10367,2023-10-21,10,Oct,Q4,Delta,Jiji,Home & Living,35-44,Female,Student,Mobile,Transfer,Same Day,19487.89,1,19487.89,5,974.39,18513.5,1,4,Medium,0,3.9
+NM-10368,2023-09-23,9,Sep,Q3,Kaduna,Jumia,Food & Grocery,25-34,Female,Homemaker,Mobile,Card,2-3 Days,15488.12,2,30976.24,0,0.0,30976.24,3,3,Medium,1,3.9
+NM-10369,2023-03-25,3,Mar,Q1,Delta,PayPorte,Books & Education,35-44,Male,Business Owner,Mobile,Wallet,2-3 Days,2915.45,3,8746.35,20,1749.27,6997.08,2,4,High,0,4.0
+NM-10370,2023-10-12,10,Oct,Q4,Kaduna,Shoprite Online,Automobile Parts,18-24,Male,Young Professional,Mobile,Card,2-3 Days,30116.34,1,30116.34,0,0.0,30116.34,2,3,Medium,0,3.5
+NM-10371,2023-12-13,12,Dec,Q4,Kano,Konga,Home & Living,45-54,Male,Young Professional,Mobile,Card,2-3 Days,20783.01,2,41566.02,20,8313.2,33252.82,2,4,High,0,4.5
+NM-10372,2023-07-11,7,Jul,Q3,Borno,Amazon Nigeria,Fashion,18-24,Male,Student,Mobile,Transfer,Next Day,16353.97,1,16353.97,10,1635.4,14718.57,1,4,Medium,0,3.6
+NM-10373,2023-11-27,11,Nov,Q4,Kano,Amazon Nigeria,Books & Education,18-24,Male,Homemaker,Desktop,Card,Same Day,11640.34,1,11640.34,10,1164.03,10476.31,1,5,High,0,3.5
+NM-10374,2023-06-06,6,Jun,Q2,Anambra,Jiji,Electronics,45-54,Male,Business Owner,Mobile,Card,Standard (5-7 Days),157382.66,1,157382.66,0,0.0,157382.66,7,1,Low,0,3.1
+NM-10375,2023-07-15,7,Jul,Q3,Enugu,Jiji,Automobile Parts,45-54,Male,Business Owner,Mobile,Cash on Delivery,2-3 Days,12745.89,1,12745.89,0,0.0,12745.89,3,3,Medium,0,3.2
+NM-10376,2023-05-09,5,May,Q2,Oyo,Instagram Shop,Fashion,25-34,Female,Business Owner,Mobile,Transfer,Next Day,15714.05,3,47142.15,10,4714.22,42427.93,2,4,High,0,4.1
+NM-10377,2023-01-07,1,Jan,Q1,Oyo,Jumia,Health & Beauty,45-54,Female,Student,Desktop,USSD,Standard (5-7 Days),17840.13,1,17840.13,15,2676.02,15164.11,5,2,Low,1,4.4
+NM-10378,2023-10-13,10,Oct,Q4,Delta,Konga,Fashion,25-34,Male,Young Professional,Desktop,USSD,Standard (5-7 Days),4264.37,1,4264.37,20,852.87,3411.5,6,4,High,0,4.0
+NM-10379,2023-10-18,10,Oct,Q4,Enugu,Jumia,Electronics,55+,Female,Homemaker,Desktop,Wallet,Next Day,225996.17,2,451992.34,10,45199.23,406793.11,2,5,High,0,4.8
+NM-10380,2023-07-17,7,Jul,Q3,Oyo,Jumia,Fashion,18-24,Male,Young Professional,Mobile,Wallet,Standard (5-7 Days),14920.34,1,14920.34,10,1492.03,13428.31,5,3,Low,0,4.0
+NM-10381,2023-08-10,8,Aug,Q3,Abuja,Jumia,Automobile Parts,18-24,Male,Homemaker,Desktop,Cash on Delivery,Next Day,165036.05,2,330072.1,0,0.0,330072.1,2,4,Medium,1,4.6
+NM-10382,2023-05-28,5,May,Q2,Borno,Shoprite Online,Sports & Fitness,35-44,Female,Homemaker,Desktop,Wallet,Standard (5-7 Days),53118.73,3,159356.19,5,7967.81,151388.38,7,4,High,0,4.2
+NM-10383,2023-11-18,11,Nov,Q4,Anambra,Konga,Food & Grocery,45-54,Male,Homemaker,Mobile,Wallet,Next Day,14367.96,2,28735.92,0,0.0,28735.92,1,5,High,0,4.5
+NM-10384,2023-12-12,12,Dec,Q4,Kaduna,Konga,Food & Grocery,18-24,Female,Retiree,Mobile,USSD,Standard (5-7 Days),19243.93,1,19243.93,15,2886.59,16357.34,5,1,Medium,1,3.6
+NM-10385,2023-02-21,2,Feb,Q1,Enugu,PayPorte,Books & Education,18-24,Male,Business Owner,Mobile,Card,Next Day,3892.69,1,3892.69,15,583.9,3308.79,1,5,Medium,0,3.4
+NM-10386,2023-01-27,1,Jan,Q1,Lagos,Amazon Nigeria,Home & Living,25-34,Male,Homemaker,Mobile,Cash on Delivery,Same Day,73793.62,1,73793.62,5,3689.68,70103.94,1,5,Medium,0,3.0
+NM-10387,2023-09-20,9,Sep,Q3,Rivers,PayPorte,Fashion,35-44,Male,Homemaker,Tablet,Card,Next Day,7522.72,1,7522.72,10,752.27,6770.45,1,5,Medium,0,3.6
+NM-10388,2023-11-29,11,Nov,Q4,Lagos,Konga,Sports & Fitness,18-24,Female,Student,Mobile,Transfer,Next Day,51417.11,1,51417.11,20,10283.42,41133.69,2,4,High,0,4.2
+NM-10389,2023-12-19,12,Dec,Q4,Oyo,Instagram Shop,Sports & Fitness,18-24,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,28165.49,3,84496.47,5,4224.82,80271.65,2,5,High,0,4.0
+NM-10390,2023-07-11,7,Jul,Q3,Lagos,Jumia,Fashion,35-44,Male,Young Professional,Mobile,USSD,Next Day,23946.51,1,23946.51,5,1197.33,22749.18,1,5,High,0,4.3
+NM-10391,2023-01-28,1,Jan,Q1,Lagos,Jiji,Automobile Parts,25-34,Male,Business Owner,Desktop,USSD,2-3 Days,182073.36,2,364146.72,0,0.0,364146.72,3,3,Medium,0,4.7
+NM-10392,2023-04-15,4,Apr,Q2,Abuja,Instagram Shop,Electronics,18-24,Female,Retiree,Desktop,Card,Same Day,94163.89,1,94163.89,15,14124.58,80039.31,1,4,High,0,4.2
+NM-10393,2023-08-05,8,Aug,Q3,Rivers,Jumia,Books & Education,25-34,Male,Business Owner,Tablet,Transfer,Standard (5-7 Days),8321.45,2,16642.9,15,2496.44,14146.46,6,3,Low,1,4.2
+NM-10394,2023-02-06,2,Feb,Q1,Enugu,PayPorte,Health & Beauty,25-34,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,13330.11,2,26660.22,0,0.0,26660.22,2,5,High,0,3.8
+NM-10395,2023-03-05,3,Mar,Q1,Anambra,WhatsApp Commerce,Sports & Fitness,25-34,Male,Retiree,Mobile,Cash on Delivery,Same Day,33246.78,2,66493.56,0,0.0,66493.56,1,4,High,0,3.1
+NM-10396,2023-05-14,5,May,Q2,Anambra,Instagram Shop,Home & Living,35-44,Female,Student,Mobile,Card,Same Day,74625.1,4,298500.4,0,0.0,298500.4,1,3,Low,0,3.8
+NM-10397,2023-06-04,6,Jun,Q2,Borno,WhatsApp Commerce,Fashion,45-54,Male,Business Owner,Desktop,Wallet,Next Day,24027.17,1,24027.17,20,4805.43,19221.74,2,5,High,0,4.6
+NM-10398,2023-12-23,12,Dec,Q4,Oyo,Shoprite Online,Automobile Parts,18-24,Male,Homemaker,Mobile,USSD,Standard (5-7 Days),88225.2,1,88225.2,0,0.0,88225.2,5,3,High,0,3.4
+NM-10399,2023-07-29,7,Jul,Q3,Abuja,Konga,Home & Living,25-34,Female,Student,Mobile,Card,Next Day,55684.0,3,167052.0,0,0.0,167052.0,1,3,Low,0,3.8
+NM-10400,2023-01-04,1,Jan,Q1,Delta,PayPorte,Fashion,18-24,Female,Homemaker,Mobile,Transfer,Same Day,18777.96,1,18777.96,25,4694.49,14083.47,1,5,High,0,3.7
+NM-10401,2023-01-02,1,Jan,Q1,Kaduna,Shoprite Online,Sports & Fitness,45-54,Female,Business Owner,Mobile,Cash on Delivery,2-3 Days,38725.86,2,77451.72,15,11617.76,65833.96,2,2,Medium,0,3.9
+NM-10402,2023-06-16,6,Jun,Q2,Delta,Jiji,Home & Living,35-44,Female,Business Owner,Tablet,Transfer,Same Day,82961.88,1,82961.88,5,4148.09,78813.79,1,5,High,0,4.4
+NM-10403,2023-06-04,6,Jun,Q2,Abuja,Shoprite Online,Health & Beauty,18-24,Female,Student,Mobile,Wallet,Same Day,29551.51,5,147757.55,30,44327.26,103430.29,1,5,High,0,3.3
+NM-10404,2023-05-12,5,May,Q2,Abuja,Jumia,Electronics,35-44,Male,Retiree,Desktop,Card,Standard (5-7 Days),238087.45,4,952349.8,10,95234.98,857114.82,5,4,Medium,0,3.6
+NM-10405,2023-02-14,2,Feb,Q1,Kaduna,Konga,Automobile Parts,25-34,Male,Retiree,Tablet,Wallet,Next Day,29385.44,1,29385.44,10,2938.54,26446.9,1,5,High,0,3.6
+NM-10406,2023-04-24,4,Apr,Q2,Enugu,Jumia,Automobile Parts,25-34,Female,Homemaker,Mobile,Cash on Delivery,Next Day,28464.5,1,28464.5,20,5692.9,22771.6,2,5,High,0,4.4
+NM-10407,2023-09-02,9,Sep,Q3,Lagos,Jiji,Health & Beauty,55+,Female,Student,Tablet,Wallet,2-3 Days,23010.0,1,23010.0,0,0.0,23010.0,2,3,High,0,4.9
+NM-10408,2023-03-23,3,Mar,Q1,Rivers,PayPorte,Electronics,55+,Female,Student,Desktop,Card,2-3 Days,347006.18,1,347006.18,5,17350.31,329655.87,3,4,Medium,0,3.4
+NM-10409,2023-08-23,8,Aug,Q3,Enugu,Konga,Food & Grocery,45-54,Female,Homemaker,Desktop,USSD,Same Day,17056.58,2,34113.16,5,1705.66,32407.5,1,4,Medium,0,4.6
+NM-10410,2023-08-31,8,Aug,Q3,Abuja,PayPorte,Food & Grocery,55+,Male,Retiree,Tablet,Cash on Delivery,Next Day,6131.56,1,6131.56,30,1839.47,4292.09,2,4,Medium,0,4.0
+NM-10411,2023-01-06,1,Jan,Q1,Borno,Instagram Shop,Automobile Parts,35-44,Male,Retiree,Desktop,Transfer,2-3 Days,31040.07,1,31040.07,5,1552.0,29488.07,2,4,Medium,0,4.6
+NM-10412,2023-10-03,10,Oct,Q4,Kano,Konga,Automobile Parts,18-24,Female,Retiree,Mobile,USSD,2-3 Days,43498.85,3,130496.55,0,0.0,130496.55,2,5,High,0,3.8
+NM-10413,2023-12-01,12,Dec,Q4,Abuja,Jumia,Food & Grocery,18-24,Female,Young Professional,Mobile,Transfer,Same Day,5707.84,2,11415.68,20,2283.14,9132.54,1,5,High,0,3.5
+NM-10414,2023-06-30,6,Jun,Q2,Oyo,Jumia,Health & Beauty,35-44,Female,Young Professional,Mobile,Wallet,Standard (5-7 Days),22200.59,1,22200.59,10,2220.06,19980.53,5,2,Medium,1,4.0
+NM-10415,2023-08-22,8,Aug,Q3,Kano,PayPorte,Automobile Parts,35-44,Male,Business Owner,Mobile,Transfer,Standard (5-7 Days),23984.78,1,23984.78,5,1199.24,22785.54,5,3,Medium,0,4.3
+NM-10416,2023-05-07,5,May,Q2,Kaduna,Jiji,Food & Grocery,25-34,Female,Young Professional,Desktop,Cash on Delivery,Standard (5-7 Days),3783.07,1,3783.07,0,0.0,3783.07,6,3,Medium,0,3.5
+NM-10417,2023-03-05,3,Mar,Q1,Rivers,Jumia,Fashion,55+,Female,Student,Tablet,Cash on Delivery,Standard (5-7 Days),10380.72,2,20761.44,5,1038.07,19723.37,7,2,Low,0,3.9
+NM-10418,2023-12-03,12,Dec,Q4,Anambra,Jumia,Automobile Parts,35-44,Female,Young Professional,Mobile,Cash on Delivery,Same Day,32262.73,1,32262.73,15,4839.41,27423.32,1,5,High,0,4.0
+NM-10419,2023-06-06,6,Jun,Q2,Delta,Jiji,Health & Beauty,35-44,Male,Business Owner,Mobile,Cash on Delivery,2-3 Days,15711.73,1,15711.73,0,0.0,15711.73,2,3,Low,0,3.2
+NM-10420,2023-12-13,12,Dec,Q4,Oyo,Jiji,Books & Education,25-34,Female,Retiree,Tablet,Transfer,Next Day,13489.09,2,26978.18,5,1348.91,25629.27,1,5,High,1,4.3
+NM-10421,2023-03-10,3,Mar,Q1,Enugu,PayPorte,Electronics,18-24,Male,Young Professional,Mobile,Wallet,Next Day,187084.3,4,748337.2,5,37416.86,710920.34,2,5,High,0,4.7
+NM-10422,2023-11-26,11,Nov,Q4,Abuja,Jumia,Books & Education,25-34,Male,Homemaker,Mobile,USSD,Standard (5-7 Days),8459.64,3,25378.92,25,6344.73,19034.19,6,1,Low,0,4.0
+NM-10423,2023-01-04,1,Jan,Q1,Lagos,Jumia,Books & Education,25-34,Female,Business Owner,Mobile,Card,Next Day,3601.01,2,7202.02,0,0.0,7202.02,2,4,High,0,4.4
+NM-10424,2023-07-22,7,Jul,Q3,Delta,Jumia,Sports & Fitness,18-24,Male,Business Owner,Mobile,Cash on Delivery,Same Day,36000.24,1,36000.24,0,0.0,36000.24,1,5,High,0,3.7
+NM-10425,2023-01-07,1,Jan,Q1,Anambra,Jiji,Automobile Parts,18-24,Male,Business Owner,Mobile,Card,Same Day,155337.91,1,155337.91,10,15533.79,139804.12,1,5,Medium,0,4.5
+NM-10426,2023-08-08,8,Aug,Q3,Rivers,Jiji,Food & Grocery,55+,Male,Student,Mobile,Card,2-3 Days,6563.49,2,13126.98,15,1969.05,11157.93,2,4,Medium,0,3.5
+NM-10427,2023-12-25,12,Dec,Q4,Rivers,Instagram Shop,Automobile Parts,25-34,Female,Homemaker,Mobile,Transfer,Same Day,129595.52,1,129595.52,5,6479.78,123115.74,1,5,Medium,0,4.9
+NM-10428,2023-11-07,11,Nov,Q4,Anambra,Jumia,Electronics,25-34,Male,Young Professional,Mobile,Card,2-3 Days,48755.17,1,48755.17,25,12188.79,36566.38,3,2,Low,0,4.6
+NM-10429,2023-11-19,11,Nov,Q4,Borno,Jiji,Sports & Fitness,18-24,Male,Young Professional,Mobile,Card,Standard (5-7 Days),60436.65,1,60436.65,10,6043.66,54392.99,7,3,Low,1,4.2
+NM-10430,2023-05-10,5,May,Q2,Oyo,PayPorte,Home & Living,18-24,Female,Business Owner,Desktop,Wallet,Next Day,107532.47,2,215064.94,15,32259.74,182805.2,2,4,High,0,4.0
+NM-10431,2023-12-22,12,Dec,Q4,Enugu,Shoprite Online,Food & Grocery,18-24,Female,Business Owner,Mobile,Wallet,2-3 Days,6374.39,3,19123.17,5,956.16,18167.01,2,5,High,0,3.5
+NM-10432,2023-05-13,5,May,Q2,Kano,Jumia,Home & Living,25-34,Female,Homemaker,Mobile,Wallet,Standard (5-7 Days),39892.17,1,39892.17,15,5983.83,33908.34,5,1,Low,1,3.9
+NM-10433,2023-06-16,6,Jun,Q2,Lagos,Jiji,Home & Living,35-44,Female,Business Owner,Mobile,Card,2-3 Days,14573.31,2,29146.62,10,2914.66,26231.96,3,3,High,0,3.0
+NM-10434,2023-12-01,12,Dec,Q4,Kaduna,Jumia,Health & Beauty,35-44,Female,Young Professional,Mobile,Card,Same Day,10863.72,2,21727.44,10,2172.74,19554.7,1,4,High,0,4.1
+NM-10435,2023-10-19,10,Oct,Q4,Anambra,Konga,Books & Education,45-54,Male,Retiree,Mobile,Transfer,Next Day,8122.0,2,16244.0,10,1624.4,14619.6,1,5,High,0,4.1
+NM-10436,2023-01-11,1,Jan,Q1,Delta,Instagram Shop,Automobile Parts,35-44,Male,Homemaker,Desktop,Transfer,Same Day,29126.82,1,29126.82,15,4369.02,24757.8,1,5,High,0,4.6
+NM-10437,2023-10-16,10,Oct,Q4,Lagos,Instagram Shop,Fashion,25-34,Female,Retiree,Desktop,Wallet,Same Day,40480.39,3,121441.17,5,6072.06,115369.11,1,3,High,0,3.2
+NM-10438,2023-04-27,4,Apr,Q2,Lagos,Jumia,Health & Beauty,18-24,Male,Business Owner,Mobile,Transfer,Next Day,16381.9,1,16381.9,10,1638.19,14743.71,1,5,Medium,0,3.6
+NM-10439,2023-09-29,9,Sep,Q3,Oyo,Konga,Sports & Fitness,35-44,Male,Homemaker,Mobile,Transfer,Same Day,29448.15,1,29448.15,5,1472.41,27975.74,1,5,High,0,4.7
+NM-10440,2023-09-02,9,Sep,Q3,Abuja,Shoprite Online,Food & Grocery,35-44,Female,Retiree,Mobile,Card,Standard (5-7 Days),20736.94,1,20736.94,5,1036.85,19700.09,5,2,Medium,0,4.0
+NM-10441,2023-10-01,10,Oct,Q4,Anambra,Jiji,Sports & Fitness,25-34,Female,Student,Desktop,Card,Standard (5-7 Days),41437.71,1,41437.71,0,0.0,41437.71,7,3,High,0,4.4
+NM-10442,2023-06-28,6,Jun,Q2,Rivers,Konga,Home & Living,55+,Male,Young Professional,Mobile,Transfer,Next Day,46498.73,3,139496.19,15,20924.43,118571.76,1,3,High,1,3.8
+NM-10443,2023-08-06,8,Aug,Q3,Rivers,Jumia,Food & Grocery,35-44,Female,Business Owner,Tablet,Transfer,Standard (5-7 Days),10548.74,2,21097.48,10,2109.75,18987.73,7,4,High,0,4.2
+NM-10444,2023-08-16,8,Aug,Q3,Anambra,Jumia,Food & Grocery,25-34,Female,Business Owner,Desktop,Cash on Delivery,2-3 Days,19972.13,2,39944.26,0,0.0,39944.26,2,1,Low,1,4.6
+NM-10445,2023-02-17,2,Feb,Q1,Enugu,PayPorte,Health & Beauty,55+,Male,Retiree,Mobile,Wallet,Standard (5-7 Days),19448.78,5,97243.9,0,0.0,97243.9,7,1,Medium,1,3.2
+NM-10446,2023-02-09,2,Feb,Q1,Delta,Konga,Automobile Parts,18-24,Male,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),77638.71,2,155277.42,5,7763.87,147513.55,5,3,Low,0,3.9
+NM-10447,2023-01-24,1,Jan,Q1,Enugu,Jumia,Electronics,35-44,Female,Young Professional,Mobile,Card,Same Day,31096.38,1,31096.38,5,1554.82,29541.56,1,5,High,0,4.4
+NM-10448,2023-10-28,10,Oct,Q4,Kaduna,Konga,Fashion,35-44,Male,Homemaker,Desktop,Wallet,Same Day,39490.12,1,39490.12,0,0.0,39490.12,1,3,High,1,4.4
+NM-10449,2023-08-09,8,Aug,Q3,Kano,WhatsApp Commerce,Sports & Fitness,25-34,Female,Young Professional,Desktop,Cash on Delivery,2-3 Days,7040.98,2,14081.96,10,1408.2,12673.76,2,4,High,1,3.2
+NM-10450,2023-06-01,6,Jun,Q2,Lagos,Jumia,Health & Beauty,18-24,Male,Homemaker,Desktop,Wallet,Standard (5-7 Days),7747.86,1,7747.86,5,387.39,7360.47,5,3,Medium,1,4.5
+NM-10451,2023-07-29,7,Jul,Q3,Delta,PayPorte,Food & Grocery,25-34,Male,Retiree,Tablet,Transfer,Same Day,21711.02,3,65133.06,0,0.0,65133.06,1,3,Medium,0,4.8
+NM-10452,2023-07-12,7,Jul,Q3,Lagos,Jiji,Electronics,18-24,Male,Retiree,Mobile,Card,Same Day,67998.94,1,67998.94,0,0.0,67998.94,1,3,Medium,0,4.8
+NM-10453,2023-06-12,6,Jun,Q2,Delta,Jumia,Food & Grocery,18-24,Male,Student,Desktop,Transfer,Standard (5-7 Days),9875.74,2,19751.48,0,0.0,19751.48,6,3,Medium,1,3.8
+NM-10454,2023-04-19,4,Apr,Q2,Borno,Jumia,Automobile Parts,55+,Male,Business Owner,Desktop,Transfer,Standard (5-7 Days),174659.96,4,698639.84,10,69863.98,628775.86,7,2,Low,1,4.0
+NM-10455,2023-03-26,3,Mar,Q1,Rivers,PayPorte,Health & Beauty,25-34,Female,Homemaker,Desktop,Card,Standard (5-7 Days),8954.67,4,35818.68,5,1790.93,34027.75,6,4,High,0,4.8
+NM-10456,2023-03-17,3,Mar,Q1,Rivers,Jumia,Food & Grocery,18-24,Male,Young Professional,Mobile,USSD,Same Day,13487.25,1,13487.25,15,2023.09,11464.16,1,5,High,0,4.3
+NM-10457,2023-04-18,4,Apr,Q2,Borno,Jumia,Home & Living,35-44,Male,Young Professional,Mobile,Card,Next Day,114523.34,5,572616.7,10,57261.67,515355.03,1,2,Low,1,4.1
+NM-10458,2023-07-11,7,Jul,Q3,Anambra,Konga,Automobile Parts,55+,Male,Retiree,Tablet,Wallet,Same Day,41963.87,2,83927.74,10,8392.77,75534.97,1,5,Medium,0,4.6
+NM-10459,2023-11-16,11,Nov,Q4,Abuja,Shoprite Online,Fashion,18-24,Female,Homemaker,Mobile,Transfer,Standard (5-7 Days),41943.61,1,41943.61,5,2097.18,39846.43,6,2,Low,1,4.9
+NM-10460,2023-09-17,9,Sep,Q3,Kaduna,WhatsApp Commerce,Books & Education,55+,Female,Business Owner,Desktop,Cash on Delivery,Same Day,5328.66,3,15985.98,0,0.0,15985.98,1,5,Medium,0,3.7
+NM-10461,2023-04-09,4,Apr,Q2,Enugu,Shoprite Online,Sports & Fitness,25-34,Female,Student,Mobile,USSD,Standard (5-7 Days),50836.36,1,50836.36,0,0.0,50836.36,7,3,High,0,3.6
+NM-10462,2023-05-14,5,May,Q2,Kano,Konga,Fashion,45-54,Female,Student,Mobile,Card,Standard (5-7 Days),38168.19,1,38168.19,5,1908.41,36259.78,5,3,High,0,4.4
+NM-10463,2023-06-02,6,Jun,Q2,Abuja,Jiji,Electronics,25-34,Female,Student,Tablet,Card,Next Day,79932.69,3,239798.07,15,35969.71,203828.36,2,2,Low,1,4.7
+NM-10464,2023-07-05,7,Jul,Q3,Abuja,Konga,Fashion,18-24,Female,Retiree,Mobile,Transfer,Next Day,41334.2,1,41334.2,0,0.0,41334.2,1,5,Medium,0,4.3
+NM-10465,2023-06-27,6,Jun,Q2,Delta,Shoprite Online,Food & Grocery,18-24,Male,Business Owner,Mobile,USSD,Same Day,13129.95,2,26259.9,10,2625.99,23633.91,1,4,Medium,0,3.3
+NM-10466,2023-05-18,5,May,Q2,Kaduna,Jumia,Home & Living,35-44,Female,Young Professional,Mobile,Transfer,Same Day,36471.65,1,36471.65,0,0.0,36471.65,1,5,High,1,3.8
+NM-10467,2023-09-07,9,Sep,Q3,Oyo,WhatsApp Commerce,Fashion,18-24,Male,Retiree,Desktop,Wallet,2-3 Days,21205.81,1,21205.81,10,2120.58,19085.23,3,2,Low,1,4.6
+NM-10468,2023-09-29,9,Sep,Q3,Delta,Jumia,Electronics,35-44,Female,Business Owner,Mobile,Wallet,2-3 Days,133004.87,1,133004.87,0,0.0,133004.87,3,4,High,0,3.7
+NM-10469,2023-11-05,11,Nov,Q4,Kaduna,PayPorte,Sports & Fitness,35-44,Male,Business Owner,Mobile,Card,Next Day,20125.31,1,20125.31,10,2012.53,18112.78,1,5,High,0,4.6
+NM-10470,2023-05-02,5,May,Q2,Delta,Jumia,Health & Beauty,35-44,Female,Homemaker,Mobile,Cash on Delivery,Next Day,21233.45,1,21233.45,10,2123.34,19110.11,1,3,High,0,4.2
+NM-10471,2023-07-24,7,Jul,Q3,Kaduna,Jiji,Fashion,25-34,Female,Business Owner,Mobile,Cash on Delivery,2-3 Days,6350.22,2,12700.44,5,635.02,12065.42,3,4,High,1,3.2
+NM-10472,2023-12-19,12,Dec,Q4,Kaduna,Instagram Shop,Fashion,18-24,Male,Young Professional,Mobile,Transfer,Next Day,33418.64,1,33418.64,0,0.0,33418.64,2,5,High,0,4.9
+NM-10473,2023-03-17,3,Mar,Q1,Abuja,Jumia,Automobile Parts,18-24,Male,Student,Mobile,USSD,Standard (5-7 Days),152582.69,3,457748.07,25,114437.02,343311.05,7,1,Low,1,4.5
+NM-10474,2023-09-11,9,Sep,Q3,Rivers,Jumia,Health & Beauty,35-44,Male,Homemaker,Mobile,Transfer,Next Day,4458.68,1,4458.68,0,0.0,4458.68,2,2,Low,1,3.9
+NM-10475,2023-09-20,9,Sep,Q3,Delta,PayPorte,Fashion,55+,Female,Business Owner,Mobile,Card,Standard (5-7 Days),11526.87,1,11526.87,0,0.0,11526.87,7,2,Low,1,4.5
+NM-10476,2023-10-09,10,Oct,Q4,Rivers,Jumia,Books & Education,25-34,Male,Young Professional,Mobile,Card,Standard (5-7 Days),2634.9,1,2634.9,0,0.0,2634.9,5,3,Medium,0,4.7
+NM-10477,2023-01-26,1,Jan,Q1,Rivers,Jumia,Automobile Parts,25-34,Male,Business Owner,Mobile,Card,Standard (5-7 Days),132098.21,4,528392.84,0,0.0,528392.84,7,2,Low,1,4.0
+NM-10478,2023-05-28,5,May,Q2,Abuja,Jumia,Health & Beauty,35-44,Female,Retiree,Mobile,Cash on Delivery,2-3 Days,26351.17,1,26351.17,10,2635.12,23716.05,3,3,Medium,0,4.7
+NM-10479,2023-01-05,1,Jan,Q1,Kano,WhatsApp Commerce,Books & Education,45-54,Male,Retiree,Mobile,Cash on Delivery,2-3 Days,9519.07,4,38076.28,10,3807.63,34268.65,2,2,Low,1,4.1
+NM-10480,2023-10-07,10,Oct,Q4,Kano,Shoprite Online,Fashion,25-34,Male,Student,Mobile,Transfer,Standard (5-7 Days),13808.26,1,13808.26,5,690.41,13117.85,6,3,High,0,4.7
+NM-10481,2023-12-04,12,Dec,Q4,Borno,Konga,Health & Beauty,55+,Female,Student,Desktop,Wallet,Next Day,34807.83,1,34807.83,0,0.0,34807.83,2,4,High,0,4.6
+NM-10482,2023-05-22,5,May,Q2,Enugu,Amazon Nigeria,Books & Education,25-34,Male,Retiree,Mobile,Wallet,2-3 Days,5675.86,1,5675.86,10,567.59,5108.27,2,5,High,0,3.2
+NM-10483,2023-06-05,6,Jun,Q2,Lagos,Konga,Food & Grocery,35-44,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,13196.97,1,13196.97,0,0.0,13196.97,2,3,High,0,4.1
+NM-10484,2023-03-15,3,Mar,Q1,Lagos,Jumia,Food & Grocery,55+,Female,Homemaker,Desktop,USSD,Next Day,24906.03,1,24906.03,10,2490.6,22415.43,1,2,Low,0,4.7
+NM-10485,2023-03-11,3,Mar,Q1,Oyo,Instagram Shop,Health & Beauty,35-44,Male,Retiree,Mobile,Card,Next Day,16030.15,1,16030.15,5,801.51,15228.64,2,3,High,0,3.2
+NM-10486,2023-07-30,7,Jul,Q3,Enugu,Konga,Sports & Fitness,25-34,Male,Student,Desktop,Wallet,Standard (5-7 Days),39057.58,3,117172.74,0,0.0,117172.74,5,3,Medium,0,3.7
+NM-10487,2023-09-23,9,Sep,Q3,Enugu,Amazon Nigeria,Health & Beauty,25-34,Male,Business Owner,Desktop,Transfer,Next Day,17457.17,1,17457.17,0,0.0,17457.17,1,3,Medium,0,3.7
+NM-10488,2023-11-24,11,Nov,Q4,Lagos,Jumia,Electronics,18-24,Female,Homemaker,Mobile,Card,Standard (5-7 Days),300505.66,1,300505.66,5,15025.28,285480.38,7,3,Low,0,3.7
+NM-10489,2023-06-03,6,Jun,Q2,Abuja,Jumia,Fashion,25-34,Female,Student,Mobile,Cash on Delivery,Standard (5-7 Days),19991.41,5,99957.05,15,14993.56,84963.49,7,3,Medium,0,4.6
+NM-10490,2023-12-08,12,Dec,Q4,Rivers,Jumia,Home & Living,55+,Female,Business Owner,Mobile,Cash on Delivery,Same Day,36645.86,1,36645.86,15,5496.88,31148.98,1,3,Medium,0,4.3
+NM-10491,2023-05-22,5,May,Q2,Lagos,Jiji,Books & Education,25-34,Female,Homemaker,Desktop,Transfer,Next Day,1623.12,1,1623.12,10,162.31,1460.81,1,5,Medium,0,4.3
+NM-10492,2023-09-05,9,Sep,Q3,Borno,Konga,Food & Grocery,18-24,Female,Homemaker,Desktop,USSD,Standard (5-7 Days),10660.02,1,10660.02,10,1066.0,9594.02,7,2,Low,0,4.6
+NM-10493,2023-05-02,5,May,Q2,Kano,Jumia,Fashion,35-44,Female,Student,Desktop,Cash on Delivery,2-3 Days,7428.14,3,22284.42,15,3342.66,18941.76,3,2,Low,0,4.3
+NM-10494,2023-04-13,4,Apr,Q2,Lagos,Instagram Shop,Sports & Fitness,55+,Female,Business Owner,Mobile,Transfer,Next Day,18874.56,1,18874.56,10,1887.46,16987.1,1,4,High,0,4.2
+NM-10495,2023-11-25,11,Nov,Q4,Abuja,Jumia,Food & Grocery,25-34,Female,Young Professional,Mobile,Transfer,Same Day,14147.55,1,14147.55,0,0.0,14147.55,1,5,Medium,0,4.0
+NM-10496,2023-06-19,6,Jun,Q2,Abuja,Jiji,Food & Grocery,25-34,Female,Homemaker,Mobile,Wallet,Standard (5-7 Days),2518.48,3,7555.44,0,0.0,7555.44,7,3,High,0,3.6
+NM-10497,2023-05-15,5,May,Q2,Enugu,Jiji,Health & Beauty,35-44,Female,Retiree,Mobile,Cash on Delivery,Same Day,23730.04,1,23730.04,5,1186.5,22543.54,1,3,Medium,0,4.8
+NM-10498,2023-11-03,11,Nov,Q4,Lagos,Jumia,Fashion,55+,Female,Retiree,Desktop,Wallet,2-3 Days,34050.15,4,136200.6,20,27240.12,108960.48,2,4,High,0,4.1
+NM-10499,2023-10-10,10,Oct,Q4,Rivers,Jumia,Electronics,35-44,Female,Business Owner,Desktop,Transfer,Standard (5-7 Days),176528.07,1,176528.07,5,8826.4,167701.67,7,3,Low,0,4.8
+NM-10500,2023-07-31,7,Jul,Q3,Kaduna,Konga,Sports & Fitness,18-24,Male,Business Owner,Desktop,Cash on Delivery,Next Day,60808.15,3,182424.45,15,27363.67,155060.78,1,4,Medium,0,3.9
+NM-10501,2023-02-09,2,Feb,Q1,Borno,PayPorte,Home & Living,35-44,Female,Young Professional,Mobile,USSD,Standard (5-7 Days),33772.87,1,33772.87,5,1688.64,32084.23,6,3,High,0,3.6
+NM-10502,2023-12-28,12,Dec,Q4,Rivers,Jiji,Health & Beauty,18-24,Female,Homemaker,Mobile,USSD,Same Day,33393.31,1,33393.31,0,0.0,33393.31,1,5,High,0,3.3
+NM-10503,2023-02-13,2,Feb,Q1,Rivers,PayPorte,Books & Education,25-34,Male,Student,Mobile,Transfer,2-3 Days,2306.22,3,6918.66,5,345.93,6572.73,3,4,High,0,4.1
+NM-10504,2023-01-15,1,Jan,Q1,Oyo,Jumia,Sports & Fitness,45-54,Female,Homemaker,Desktop,Transfer,2-3 Days,29911.77,3,89735.31,5,4486.77,85248.54,2,4,High,0,4.2
+NM-10505,2023-12-16,12,Dec,Q4,Anambra,Jiji,Health & Beauty,18-24,Male,Homemaker,Tablet,Card,Next Day,33406.44,1,33406.44,0,0.0,33406.44,2,4,High,0,4.6
+NM-10506,2023-01-05,1,Jan,Q1,Borno,Jumia,Health & Beauty,25-34,Male,Student,Mobile,Wallet,Next Day,17659.28,4,70637.12,5,3531.86,67105.26,1,5,High,0,4.1
+NM-10507,2023-11-13,11,Nov,Q4,Oyo,Shoprite Online,Health & Beauty,35-44,Male,Retiree,Desktop,USSD,Next Day,23819.29,1,23819.29,10,2381.93,21437.36,1,4,Medium,1,5.0
+NM-10508,2023-08-16,8,Aug,Q3,Oyo,Jumia,Sports & Fitness,25-34,Male,Homemaker,Mobile,Wallet,Next Day,12601.87,1,12601.87,0,0.0,12601.87,2,4,Medium,0,3.9
+NM-10509,2023-03-18,3,Mar,Q1,Anambra,Amazon Nigeria,Sports & Fitness,18-24,Male,Business Owner,Tablet,Cash on Delivery,Same Day,73302.32,1,73302.32,10,7330.23,65972.09,1,5,High,0,4.5
+NM-10510,2023-09-28,9,Sep,Q3,Abuja,Instagram Shop,Home & Living,25-34,Male,Homemaker,Mobile,Wallet,Standard (5-7 Days),96793.64,2,193587.28,10,19358.73,174228.55,6,2,Medium,1,5.0
+NM-10511,2023-02-09,2,Feb,Q1,Rivers,Konga,Fashion,18-24,Female,Business Owner,Mobile,Card,2-3 Days,41414.69,2,82829.38,10,8282.94,74546.44,3,4,Medium,0,4.0
+NM-10512,2023-03-17,3,Mar,Q1,Borno,PayPorte,Health & Beauty,25-34,Female,Homemaker,Mobile,USSD,Same Day,21220.38,2,42440.76,15,6366.11,36074.65,1,4,High,0,3.9
+NM-10513,2023-07-18,7,Jul,Q3,Abuja,Jumia,Electronics,18-24,Female,Homemaker,Mobile,Cash on Delivery,Same Day,317927.23,1,317927.23,5,15896.36,302030.87,1,4,High,0,4.4
+NM-10514,2023-03-10,3,Mar,Q1,Abuja,Shoprite Online,Sports & Fitness,25-34,Male,Young Professional,Desktop,Cash on Delivery,Standard (5-7 Days),59741.68,2,119483.36,10,11948.34,107535.02,5,3,Medium,0,3.8
+NM-10515,2023-09-26,9,Sep,Q3,Delta,Jumia,Health & Beauty,18-24,Female,Homemaker,Mobile,Transfer,2-3 Days,21344.42,3,64033.26,5,3201.66,60831.6,3,5,Medium,1,4.5
+NM-10516,2023-04-25,4,Apr,Q2,Anambra,Jiji,Sports & Fitness,25-34,Female,Young Professional,Mobile,Transfer,Same Day,71286.54,1,71286.54,20,14257.31,57029.23,1,4,High,0,3.3
+NM-10517,2023-10-20,10,Oct,Q4,Borno,Instagram Shop,Home & Living,25-34,Female,Homemaker,Mobile,Transfer,2-3 Days,54047.79,1,54047.79,0,0.0,54047.79,3,4,Medium,1,4.0
+NM-10518,2023-09-17,9,Sep,Q3,Abuja,Amazon Nigeria,Health & Beauty,35-44,Male,Retiree,Tablet,Transfer,Next Day,13398.46,1,13398.46,15,2009.77,11388.69,1,5,High,0,4.7
+NM-10519,2023-03-19,3,Mar,Q1,Lagos,Instagram Shop,Electronics,35-44,Male,Student,Mobile,Card,Next Day,177309.9,1,177309.9,5,8865.5,168444.4,1,5,High,0,3.0
+NM-10520,2023-06-28,6,Jun,Q2,Abuja,Konga,Home & Living,35-44,Male,Business Owner,Mobile,Card,Standard (5-7 Days),60686.8,2,121373.6,0,0.0,121373.6,6,3,Medium,0,4.2
+NM-10521,2023-04-01,4,Apr,Q2,Oyo,Jumia,Fashion,25-34,Male,Business Owner,Mobile,USSD,2-3 Days,22518.91,1,22518.91,0,0.0,22518.91,2,5,High,0,3.8
+NM-10522,2023-08-15,8,Aug,Q3,Rivers,Amazon Nigeria,Automobile Parts,35-44,Male,Student,Mobile,Transfer,2-3 Days,89638.26,1,89638.26,0,0.0,89638.26,2,4,High,0,4.8
+NM-10523,2023-07-14,7,Jul,Q3,Enugu,Jumia,Fashion,55+,Male,Retiree,Mobile,Wallet,Same Day,6790.61,2,13581.22,20,2716.24,10864.98,1,4,High,0,4.4
+NM-10524,2023-01-11,1,Jan,Q1,Oyo,Shoprite Online,Sports & Fitness,55+,Male,Business Owner,Mobile,USSD,Next Day,61389.26,1,61389.26,10,6138.93,55250.33,2,3,Low,0,4.4
+NM-10525,2023-09-16,9,Sep,Q3,Lagos,Jumia,Fashion,45-54,Male,Retiree,Mobile,Cash on Delivery,2-3 Days,33328.74,2,66657.48,5,3332.87,63324.61,2,4,Medium,0,3.9
+NM-10526,2023-07-12,7,Jul,Q3,Enugu,Shoprite Online,Health & Beauty,55+,Female,Retiree,Mobile,USSD,2-3 Days,11965.26,1,11965.26,25,2991.32,8973.94,3,5,Medium,0,4.0
+NM-10527,2023-09-02,9,Sep,Q3,Anambra,Instagram Shop,Fashion,35-44,Male,Retiree,Mobile,Cash on Delivery,Standard (5-7 Days),26652.44,2,53304.88,5,2665.24,50639.64,7,2,Low,0,4.2
+NM-10528,2023-03-19,3,Mar,Q1,Delta,Jiji,Home & Living,25-34,Male,Student,Desktop,Transfer,Standard (5-7 Days),9198.62,2,18397.24,10,1839.72,16557.52,7,2,Low,1,3.5
+NM-10529,2023-09-24,9,Sep,Q3,Delta,PayPorte,Fashion,18-24,Male,Student,Mobile,Transfer,Standard (5-7 Days),34422.25,1,34422.25,5,1721.11,32701.14,6,3,High,0,3.3
+NM-10530,2023-07-10,7,Jul,Q3,Enugu,Konga,Electronics,25-34,Female,Young Professional,Mobile,USSD,2-3 Days,203876.48,1,203876.48,0,0.0,203876.48,3,4,Medium,0,4.8
+NM-10531,2023-01-03,1,Jan,Q1,Kano,Jumia,Books & Education,25-34,Female,Homemaker,Mobile,Transfer,Next Day,5709.85,1,5709.85,10,570.99,5138.86,2,2,Low,0,4.3
+NM-10532,2023-11-25,11,Nov,Q4,Rivers,Jumia,Automobile Parts,55+,Female,Homemaker,Desktop,Wallet,Standard (5-7 Days),134598.57,1,134598.57,0,0.0,134598.57,5,2,Medium,1,4.5
+NM-10533,2023-03-17,3,Mar,Q1,Borno,Jiji,Books & Education,18-24,Female,Young Professional,Mobile,Card,Next Day,3435.0,1,3435.0,0,0.0,3435.0,1,5,High,0,4.0
+NM-10534,2023-09-29,9,Sep,Q3,Abuja,Jumia,Automobile Parts,25-34,Female,Retiree,Desktop,Cash on Delivery,2-3 Days,23014.33,2,46028.66,0,0.0,46028.66,3,2,Low,0,4.7
+NM-10535,2023-04-08,4,Apr,Q2,Kaduna,Jumia,Sports & Fitness,25-34,Female,Student,Desktop,Cash on Delivery,Standard (5-7 Days),33066.76,1,33066.76,15,4960.01,28106.75,6,3,Low,0,4.7
+NM-10536,2023-12-27,12,Dec,Q4,Oyo,Jiji,Electronics,25-34,Female,Student,Mobile,Wallet,Standard (5-7 Days),99767.71,2,199535.42,25,49883.86,149651.56,7,3,Medium,0,4.7
+NM-10537,2023-08-03,8,Aug,Q3,Enugu,Shoprite Online,Electronics,45-54,Male,Retiree,Mobile,USSD,Next Day,294411.58,1,294411.58,5,14720.58,279691.0,1,5,High,0,4.5
+NM-10538,2023-07-26,7,Jul,Q3,Kaduna,Amazon Nigeria,Sports & Fitness,25-34,Female,Business Owner,Desktop,Card,2-3 Days,35644.78,2,71289.56,0,0.0,71289.56,2,3,Low,0,4.2
+NM-10539,2023-12-23,12,Dec,Q4,Enugu,Konga,Electronics,25-34,Female,Business Owner,Mobile,USSD,Same Day,43841.9,4,175367.6,0,0.0,175367.6,1,3,Medium,0,3.7
+NM-10540,2023-04-08,4,Apr,Q2,Lagos,Jumia,Sports & Fitness,45-54,Female,Student,Mobile,Cash on Delivery,2-3 Days,60803.04,2,121606.08,5,6080.3,115525.78,3,3,High,0,3.9
+NM-10541,2023-06-28,6,Jun,Q2,Rivers,Jumia,Health & Beauty,25-34,Female,Homemaker,Mobile,USSD,Same Day,27602.04,1,27602.04,15,4140.31,23461.73,1,5,Medium,0,4.6
+NM-10542,2023-03-01,3,Mar,Q1,Oyo,Jumia,Health & Beauty,25-34,Male,Retiree,Mobile,Transfer,2-3 Days,19303.47,2,38606.94,5,1930.35,36676.59,3,4,High,0,4.0
+NM-10543,2023-08-28,8,Aug,Q3,Lagos,Jumia,Books & Education,45-54,Male,Homemaker,Mobile,USSD,Next Day,8881.5,2,17763.0,5,888.15,16874.85,2,4,Medium,0,4.4
+NM-10544,2023-01-15,1,Jan,Q1,Oyo,Jumia,Home & Living,55+,Male,Student,Mobile,Wallet,2-3 Days,23862.99,1,23862.99,5,1193.15,22669.84,2,4,Medium,0,3.7
+NM-10545,2023-02-11,2,Feb,Q1,Kaduna,Konga,Food & Grocery,45-54,Male,Business Owner,Mobile,Cash on Delivery,Next Day,6245.65,3,18736.95,5,936.85,17800.1,1,5,Medium,0,4.2
+NM-10546,2023-03-10,3,Mar,Q1,Anambra,PayPorte,Books & Education,25-34,Male,Young Professional,Desktop,Cash on Delivery,Same Day,6898.43,1,6898.43,0,0.0,6898.43,1,3,Medium,0,4.2
+NM-10547,2023-02-09,2,Feb,Q1,Rivers,Amazon Nigeria,Food & Grocery,35-44,Female,Business Owner,Mobile,Card,Same Day,16848.28,1,16848.28,0,0.0,16848.28,1,3,Medium,0,3.3
+NM-10548,2023-02-24,2,Feb,Q1,Oyo,Konga,Books & Education,18-24,Female,Homemaker,Mobile,Transfer,Next Day,7776.46,1,7776.46,10,777.65,6998.81,1,4,High,0,4.3
+NM-10549,2023-12-31,12,Dec,Q4,Anambra,Konga,Electronics,25-34,Female,Homemaker,Mobile,USSD,Standard (5-7 Days),127246.28,1,127246.28,5,6362.31,120883.97,7,4,Medium,0,4.4
+NM-10550,2023-07-07,7,Jul,Q3,Oyo,Jumia,Books & Education,18-24,Female,Student,Mobile,Cash on Delivery,Same Day,2175.99,2,4351.98,5,217.6,4134.38,1,4,High,0,3.5
+NM-10551,2023-02-18,2,Feb,Q1,Kaduna,Jumia,Electronics,25-34,Male,Business Owner,Mobile,Wallet,Standard (5-7 Days),57228.3,1,57228.3,5,2861.41,54366.89,6,3,Medium,0,4.5
+NM-10552,2023-02-21,2,Feb,Q1,Enugu,Jiji,Electronics,35-44,Female,Student,Mobile,Transfer,Next Day,142940.85,5,714704.25,0,0.0,714704.25,2,1,Low,1,4.7
+NM-10553,2023-10-21,10,Oct,Q4,Anambra,WhatsApp Commerce,Home & Living,35-44,Male,Young Professional,Mobile,Wallet,Next Day,59385.62,2,118771.24,5,5938.56,112832.68,1,5,High,0,3.5
+NM-10554,2023-12-30,12,Dec,Q4,Anambra,Jumia,Automobile Parts,18-24,Male,Young Professional,Mobile,Card,2-3 Days,70324.9,1,70324.9,0,0.0,70324.9,3,4,High,0,3.9
+NM-10555,2023-10-20,10,Oct,Q4,Delta,Jumia,Books & Education,25-34,Male,Homemaker,Mobile,Card,Standard (5-7 Days),14564.27,2,29128.54,10,2912.85,26215.69,5,3,Medium,0,4.1
+NM-10556,2023-05-26,5,May,Q2,Delta,Jumia,Food & Grocery,55+,Male,Business Owner,Mobile,Wallet,Standard (5-7 Days),14798.11,1,14798.11,0,0.0,14798.11,7,4,High,0,3.9
+NM-10557,2023-07-05,7,Jul,Q3,Kano,Shoprite Online,Automobile Parts,45-54,Male,Homemaker,Mobile,Wallet,Standard (5-7 Days),129012.93,2,258025.86,10,25802.59,232223.27,5,4,High,0,3.9
+NM-10558,2023-10-25,10,Oct,Q4,Kano,Konga,Electronics,35-44,Male,Retiree,Desktop,Wallet,Next Day,233789.92,5,1168949.6,5,58447.48,1110502.12,1,5,Medium,0,3.5
+NM-10559,2023-03-24,3,Mar,Q1,Borno,Jumia,Books & Education,35-44,Female,Retiree,Tablet,Transfer,Standard (5-7 Days),7679.88,2,15359.76,0,0.0,15359.76,6,1,Low,0,4.1
+NM-10560,2023-05-06,5,May,Q2,Rivers,Shoprite Online,Books & Education,45-54,Female,Young Professional,Mobile,Wallet,2-3 Days,7739.87,4,30959.48,0,0.0,30959.48,3,5,Medium,0,3.5
+NM-10561,2023-01-21,1,Jan,Q1,Enugu,Jumia,Electronics,45-54,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,136730.04,2,273460.08,10,27346.01,246114.07,3,2,Medium,1,4.0
+NM-10562,2023-12-30,12,Dec,Q4,Kaduna,Jumia,Home & Living,35-44,Male,Student,Mobile,Cash on Delivery,2-3 Days,61531.35,1,61531.35,0,0.0,61531.35,3,5,High,0,3.7
+NM-10563,2023-11-21,11,Nov,Q4,Oyo,Jumia,Sports & Fitness,55+,Male,Homemaker,Mobile,Wallet,2-3 Days,27160.34,2,54320.68,10,5432.07,48888.61,2,4,Medium,0,4.3
+NM-10564,2023-06-26,6,Jun,Q2,Kano,Jiji,Health & Beauty,25-34,Female,Homemaker,Desktop,USSD,Standard (5-7 Days),23425.17,2,46850.34,10,4685.03,42165.31,6,3,High,0,4.0
+NM-10565,2023-03-03,3,Mar,Q1,Anambra,Jumia,Fashion,18-24,Female,Homemaker,Mobile,USSD,Next Day,30299.86,1,30299.86,5,1514.99,28784.87,1,4,High,0,3.6
+NM-10566,2023-04-04,4,Apr,Q2,Enugu,WhatsApp Commerce,Fashion,25-34,Female,Young Professional,Mobile,Transfer,Next Day,31967.36,2,63934.72,0,0.0,63934.72,2,5,Medium,0,4.5
+NM-10567,2023-09-02,9,Sep,Q3,Abuja,Instagram Shop,Food & Grocery,25-34,Female,Student,Mobile,Wallet,Next Day,12678.24,1,12678.24,15,1901.74,10776.5,2,4,High,0,4.2
+NM-10568,2023-11-22,11,Nov,Q4,Borno,Konga,Electronics,35-44,Male,Homemaker,Mobile,Wallet,Standard (5-7 Days),220828.45,1,220828.45,0,0.0,220828.45,6,3,Medium,0,4.3
+NM-10569,2023-04-04,4,Apr,Q2,Oyo,Amazon Nigeria,Home & Living,35-44,Male,Homemaker,Mobile,USSD,2-3 Days,61071.75,1,61071.75,25,15267.94,45803.81,3,3,High,0,3.2
+NM-10570,2023-09-29,9,Sep,Q3,Delta,Konga,Food & Grocery,25-34,Male,Student,Desktop,Card,Next Day,12853.14,2,25706.28,20,5141.26,20565.02,1,4,High,0,3.7
+NM-10571,2023-07-09,7,Jul,Q3,Enugu,WhatsApp Commerce,Automobile Parts,55+,Female,Retiree,Mobile,USSD,Standard (5-7 Days),35837.41,1,35837.41,5,1791.87,34045.54,6,3,Medium,0,4.5
+NM-10572,2023-12-27,12,Dec,Q4,Anambra,Jumia,Automobile Parts,35-44,Male,Young Professional,Mobile,USSD,Standard (5-7 Days),46824.91,2,93649.82,0,0.0,93649.82,6,3,Medium,0,4.5
+NM-10573,2023-10-31,10,Oct,Q4,Borno,Jiji,Health & Beauty,35-44,Female,Young Professional,Mobile,Transfer,2-3 Days,17770.83,5,88854.15,0,0.0,88854.15,3,3,High,0,3.2
+NM-10574,2023-06-16,6,Jun,Q2,Kaduna,Jumia,Sports & Fitness,18-24,Female,Young Professional,Desktop,Cash on Delivery,Standard (5-7 Days),78265.59,2,156531.18,15,23479.68,133051.5,7,2,Low,1,4.2
+NM-10575,2023-04-20,4,Apr,Q2,Oyo,PayPorte,Food & Grocery,45-54,Male,Homemaker,Desktop,Transfer,2-3 Days,6235.22,1,6235.22,5,311.76,5923.46,2,5,High,1,3.3
+NM-10576,2023-01-17,1,Jan,Q1,Anambra,Konga,Books & Education,18-24,Male,Homemaker,Desktop,Transfer,2-3 Days,14457.14,3,43371.42,5,2168.57,41202.85,3,3,Low,0,4.2
+NM-10577,2023-08-09,8,Aug,Q3,Abuja,Jiji,Fashion,35-44,Female,Homemaker,Desktop,Wallet,Next Day,37345.74,1,37345.74,20,7469.15,29876.59,1,4,High,0,4.5
+NM-10578,2023-08-07,8,Aug,Q3,Anambra,Amazon Nigeria,Automobile Parts,18-24,Male,Retiree,Mobile,Wallet,Standard (5-7 Days),36895.02,3,110685.06,10,11068.51,99616.55,7,3,High,0,3.7
+NM-10579,2023-01-21,1,Jan,Q1,Borno,Jumia,Food & Grocery,25-34,Female,Business Owner,Mobile,Card,Same Day,19927.65,1,19927.65,25,4981.91,14945.74,1,5,Medium,1,4.7
+NM-10580,2023-04-17,4,Apr,Q2,Kaduna,Jumia,Books & Education,25-34,Female,Student,Desktop,Transfer,Same Day,6635.62,1,6635.62,5,331.78,6303.84,1,5,Medium,1,3.7
+NM-10581,2023-09-17,9,Sep,Q3,Rivers,Jumia,Books & Education,18-24,Female,Retiree,Mobile,Wallet,Standard (5-7 Days),6358.09,1,6358.09,0,0.0,6358.09,5,3,Medium,1,4.0
+NM-10582,2023-05-21,5,May,Q2,Oyo,Amazon Nigeria,Automobile Parts,45-54,Male,Student,Mobile,USSD,Standard (5-7 Days),148088.79,3,444266.37,0,0.0,444266.37,7,1,Low,0,4.2
+NM-10583,2023-03-19,3,Mar,Q1,Rivers,Amazon Nigeria,Health & Beauty,18-24,Female,Retiree,Mobile,USSD,Standard (5-7 Days),26613.92,3,79841.76,0,0.0,79841.76,5,3,Medium,0,4.8
+NM-10584,2023-07-28,7,Jul,Q3,Oyo,Jiji,Electronics,35-44,Male,Homemaker,Mobile,Transfer,Same Day,30577.32,1,30577.32,10,3057.73,27519.59,1,2,Low,0,4.0
+NM-10585,2023-05-12,5,May,Q2,Anambra,Amazon Nigeria,Books & Education,25-34,Female,Retiree,Desktop,Card,2-3 Days,3230.68,2,6461.36,5,323.07,6138.29,3,4,Medium,0,3.3
+NM-10586,2023-12-04,12,Dec,Q4,Kano,Jumia,Fashion,25-34,Male,Retiree,Mobile,Transfer,Same Day,15646.54,2,31293.08,5,1564.65,29728.43,1,5,High,1,4.7
+NM-10587,2023-10-20,10,Oct,Q4,Anambra,Jiji,Home & Living,18-24,Male,Homemaker,Mobile,Card,Next Day,60289.28,3,180867.84,0,0.0,180867.84,2,4,High,0,4.3
+NM-10588,2023-06-25,6,Jun,Q2,Enugu,Instagram Shop,Sports & Fitness,35-44,Female,Business Owner,Mobile,Card,Standard (5-7 Days),62008.47,1,62008.47,15,9301.27,52707.2,7,1,Low,0,3.6
+NM-10589,2023-09-19,9,Sep,Q3,Kaduna,Jumia,Automobile Parts,25-34,Female,Young Professional,Tablet,Wallet,Next Day,45416.57,3,136249.71,0,0.0,136249.71,1,5,High,0,3.6
+NM-10590,2023-11-13,11,Nov,Q4,Enugu,Konga,Home & Living,35-44,Female,Retiree,Mobile,Wallet,Same Day,31019.61,4,124078.44,15,18611.77,105466.67,1,2,Low,0,4.1
+NM-10591,2023-11-01,11,Nov,Q4,Kaduna,Jumia,Health & Beauty,25-34,Female,Business Owner,Mobile,Transfer,2-3 Days,33676.46,1,33676.46,5,1683.82,31992.64,3,5,High,0,4.3
+NM-10592,2023-10-27,10,Oct,Q4,Anambra,Jiji,Home & Living,45-54,Male,Retiree,Mobile,USSD,Next Day,113599.23,1,113599.23,5,5679.96,107919.27,2,4,High,0,4.2
+NM-10593,2023-06-24,6,Jun,Q2,Rivers,PayPorte,Health & Beauty,18-24,Female,Student,Mobile,Transfer,Standard (5-7 Days),30945.15,4,123780.6,0,0.0,123780.6,7,3,High,0,4.4
+NM-10594,2023-09-11,9,Sep,Q3,Delta,Shoprite Online,Home & Living,25-34,Female,Homemaker,Mobile,Wallet,2-3 Days,101221.55,4,404886.2,5,20244.31,384641.89,3,4,High,0,4.3
+NM-10595,2023-08-11,8,Aug,Q3,Oyo,WhatsApp Commerce,Fashion,35-44,Male,Homemaker,Mobile,Transfer,Next Day,30956.4,1,30956.4,15,4643.46,26312.94,2,4,High,0,4.2
+NM-10596,2023-01-21,1,Jan,Q1,Abuja,Jiji,Fashion,45-54,Female,Young Professional,Mobile,Card,Standard (5-7 Days),17586.79,2,35173.58,20,7034.72,28138.86,7,3,Medium,1,3.4
+NM-10597,2023-05-10,5,May,Q2,Kano,Jumia,Sports & Fitness,35-44,Female,Retiree,Mobile,Transfer,Same Day,31252.76,2,62505.52,5,3125.28,59380.24,1,5,High,0,3.7
+NM-10598,2023-11-12,11,Nov,Q4,Enugu,Shoprite Online,Sports & Fitness,45-54,Male,Homemaker,Desktop,Cash on Delivery,Standard (5-7 Days),44905.84,3,134717.52,25,33679.38,101038.14,5,4,High,0,4.3
+NM-10599,2023-06-15,6,Jun,Q2,Anambra,Jumia,Books & Education,35-44,Female,Young Professional,Mobile,USSD,2-3 Days,1715.02,1,1715.02,5,85.75,1629.27,2,4,Medium,0,4.4
+NM-10600,2023-05-31,5,May,Q2,Oyo,Jumia,Sports & Fitness,18-24,Female,Business Owner,Mobile,Wallet,Standard (5-7 Days),50619.92,5,253099.6,5,12654.98,240444.62,5,2,Medium,0,3.8
+NM-10601,2023-08-13,8,Aug,Q3,Rivers,Konga,Home & Living,45-54,Female,Young Professional,Mobile,Card,Same Day,52670.47,2,105340.94,10,10534.09,94806.85,1,5,High,1,4.4
+NM-10602,2023-12-21,12,Dec,Q4,Kaduna,Shoprite Online,Health & Beauty,25-34,Male,Retiree,Mobile,Cash on Delivery,2-3 Days,6871.02,3,20613.06,30,6183.92,14429.14,2,5,High,0,3.6
+NM-10603,2023-08-24,8,Aug,Q3,Borno,Jumia,Sports & Fitness,25-34,Female,Retiree,Desktop,Wallet,Standard (5-7 Days),51029.25,1,51029.25,5,2551.46,48477.79,7,3,High,1,4.4
+NM-10604,2023-03-10,3,Mar,Q1,Abuja,PayPorte,Fashion,25-34,Female,Retiree,Mobile,USSD,Standard (5-7 Days),44420.68,1,44420.68,5,2221.03,42199.65,5,3,High,1,3.3
+NM-10605,2023-02-06,2,Feb,Q1,Enugu,WhatsApp Commerce,Sports & Fitness,35-44,Female,Homemaker,Tablet,Transfer,2-3 Days,50652.63,1,50652.63,15,7597.89,43054.74,2,5,High,0,4.9
+NM-10606,2023-06-25,6,Jun,Q2,Abuja,Konga,Fashion,25-34,Male,Homemaker,Mobile,Cash on Delivery,Standard (5-7 Days),10685.56,1,10685.56,0,0.0,10685.56,6,1,Low,1,4.1
+NM-10607,2023-01-01,1,Jan,Q1,Abuja,Jiji,Electronics,35-44,Male,Student,Mobile,Wallet,Same Day,337805.92,1,337805.92,0,0.0,337805.92,1,5,High,0,3.3
+NM-10608,2023-12-28,12,Dec,Q4,Borno,Konga,Home & Living,35-44,Female,Business Owner,Mobile,USSD,2-3 Days,102286.9,2,204573.8,10,20457.38,184116.42,2,1,Medium,1,3.9
+NM-10609,2023-08-21,8,Aug,Q3,Kaduna,PayPorte,Food & Grocery,55+,Female,Business Owner,Mobile,Transfer,Next Day,23357.95,1,23357.95,5,1167.9,22190.05,2,4,High,0,4.6
+NM-10610,2023-12-02,12,Dec,Q4,Rivers,Shoprite Online,Electronics,45-54,Male,Student,Mobile,USSD,Same Day,122385.28,1,122385.28,10,12238.53,110146.75,1,4,Medium,1,3.9
+NM-10611,2023-05-28,5,May,Q2,Anambra,Konga,Books & Education,35-44,Male,Business Owner,Mobile,Transfer,Standard (5-7 Days),11906.38,2,23812.76,10,2381.28,21431.48,5,2,Medium,1,4.2
+NM-10612,2023-08-11,8,Aug,Q3,Lagos,WhatsApp Commerce,Automobile Parts,45-54,Female,Retiree,Mobile,Card,Same Day,149799.7,1,149799.7,0,0.0,149799.7,1,3,High,1,4.4
+NM-10613,2023-12-19,12,Dec,Q4,Abuja,PayPorte,Books & Education,18-24,Male,Young Professional,Mobile,Card,Same Day,3070.47,1,3070.47,20,614.09,2456.38,1,5,High,0,3.3
+NM-10614,2023-05-20,5,May,Q2,Rivers,Jiji,Health & Beauty,55+,Female,Young Professional,Mobile,Cash on Delivery,Next Day,15799.11,1,15799.11,15,2369.87,13429.24,2,5,High,0,3.8
+NM-10615,2023-04-04,4,Apr,Q2,Delta,Jumia,Home & Living,45-54,Female,Student,Mobile,Transfer,Next Day,66748.07,1,66748.07,15,10012.21,56735.86,2,3,High,0,4.0
+NM-10616,2023-01-20,1,Jan,Q1,Rivers,Instagram Shop,Books & Education,25-34,Male,Homemaker,Mobile,Card,Standard (5-7 Days),12746.78,1,12746.78,15,1912.02,10834.76,6,3,Medium,0,4.2
+NM-10617,2023-05-09,5,May,Q2,Lagos,PayPorte,Home & Living,55+,Male,Student,Desktop,Card,Same Day,111011.57,1,111011.57,0,0.0,111011.57,1,4,Medium,0,3.4
+NM-10618,2023-06-12,6,Jun,Q2,Delta,Jumia,Books & Education,35-44,Male,Business Owner,Desktop,Transfer,2-3 Days,2265.63,2,4531.26,5,226.56,4304.7,2,5,Medium,0,4.0
+NM-10619,2023-11-29,11,Nov,Q4,Borno,Jumia,Automobile Parts,35-44,Male,Retiree,Mobile,Wallet,Same Day,166207.69,1,166207.69,10,16620.77,149586.92,1,5,High,0,3.9
+NM-10620,2023-03-31,3,Mar,Q1,Delta,Konga,Food & Grocery,18-24,Female,Homemaker,Mobile,Cash on Delivery,Next Day,24149.91,1,24149.91,0,0.0,24149.91,1,2,Low,1,3.8
+NM-10621,2023-07-18,7,Jul,Q3,Anambra,Jumia,Sports & Fitness,25-34,Male,Student,Tablet,Card,Standard (5-7 Days),39227.3,1,39227.3,10,3922.73,35304.57,5,2,Low,1,4.7
+NM-10622,2023-11-30,11,Nov,Q4,Enugu,Amazon Nigeria,Automobile Parts,18-24,Male,Retiree,Mobile,USSD,Standard (5-7 Days),94845.4,3,284536.2,25,71134.05,213402.15,5,2,Low,0,3.4
+NM-10623,2023-03-21,3,Mar,Q1,Delta,Jumia,Home & Living,55+,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,78742.39,2,157484.78,15,23622.72,133862.06,3,4,Medium,1,4.7
+NM-10624,2023-01-28,1,Jan,Q1,Borno,Jiji,Electronics,18-24,Female,Homemaker,Desktop,Transfer,Same Day,126055.39,1,126055.39,25,31513.85,94541.54,1,4,High,0,4.8
+NM-10625,2023-03-23,3,Mar,Q1,Borno,Instagram Shop,Books & Education,25-34,Female,Student,Mobile,Cash on Delivery,2-3 Days,13661.03,1,13661.03,5,683.05,12977.98,2,4,High,0,4.8
+NM-10626,2023-09-02,9,Sep,Q3,Abuja,PayPorte,Food & Grocery,45-54,Male,Homemaker,Mobile,Cash on Delivery,Next Day,5920.53,1,5920.53,10,592.05,5328.48,2,4,Medium,0,4.3
+NM-10627,2023-02-26,2,Feb,Q1,Kaduna,Amazon Nigeria,Fashion,35-44,Female,Homemaker,Mobile,USSD,2-3 Days,44701.67,2,89403.34,10,8940.33,80463.01,3,5,High,1,4.0
+NM-10628,2023-01-13,1,Jan,Q1,Borno,Amazon Nigeria,Automobile Parts,25-34,Female,Young Professional,Mobile,Card,Next Day,102004.94,3,306014.82,0,0.0,306014.82,1,5,Medium,0,4.5
+NM-10629,2023-07-14,7,Jul,Q3,Delta,PayPorte,Sports & Fitness,35-44,Male,Young Professional,Mobile,Wallet,Same Day,19172.82,1,19172.82,5,958.64,18214.18,1,5,High,0,4.4
+NM-10630,2023-12-10,12,Dec,Q4,Kano,Instagram Shop,Health & Beauty,18-24,Male,Student,Mobile,Wallet,2-3 Days,5255.85,2,10511.7,5,525.59,9986.11,2,5,Medium,0,3.3
+NM-10631,2023-08-24,8,Aug,Q3,Rivers,Shoprite Online,Fashion,18-24,Female,Student,Desktop,Transfer,Same Day,29502.12,1,29502.12,10,2950.21,26551.91,1,3,High,1,3.4
+NM-10632,2023-09-01,9,Sep,Q3,Abuja,Jumia,Home & Living,25-34,Female,Homemaker,Mobile,Card,Standard (5-7 Days),99018.36,2,198036.72,5,9901.84,188134.88,6,3,High,0,4.2
+NM-10633,2023-02-08,2,Feb,Q1,Abuja,Jumia,Home & Living,35-44,Female,Young Professional,Mobile,USSD,Next Day,26642.83,3,79928.49,15,11989.27,67939.22,1,5,High,0,4.1
+NM-10634,2023-01-31,1,Jan,Q1,Kaduna,Shoprite Online,Electronics,18-24,Female,Retiree,Mobile,USSD,Same Day,222648.21,3,667944.63,0,0.0,667944.63,1,5,High,1,4.4
+NM-10635,2023-07-09,7,Jul,Q3,Borno,PayPorte,Fashion,25-34,Female,Student,Mobile,Wallet,Standard (5-7 Days),23987.19,2,47974.38,5,2398.72,45575.66,7,2,Low,0,4.6
+NM-10636,2023-06-12,6,Jun,Q2,Anambra,Konga,Books & Education,55+,Female,Homemaker,Mobile,Cash on Delivery,Standard (5-7 Days),6649.67,3,19949.01,0,0.0,19949.01,6,4,Medium,0,3.6
+NM-10637,2023-10-09,10,Oct,Q4,Anambra,Konga,Health & Beauty,18-24,Female,Young Professional,Mobile,USSD,Standard (5-7 Days),11524.26,1,11524.26,10,1152.43,10371.83,6,4,High,0,3.6
+NM-10638,2023-06-07,6,Jun,Q2,Kaduna,PayPorte,Health & Beauty,25-34,Male,Retiree,Mobile,Card,Next Day,23024.03,1,23024.03,5,1151.2,21872.83,2,2,Medium,1,3.7
+NM-10639,2023-06-10,6,Jun,Q2,Delta,Jumia,Books & Education,35-44,Female,Retiree,Mobile,USSD,2-3 Days,10057.26,3,30171.78,5,1508.59,28663.19,3,5,High,1,4.2
+NM-10640,2023-07-16,7,Jul,Q3,Rivers,PayPorte,Home & Living,25-34,Female,Young Professional,Mobile,Card,Same Day,91272.12,2,182544.24,0,0.0,182544.24,1,5,High,0,3.8
+NM-10641,2023-06-17,6,Jun,Q2,Rivers,Shoprite Online,Health & Beauty,25-34,Female,Retiree,Mobile,Card,Standard (5-7 Days),14075.49,2,28150.98,10,2815.1,25335.88,6,4,High,0,4.3
+NM-10642,2023-12-25,12,Dec,Q4,Borno,Jiji,Health & Beauty,25-34,Male,Retiree,Desktop,Transfer,2-3 Days,29104.06,1,29104.06,0,0.0,29104.06,3,1,Low,1,5.0
+NM-10643,2023-04-12,4,Apr,Q2,Delta,Jiji,Food & Grocery,55+,Male,Student,Mobile,Wallet,Same Day,18244.82,1,18244.82,0,0.0,18244.82,1,3,High,0,3.7
+NM-10644,2023-01-18,1,Jan,Q1,Kaduna,Amazon Nigeria,Automobile Parts,25-34,Male,Retiree,Mobile,Wallet,2-3 Days,131575.23,1,131575.23,15,19736.28,111838.95,2,4,Medium,0,3.3
+NM-10645,2023-02-05,2,Feb,Q1,Enugu,Jumia,Home & Living,18-24,Male,Retiree,Desktop,Transfer,2-3 Days,61632.41,1,61632.41,10,6163.24,55469.17,2,5,High,0,3.8
+NM-10646,2023-04-30,4,Apr,Q2,Rivers,Jumia,Electronics,18-24,Male,Young Professional,Mobile,Transfer,Standard (5-7 Days),333238.62,4,1332954.48,0,0.0,1332954.48,6,4,Medium,0,4.4
+NM-10647,2023-12-26,12,Dec,Q4,Anambra,Jiji,Electronics,35-44,Male,Homemaker,Mobile,Card,Next Day,42010.19,3,126030.57,10,12603.06,113427.51,1,4,High,0,3.5
+NM-10648,2023-07-21,7,Jul,Q3,Kaduna,Jiji,Food & Grocery,18-24,Female,Student,Desktop,Card,2-3 Days,4740.86,1,4740.86,0,0.0,4740.86,2,2,Low,0,4.5
+NM-10649,2023-10-18,10,Oct,Q4,Oyo,Amazon Nigeria,Home & Living,18-24,Female,Retiree,Desktop,Wallet,Standard (5-7 Days),107373.75,3,322121.25,0,0.0,322121.25,5,2,Low,1,4.4
+NM-10650,2023-05-08,5,May,Q2,Delta,WhatsApp Commerce,Food & Grocery,35-44,Female,Young Professional,Mobile,Cash on Delivery,2-3 Days,3786.5,1,3786.5,0,0.0,3786.5,2,5,High,0,4.1
+NM-10651,2023-01-12,1,Jan,Q1,Kano,Jumia,Sports & Fitness,18-24,Male,Homemaker,Mobile,Card,2-3 Days,26607.71,1,26607.71,0,0.0,26607.71,3,5,High,0,4.5
+NM-10652,2023-12-22,12,Dec,Q4,Lagos,Amazon Nigeria,Books & Education,25-34,Female,Business Owner,Mobile,Card,Next Day,9025.5,1,9025.5,15,1353.83,7671.67,2,4,High,0,3.1
+NM-10653,2023-05-24,5,May,Q2,Anambra,Amazon Nigeria,Automobile Parts,35-44,Female,Young Professional,Tablet,Card,Same Day,144301.13,2,288602.26,0,0.0,288602.26,1,4,Medium,0,3.0
+NM-10654,2023-05-27,5,May,Q2,Lagos,Amazon Nigeria,Automobile Parts,35-44,Female,Young Professional,Tablet,Wallet,Next Day,77894.68,2,155789.36,5,7789.47,147999.89,2,4,High,0,4.5
+NM-10655,2023-09-11,9,Sep,Q3,Kaduna,Konga,Automobile Parts,18-24,Female,Homemaker,Mobile,USSD,2-3 Days,137736.45,1,137736.45,25,34434.11,103302.34,3,3,Medium,0,4.6
+NM-10656,2023-03-23,3,Mar,Q1,Kano,Amazon Nigeria,Sports & Fitness,25-34,Female,Student,Desktop,Wallet,2-3 Days,68683.44,2,137366.88,25,34341.72,103025.16,3,5,High,0,4.0
+NM-10657,2023-07-11,7,Jul,Q3,Borno,Jumia,Food & Grocery,18-24,Female,Homemaker,Mobile,Card,Standard (5-7 Days),14614.37,1,14614.37,10,1461.44,13152.93,7,3,Medium,0,4.3
+NM-10658,2023-12-22,12,Dec,Q4,Delta,Jumia,Home & Living,25-34,Female,Student,Desktop,Transfer,Same Day,114262.72,1,114262.72,5,5713.14,108549.58,1,2,Low,1,3.8
+NM-10659,2023-06-05,6,Jun,Q2,Abuja,Konga,Sports & Fitness,25-34,Male,Retiree,Mobile,Cash on Delivery,2-3 Days,36567.81,2,73135.62,5,3656.78,69478.84,3,4,Medium,0,4.5
+NM-10660,2023-02-14,2,Feb,Q1,Abuja,Konga,Sports & Fitness,55+,Female,Homemaker,Tablet,Cash on Delivery,Same Day,40090.26,1,40090.26,0,0.0,40090.26,1,5,High,0,4.5
+NM-10661,2023-09-15,9,Sep,Q3,Delta,Jumia,Automobile Parts,55+,Male,Business Owner,Mobile,Transfer,Same Day,42796.79,1,42796.79,10,4279.68,38517.11,1,3,Medium,0,4.6
+NM-10662,2023-01-03,1,Jan,Q1,Lagos,Jumia,Sports & Fitness,18-24,Female,Retiree,Mobile,Cash on Delivery,Same Day,33435.08,2,66870.16,10,6687.02,60183.14,1,4,High,0,4.4
+NM-10663,2023-12-24,12,Dec,Q4,Abuja,Jumia,Food & Grocery,25-34,Male,Business Owner,Desktop,Card,Same Day,11889.39,2,23778.78,20,4755.76,19023.02,1,5,High,0,3.8
+NM-10664,2023-08-17,8,Aug,Q3,Kaduna,Konga,Home & Living,35-44,Female,Young Professional,Mobile,Card,Same Day,80884.13,1,80884.13,10,8088.41,72795.72,1,4,High,0,3.7
+NM-10665,2023-03-12,3,Mar,Q1,Anambra,Jumia,Electronics,35-44,Male,Homemaker,Desktop,Wallet,2-3 Days,122042.28,1,122042.28,5,6102.11,115940.17,2,4,Medium,0,4.2
+NM-10666,2023-10-17,10,Oct,Q4,Abuja,Jumia,Food & Grocery,25-34,Female,Retiree,Mobile,Wallet,Standard (5-7 Days),5788.85,2,11577.7,5,578.88,10998.82,6,3,High,0,4.0
+NM-10667,2023-09-18,9,Sep,Q3,Rivers,PayPorte,Sports & Fitness,25-34,Female,Business Owner,Mobile,Cash on Delivery,Next Day,71544.55,2,143089.1,15,21463.37,121625.73,1,5,Medium,0,3.8
+NM-10668,2023-06-24,6,Jun,Q2,Enugu,Jumia,Food & Grocery,25-34,Female,Young Professional,Mobile,Transfer,2-3 Days,8980.43,1,8980.43,5,449.02,8531.41,3,4,High,0,4.4
+NM-10669,2023-02-02,2,Feb,Q1,Borno,PayPorte,Food & Grocery,25-34,Female,Student,Mobile,Cash on Delivery,2-3 Days,7786.64,1,7786.64,0,0.0,7786.64,2,5,Medium,0,4.9
+NM-10670,2023-03-13,3,Mar,Q1,Rivers,Shoprite Online,Automobile Parts,35-44,Female,Young Professional,Mobile,USSD,Next Day,162030.93,2,324061.86,0,0.0,324061.86,2,5,Medium,0,4.8
+NM-10671,2023-05-19,5,May,Q2,Rivers,Jumia,Sports & Fitness,25-34,Female,Retiree,Desktop,Card,2-3 Days,74868.78,1,74868.78,5,3743.44,71125.34,2,2,Low,0,3.8
+NM-10672,2023-09-08,9,Sep,Q3,Delta,Konga,Health & Beauty,18-24,Male,Retiree,Mobile,Wallet,2-3 Days,21846.33,1,21846.33,5,1092.32,20754.01,2,2,Medium,0,4.2
+NM-10673,2023-11-16,11,Nov,Q4,Kano,Shoprite Online,Automobile Parts,18-24,Male,Young Professional,Mobile,Card,Same Day,146157.82,1,146157.82,0,0.0,146157.82,1,5,Medium,0,4.5
+NM-10674,2023-05-19,5,May,Q2,Kano,Shoprite Online,Automobile Parts,18-24,Female,Student,Mobile,Card,Next Day,163433.66,1,163433.66,0,0.0,163433.66,2,4,Medium,0,3.2
+NM-10675,2023-02-11,2,Feb,Q1,Rivers,PayPorte,Automobile Parts,25-34,Male,Young Professional,Desktop,Wallet,Standard (5-7 Days),86438.65,1,86438.65,0,0.0,86438.65,5,3,Medium,1,4.0
+NM-10676,2023-12-27,12,Dec,Q4,Enugu,Konga,Electronics,35-44,Male,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),40914.58,3,122743.74,10,12274.37,110469.37,5,2,Low,1,4.6
+NM-10677,2023-01-11,1,Jan,Q1,Lagos,PayPorte,Home & Living,35-44,Male,Business Owner,Mobile,Transfer,Standard (5-7 Days),61460.11,2,122920.22,20,24584.04,98336.18,6,2,Medium,0,3.4
+NM-10678,2023-03-23,3,Mar,Q1,Borno,Jiji,Home & Living,35-44,Male,Retiree,Tablet,Transfer,Same Day,15623.33,2,31246.66,0,0.0,31246.66,1,3,Low,0,4.7
+NM-10679,2023-04-01,4,Apr,Q2,Kano,Jumia,Health & Beauty,35-44,Female,Student,Mobile,Card,Same Day,11867.9,1,11867.9,5,593.39,11274.51,1,5,High,0,4.6
+NM-10680,2023-01-05,1,Jan,Q1,Kano,Jiji,Books & Education,25-34,Male,Student,Desktop,Wallet,Next Day,5893.95,1,5893.95,0,0.0,5893.95,1,3,Low,0,3.3
+NM-10681,2023-11-07,11,Nov,Q4,Borno,Amazon Nigeria,Health & Beauty,35-44,Male,Business Owner,Mobile,Cash on Delivery,Same Day,27021.69,1,27021.69,5,1351.08,25670.61,1,5,High,0,4.5
+NM-10682,2023-09-15,9,Sep,Q3,Enugu,Konga,Sports & Fitness,25-34,Male,Business Owner,Mobile,Wallet,2-3 Days,69202.44,1,69202.44,0,0.0,69202.44,3,2,Low,0,4.5
+NM-10683,2023-04-27,4,Apr,Q2,Rivers,Konga,Food & Grocery,25-34,Male,Retiree,Desktop,Cash on Delivery,2-3 Days,22784.26,1,22784.26,5,1139.21,21645.05,3,4,Medium,1,4.7
+NM-10684,2023-09-20,9,Sep,Q3,Oyo,Konga,Sports & Fitness,35-44,Male,Retiree,Desktop,Cash on Delivery,Same Day,45922.11,1,45922.11,30,13776.63,32145.48,1,4,High,0,4.5
+NM-10685,2023-11-10,11,Nov,Q4,Enugu,Jumia,Electronics,18-24,Male,Homemaker,Mobile,Wallet,2-3 Days,169197.48,2,338394.96,0,0.0,338394.96,2,5,High,0,4.5
+NM-10686,2023-04-11,4,Apr,Q2,Enugu,Jumia,Food & Grocery,18-24,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,4143.36,1,4143.36,5,207.17,3936.19,2,1,Low,1,4.1
+NM-10687,2023-02-03,2,Feb,Q1,Borno,Jumia,Home & Living,25-34,Female,Student,Tablet,Transfer,Same Day,30195.86,3,90587.58,0,0.0,90587.58,1,5,High,0,4.1
+NM-10688,2023-05-06,5,May,Q2,Oyo,Jiji,Sports & Fitness,45-54,Female,Homemaker,Mobile,USSD,2-3 Days,21191.12,1,21191.12,5,1059.56,20131.56,3,5,Medium,0,4.6
+NM-10689,2023-02-20,2,Feb,Q1,Oyo,Jumia,Food & Grocery,25-34,Male,Retiree,Mobile,Wallet,Next Day,18039.78,1,18039.78,5,901.99,17137.79,2,3,Low,0,4.7
+NM-10690,2023-06-20,6,Jun,Q2,Abuja,Shoprite Online,Electronics,25-34,Female,Young Professional,Mobile,Cash on Delivery,Next Day,329094.0,1,329094.0,0,0.0,329094.0,2,3,Medium,0,3.5
+NM-10691,2023-01-05,1,Jan,Q1,Kano,Konga,Sports & Fitness,18-24,Female,Student,Mobile,Wallet,Same Day,15403.51,1,15403.51,20,3080.7,12322.81,1,5,Medium,0,4.7
+NM-10692,2023-02-12,2,Feb,Q1,Kaduna,PayPorte,Fashion,18-24,Female,Retiree,Mobile,Transfer,2-3 Days,44503.76,2,89007.52,15,13351.13,75656.39,2,5,Medium,0,4.7
+NM-10693,2023-09-21,9,Sep,Q3,Abuja,Amazon Nigeria,Health & Beauty,18-24,Female,Business Owner,Mobile,Card,2-3 Days,5623.91,2,11247.82,10,1124.78,10123.04,3,4,High,0,4.0
+NM-10694,2023-08-25,8,Aug,Q3,Oyo,PayPorte,Automobile Parts,35-44,Male,Retiree,Desktop,Cash on Delivery,2-3 Days,36554.42,1,36554.42,0,0.0,36554.42,2,5,High,0,3.7
+NM-10695,2023-08-31,8,Aug,Q3,Kaduna,Jiji,Books & Education,55+,Male,Homemaker,Mobile,Cash on Delivery,2-3 Days,10358.45,1,10358.45,5,517.92,9840.53,2,1,Low,0,4.3
+NM-10696,2023-10-18,10,Oct,Q4,Anambra,Shoprite Online,Sports & Fitness,35-44,Female,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),69978.17,1,69978.17,20,13995.63,55982.54,6,1,Low,0,4.0
+NM-10697,2023-07-10,7,Jul,Q3,Delta,Instagram Shop,Home & Living,35-44,Female,Student,Mobile,Card,2-3 Days,43775.68,1,43775.68,15,6566.35,37209.33,2,3,High,0,4.0
+NM-10698,2023-05-29,5,May,Q2,Enugu,Konga,Home & Living,55+,Female,Business Owner,Desktop,Cash on Delivery,Standard (5-7 Days),66961.11,2,133922.22,0,0.0,133922.22,6,3,High,0,4.0
+NM-10699,2023-01-20,1,Jan,Q1,Delta,Instagram Shop,Home & Living,25-34,Female,Business Owner,Desktop,USSD,Standard (5-7 Days),98924.67,2,197849.34,10,19784.93,178064.41,5,3,Low,1,3.9
+NM-10700,2023-11-24,11,Nov,Q4,Anambra,Jumia,Electronics,18-24,Female,Retiree,Desktop,Transfer,Standard (5-7 Days),278977.93,2,557955.86,10,55795.59,502160.27,7,3,Medium,0,4.8
+NM-10701,2023-09-03,9,Sep,Q3,Enugu,PayPorte,Food & Grocery,18-24,Female,Retiree,Mobile,Wallet,Standard (5-7 Days),2475.89,1,2475.89,15,371.38,2104.51,7,2,Low,1,3.7
+NM-10702,2023-05-19,5,May,Q2,Oyo,Jumia,Fashion,55+,Male,Young Professional,Tablet,Transfer,Same Day,43536.03,1,43536.03,5,2176.8,41359.23,1,3,High,0,4.5
+NM-10703,2023-06-25,6,Jun,Q2,Kaduna,Jumia,Home & Living,55+,Male,Business Owner,Tablet,Wallet,Same Day,23439.08,3,70317.24,10,7031.72,63285.52,1,4,High,0,4.6
+NM-10704,2023-09-11,9,Sep,Q3,Rivers,Jumia,Books & Education,45-54,Female,Young Professional,Desktop,Wallet,Next Day,9025.68,1,9025.68,5,451.28,8574.4,2,1,Low,1,3.9
+NM-10705,2023-10-11,10,Oct,Q4,Lagos,WhatsApp Commerce,Books & Education,35-44,Male,Retiree,Mobile,Transfer,Same Day,14947.83,2,29895.66,5,1494.78,28400.88,1,4,Medium,0,3.1
+NM-10706,2023-02-08,2,Feb,Q1,Oyo,PayPorte,Food & Grocery,25-34,Male,Retiree,Desktop,USSD,2-3 Days,24427.98,1,24427.98,5,1221.4,23206.58,3,1,Low,0,4.0
+NM-10707,2023-10-23,10,Oct,Q4,Borno,Amazon Nigeria,Sports & Fitness,25-34,Male,Business Owner,Mobile,Transfer,2-3 Days,20135.6,3,60406.8,0,0.0,60406.8,3,5,Medium,0,4.9
+NM-10708,2023-12-03,12,Dec,Q4,Enugu,Jumia,Health & Beauty,45-54,Male,Young Professional,Desktop,Transfer,2-3 Days,13331.16,2,26662.32,0,0.0,26662.32,2,5,High,0,3.7
+NM-10709,2023-04-22,4,Apr,Q2,Enugu,Amazon Nigeria,Home & Living,35-44,Male,Student,Mobile,Transfer,Same Day,88806.1,1,88806.1,15,13320.92,75485.18,1,5,High,0,4.7
+NM-10710,2023-03-11,3,Mar,Q1,Delta,Jiji,Electronics,45-54,Male,Young Professional,Mobile,Cash on Delivery,Next Day,150514.4,2,301028.8,20,60205.76,240823.04,2,4,High,0,4.2
+NM-10711,2023-10-25,10,Oct,Q4,Lagos,WhatsApp Commerce,Automobile Parts,35-44,Female,Student,Mobile,Wallet,Next Day,31035.63,2,62071.26,0,0.0,62071.26,1,5,High,0,3.4
+NM-10712,2023-03-15,3,Mar,Q1,Abuja,Jiji,Home & Living,18-24,Male,Homemaker,Desktop,Transfer,Standard (5-7 Days),21903.57,2,43807.14,0,0.0,43807.14,6,3,Medium,0,4.3
+NM-10713,2023-01-26,1,Jan,Q1,Kano,Jumia,Sports & Fitness,25-34,Male,Retiree,Desktop,Card,Standard (5-7 Days),23160.46,1,23160.46,0,0.0,23160.46,7,2,Medium,0,3.5
+NM-10714,2023-09-02,9,Sep,Q3,Enugu,Jumia,Books & Education,25-34,Female,Student,Mobile,USSD,Standard (5-7 Days),14507.36,1,14507.36,5,725.37,13781.99,5,4,High,1,4.3
+NM-10715,2023-06-08,6,Jun,Q2,Kano,Jumia,Sports & Fitness,45-54,Female,Homemaker,Mobile,Wallet,2-3 Days,60726.62,1,60726.62,10,6072.66,54653.96,2,3,Medium,1,4.6
+NM-10716,2023-12-20,12,Dec,Q4,Borno,Shoprite Online,Food & Grocery,55+,Male,Homemaker,Tablet,Cash on Delivery,Next Day,19702.79,1,19702.79,5,985.14,18717.65,2,2,Medium,1,4.2
+NM-10717,2023-06-22,6,Jun,Q2,Anambra,PayPorte,Sports & Fitness,45-54,Male,Retiree,Mobile,Transfer,Next Day,31122.93,2,62245.86,10,6224.59,56021.27,2,5,Medium,0,3.3
+NM-10718,2023-08-14,8,Aug,Q3,Anambra,Amazon Nigeria,Home & Living,35-44,Female,Student,Mobile,Cash on Delivery,Same Day,87619.56,1,87619.56,0,0.0,87619.56,1,4,High,1,4.3
+NM-10719,2023-11-03,11,Nov,Q4,Delta,Amazon Nigeria,Fashion,18-24,Male,Homemaker,Desktop,USSD,Same Day,25549.43,2,51098.86,15,7664.83,43434.03,1,4,High,0,4.9
+NM-10720,2023-10-22,10,Oct,Q4,Delta,Shoprite Online,Home & Living,25-34,Male,Homemaker,Desktop,Cash on Delivery,Same Day,36932.05,1,36932.05,5,1846.6,35085.45,1,5,Medium,0,3.0
+NM-10721,2023-06-01,6,Jun,Q2,Oyo,Jumia,Food & Grocery,45-54,Male,Business Owner,Desktop,Card,Next Day,12599.67,2,25199.34,0,0.0,25199.34,1,5,High,0,4.6
+NM-10722,2023-12-17,12,Dec,Q4,Anambra,Jumia,Fashion,25-34,Female,Young Professional,Mobile,Card,Next Day,38402.12,1,38402.12,0,0.0,38402.12,1,4,Medium,0,4.2
+NM-10723,2023-11-09,11,Nov,Q4,Enugu,Amazon Nigeria,Sports & Fitness,55+,Male,Student,Mobile,Cash on Delivery,Next Day,67588.44,1,67588.44,5,3379.42,64209.02,1,5,High,1,4.7
+NM-10724,2023-11-29,11,Nov,Q4,Abuja,Shoprite Online,Food & Grocery,35-44,Male,Business Owner,Mobile,Transfer,Same Day,15355.23,2,30710.46,0,0.0,30710.46,1,4,High,0,3.1
+NM-10725,2023-04-02,4,Apr,Q2,Enugu,Jiji,Sports & Fitness,25-34,Male,Retiree,Mobile,Wallet,2-3 Days,7345.41,1,7345.41,15,1101.81,6243.6,2,4,High,0,4.4
+NM-10726,2023-01-14,1,Jan,Q1,Enugu,Jumia,Sports & Fitness,18-24,Female,Retiree,Mobile,Cash on Delivery,2-3 Days,62923.12,2,125846.24,20,25169.25,100676.99,2,3,High,0,4.4
+NM-10727,2023-11-06,11,Nov,Q4,Delta,Instagram Shop,Fashion,18-24,Female,Student,Desktop,Cash on Delivery,2-3 Days,4085.33,1,4085.33,5,204.27,3881.06,2,4,Medium,0,4.6
+NM-10728,2023-09-14,9,Sep,Q3,Borno,PayPorte,Books & Education,18-24,Female,Student,Mobile,USSD,Next Day,9892.34,1,9892.34,5,494.62,9397.72,1,2,Low,0,3.7
+NM-10729,2023-05-18,5,May,Q2,Kaduna,Jumia,Health & Beauty,25-34,Male,Homemaker,Mobile,Wallet,Same Day,19129.68,5,95648.4,5,4782.42,90865.98,1,5,High,0,4.3
+NM-10730,2023-01-09,1,Jan,Q1,Lagos,Konga,Home & Living,35-44,Female,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),93822.14,2,187644.28,25,46911.07,140733.21,5,1,Medium,0,4.7
+NM-10731,2023-09-22,9,Sep,Q3,Enugu,Shoprite Online,Health & Beauty,25-34,Female,Retiree,Tablet,USSD,Standard (5-7 Days),8800.33,2,17600.66,0,0.0,17600.66,6,2,Low,1,4.5
+NM-10732,2023-03-08,3,Mar,Q1,Enugu,Jiji,Health & Beauty,45-54,Female,Young Professional,Mobile,Cash on Delivery,Next Day,14468.34,2,28936.68,10,2893.67,26043.01,1,5,High,0,3.8
+NM-10733,2023-12-12,12,Dec,Q4,Anambra,Jumia,Sports & Fitness,25-34,Male,Retiree,Desktop,USSD,Next Day,32047.62,1,32047.62,0,0.0,32047.62,1,3,Medium,0,3.9
+NM-10734,2023-04-02,4,Apr,Q2,Borno,Instagram Shop,Electronics,35-44,Female,Student,Desktop,Card,Next Day,293189.24,1,293189.24,15,43978.39,249210.85,1,5,High,0,4.4
+NM-10735,2023-04-10,4,Apr,Q2,Lagos,WhatsApp Commerce,Health & Beauty,55+,Female,Business Owner,Mobile,Card,Next Day,29427.08,1,29427.08,5,1471.35,27955.73,1,4,Medium,0,4.2
+NM-10736,2023-04-12,4,Apr,Q2,Enugu,Konga,Fashion,35-44,Female,Student,Mobile,Wallet,Next Day,23688.4,1,23688.4,10,2368.84,21319.56,1,5,High,1,4.2
+NM-10737,2023-01-14,1,Jan,Q1,Kaduna,WhatsApp Commerce,Fashion,18-24,Male,Young Professional,Tablet,Cash on Delivery,Same Day,44885.05,1,44885.05,0,0.0,44885.05,1,3,High,1,3.5
+NM-10738,2023-01-02,1,Jan,Q1,Anambra,Konga,Books & Education,55+,Female,Homemaker,Desktop,USSD,Same Day,13410.8,2,26821.6,5,1341.08,25480.52,1,3,High,0,4.3
+NM-10739,2023-03-13,3,Mar,Q1,Borno,Jumia,Health & Beauty,25-34,Male,Student,Mobile,Card,Standard (5-7 Days),27086.94,1,27086.94,0,0.0,27086.94,7,3,Low,0,3.9
+NM-10740,2023-07-07,7,Jul,Q3,Abuja,Jumia,Electronics,55+,Male,Student,Mobile,USSD,Standard (5-7 Days),226210.12,2,452420.24,5,22621.01,429799.23,6,3,High,0,3.7
+NM-10741,2023-11-08,11,Nov,Q4,Kano,Konga,Electronics,25-34,Male,Homemaker,Tablet,Transfer,Next Day,44607.22,3,133821.66,0,0.0,133821.66,1,4,Medium,0,4.7
+NM-10742,2023-08-06,8,Aug,Q3,Kaduna,Jumia,Automobile Parts,25-34,Female,Student,Mobile,Wallet,Same Day,154505.98,2,309011.96,0,0.0,309011.96,1,5,Medium,1,4.2
+NM-10743,2023-11-27,11,Nov,Q4,Delta,Shoprite Online,Sports & Fitness,25-34,Male,Retiree,Mobile,USSD,Next Day,32447.0,2,64894.0,0,0.0,64894.0,2,4,Medium,0,4.1
+NM-10744,2023-03-26,3,Mar,Q1,Abuja,Shoprite Online,Health & Beauty,55+,Female,Young Professional,Mobile,Wallet,Standard (5-7 Days),15592.79,2,31185.58,10,3118.56,28067.02,7,2,Low,1,4.4
+NM-10745,2023-03-17,3,Mar,Q1,Delta,Jumia,Health & Beauty,35-44,Female,Homemaker,Mobile,Card,Standard (5-7 Days),13236.5,1,13236.5,0,0.0,13236.5,5,4,High,0,4.5
+NM-10746,2023-08-23,8,Aug,Q3,Anambra,Konga,Electronics,18-24,Female,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),270870.19,5,1354350.95,0,0.0,1354350.95,7,2,Medium,1,4.4
+NM-10747,2023-12-06,12,Dec,Q4,Kaduna,PayPorte,Food & Grocery,45-54,Female,Student,Desktop,Wallet,Same Day,4709.52,1,4709.52,10,470.95,4238.57,1,5,Medium,0,3.7
+NM-10748,2023-04-21,4,Apr,Q2,Kano,Konga,Health & Beauty,25-34,Female,Homemaker,Desktop,Transfer,Standard (5-7 Days),2985.33,1,2985.33,5,149.27,2836.06,7,2,Medium,1,4.0
+NM-10749,2023-04-25,4,Apr,Q2,Kano,Jumia,Health & Beauty,45-54,Male,Student,Mobile,Wallet,Same Day,2531.79,2,5063.58,10,506.36,4557.22,1,5,High,0,3.6
+NM-10750,2023-05-23,5,May,Q2,Rivers,Shoprite Online,Sports & Fitness,25-34,Female,Young Professional,Mobile,Transfer,Standard (5-7 Days),10087.94,2,20175.88,0,0.0,20175.88,6,3,Low,0,3.4
+NM-10751,2023-09-11,9,Sep,Q3,Borno,Instagram Shop,Automobile Parts,35-44,Male,Student,Mobile,Card,Next Day,92604.71,2,185209.42,5,9260.47,175948.95,1,5,High,0,3.3
+NM-10752,2023-10-17,10,Oct,Q4,Lagos,Jiji,Fashion,55+,Female,Retiree,Desktop,Cash on Delivery,Standard (5-7 Days),32369.77,2,64739.54,15,9710.93,55028.61,6,4,Medium,1,3.4
+NM-10753,2023-02-25,2,Feb,Q1,Delta,Jumia,Food & Grocery,25-34,Female,Retiree,Mobile,USSD,Next Day,12745.43,4,50981.72,5,2549.09,48432.63,1,3,High,0,4.5
+NM-10754,2023-08-18,8,Aug,Q3,Rivers,Shoprite Online,Sports & Fitness,25-34,Male,Student,Mobile,Card,2-3 Days,9649.54,2,19299.08,0,0.0,19299.08,2,5,High,0,3.8
+NM-10755,2023-02-22,2,Feb,Q1,Enugu,Jumia,Fashion,25-34,Female,Retiree,Mobile,Cash on Delivery,Next Day,19731.1,1,19731.1,20,3946.22,15784.88,2,4,Medium,0,4.6
+NM-10756,2023-09-09,9,Sep,Q3,Borno,Jiji,Food & Grocery,18-24,Female,Student,Mobile,Transfer,Standard (5-7 Days),20041.07,2,40082.14,5,2004.11,38078.03,7,2,Low,1,3.8
+NM-10757,2023-03-02,3,Mar,Q1,Kaduna,Jumia,Books & Education,25-34,Female,Homemaker,Mobile,Transfer,Standard (5-7 Days),7623.25,2,15246.5,5,762.33,14484.17,6,3,High,0,4.5
+NM-10758,2023-07-21,7,Jul,Q3,Anambra,Jiji,Fashion,35-44,Male,Young Professional,Mobile,Card,2-3 Days,31507.38,2,63014.76,0,0.0,63014.76,3,4,Medium,0,4.3
+NM-10759,2023-12-16,12,Dec,Q4,Kano,Jumia,Food & Grocery,35-44,Female,Homemaker,Mobile,USSD,Same Day,8175.9,1,8175.9,10,817.59,7358.31,1,3,High,0,4.7
+NM-10760,2023-11-07,11,Nov,Q4,Rivers,PayPorte,Automobile Parts,35-44,Male,Young Professional,Mobile,Wallet,2-3 Days,72842.42,2,145684.84,10,14568.48,131116.36,2,3,High,0,4.9
+NM-10761,2023-07-19,7,Jul,Q3,Lagos,PayPorte,Books & Education,45-54,Male,Retiree,Mobile,Transfer,Next Day,7947.62,1,7947.62,25,1986.9,5960.72,1,5,Medium,0,4.4
+NM-10762,2023-03-20,3,Mar,Q1,Delta,Konga,Books & Education,25-34,Female,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),12800.11,1,12800.11,10,1280.01,11520.1,7,1,Low,0,4.3
+NM-10763,2023-12-18,12,Dec,Q4,Rivers,Konga,Health & Beauty,25-34,Female,Retiree,Mobile,Transfer,Standard (5-7 Days),17340.65,1,17340.65,10,1734.07,15606.58,7,2,Medium,0,4.1
+NM-10764,2023-05-18,5,May,Q2,Anambra,Jumia,Sports & Fitness,35-44,Female,Homemaker,Mobile,Wallet,Next Day,64004.67,3,192014.01,0,0.0,192014.01,1,5,High,1,4.5
+NM-10765,2023-12-22,12,Dec,Q4,Delta,Jumia,Sports & Fitness,25-34,Female,Retiree,Mobile,Cash on Delivery,Next Day,20892.55,1,20892.55,15,3133.88,17758.67,2,5,Medium,0,3.5
+NM-10766,2023-05-28,5,May,Q2,Delta,Jiji,Automobile Parts,35-44,Female,Young Professional,Mobile,Wallet,2-3 Days,166373.5,1,166373.5,0,0.0,166373.5,2,5,Medium,0,4.7
+NM-10767,2023-05-31,5,May,Q2,Kaduna,Jiji,Health & Beauty,25-34,Male,Business Owner,Mobile,Transfer,Next Day,17244.49,1,17244.49,5,862.22,16382.27,1,4,Medium,0,4.5
+NM-10768,2023-03-18,3,Mar,Q1,Enugu,Jumia,Automobile Parts,55+,Male,Business Owner,Desktop,Cash on Delivery,Same Day,141848.18,2,283696.36,0,0.0,283696.36,1,4,High,1,4.2
+NM-10769,2023-10-13,10,Oct,Q4,Enugu,Jumia,Food & Grocery,25-34,Female,Retiree,Mobile,Cash on Delivery,Next Day,21698.43,1,21698.43,0,0.0,21698.43,1,5,High,0,4.5
+NM-10770,2023-09-19,9,Sep,Q3,Enugu,Konga,Books & Education,18-24,Female,Business Owner,Mobile,Wallet,Next Day,6053.35,2,12106.7,10,1210.67,10896.03,2,5,High,0,3.7
+NM-10771,2023-01-21,1,Jan,Q1,Borno,Instagram Shop,Fashion,55+,Male,Student,Tablet,Cash on Delivery,Next Day,4800.75,3,14402.25,5,720.11,13682.14,1,5,High,1,4.7
+NM-10772,2023-11-21,11,Nov,Q4,Kaduna,Amazon Nigeria,Fashion,18-24,Male,Student,Mobile,Card,Standard (5-7 Days),20878.68,2,41757.36,10,4175.74,37581.62,6,4,High,0,5.0
+NM-10773,2023-01-04,1,Jan,Q1,Delta,Jumia,Home & Living,35-44,Male,Homemaker,Mobile,Cash on Delivery,2-3 Days,19919.7,3,59759.1,30,17927.73,41831.37,3,3,High,0,3.7
+NM-10774,2023-11-27,11,Nov,Q4,Enugu,Shoprite Online,Fashion,25-34,Male,Young Professional,Mobile,Card,Next Day,3297.54,1,3297.54,0,0.0,3297.54,2,4,High,0,4.1
+NM-10775,2023-06-29,6,Jun,Q2,Kaduna,Jumia,Food & Grocery,18-24,Male,Retiree,Mobile,Cash on Delivery,Standard (5-7 Days),13041.83,1,13041.83,15,1956.27,11085.56,6,1,Low,0,4.6
+NM-10776,2023-11-27,11,Nov,Q4,Delta,Konga,Home & Living,35-44,Female,Retiree,Mobile,Transfer,Next Day,58908.84,1,58908.84,10,5890.88,53017.96,1,5,High,1,4.7
+NM-10777,2023-02-21,2,Feb,Q1,Kaduna,Jumia,Food & Grocery,35-44,Female,Retiree,Tablet,Wallet,Next Day,18854.52,2,37709.04,10,3770.9,33938.14,1,5,High,0,4.8
+NM-10778,2023-11-27,11,Nov,Q4,Borno,Amazon Nigeria,Home & Living,25-34,Female,Business Owner,Mobile,USSD,2-3 Days,58248.16,2,116496.32,5,5824.82,110671.5,3,3,Low,0,4.7
+NM-10779,2023-10-26,10,Oct,Q4,Borno,Shoprite Online,Books & Education,45-54,Female,Retiree,Mobile,Wallet,Next Day,7423.75,1,7423.75,0,0.0,7423.75,1,4,High,0,4.8
+NM-10780,2023-12-12,12,Dec,Q4,Abuja,Jumia,Sports & Fitness,18-24,Male,Young Professional,Mobile,Card,Next Day,61208.92,1,61208.92,15,9181.34,52027.58,2,3,Low,0,4.1
+NM-10781,2023-07-21,7,Jul,Q3,Delta,Jiji,Books & Education,18-24,Female,Homemaker,Mobile,USSD,2-3 Days,13978.08,2,27956.16,20,5591.23,22364.93,2,3,Medium,1,4.3
+NM-10782,2023-10-20,10,Oct,Q4,Borno,Amazon Nigeria,Sports & Fitness,55+,Female,Business Owner,Mobile,Transfer,Next Day,72289.02,3,216867.06,0,0.0,216867.06,1,5,High,0,3.4
+NM-10783,2023-02-12,2,Feb,Q1,Oyo,PayPorte,Home & Living,35-44,Female,Student,Mobile,Transfer,Same Day,29197.97,2,58395.94,0,0.0,58395.94,1,2,Low,0,4.4
+NM-10784,2023-03-08,3,Mar,Q1,Delta,Konga,Food & Grocery,18-24,Male,Student,Mobile,Transfer,Same Day,23005.56,1,23005.56,10,2300.56,20705.0,1,5,High,0,3.8
+NM-10785,2023-01-07,1,Jan,Q1,Borno,Shoprite Online,Home & Living,25-34,Male,Homemaker,Mobile,Transfer,Standard (5-7 Days),80938.78,1,80938.78,20,16187.76,64751.02,5,4,Medium,0,4.6
+NM-10786,2023-05-27,5,May,Q2,Anambra,Jiji,Food & Grocery,55+,Male,Retiree,Desktop,USSD,2-3 Days,10638.27,1,10638.27,15,1595.74,9042.53,3,4,Medium,0,4.3
+NM-10787,2023-04-28,4,Apr,Q2,Rivers,PayPorte,Sports & Fitness,45-54,Female,Student,Desktop,Card,Standard (5-7 Days),77635.3,1,77635.3,0,0.0,77635.3,7,2,Low,0,3.1
+NM-10788,2023-03-24,3,Mar,Q1,Abuja,Amazon Nigeria,Food & Grocery,25-34,Male,Homemaker,Mobile,Transfer,Same Day,13024.14,2,26048.28,0,0.0,26048.28,1,5,High,0,3.0
+NM-10789,2023-03-23,3,Mar,Q1,Rivers,Jumia,Health & Beauty,25-34,Female,Retiree,Mobile,Wallet,2-3 Days,29402.45,2,58804.9,10,5880.49,52924.41,3,3,Low,0,4.0
+NM-10790,2023-06-28,6,Jun,Q2,Delta,Jiji,Books & Education,25-34,Female,Student,Mobile,USSD,Same Day,6521.59,1,6521.59,0,0.0,6521.59,1,5,High,0,3.0
+NM-10791,2023-07-31,7,Jul,Q3,Lagos,Jiji,Fashion,45-54,Female,Retiree,Mobile,Wallet,Same Day,26261.42,1,26261.42,5,1313.07,24948.35,1,5,Medium,0,4.5
+NM-10792,2023-04-11,4,Apr,Q2,Kaduna,Konga,Food & Grocery,35-44,Male,Homemaker,Mobile,Wallet,2-3 Days,13692.35,1,13692.35,0,0.0,13692.35,3,3,Low,0,4.0
+NM-10793,2023-01-09,1,Jan,Q1,Enugu,Instagram Shop,Books & Education,18-24,Male,Student,Mobile,USSD,Next Day,9129.27,1,9129.27,10,912.93,8216.34,2,4,High,0,4.1
+NM-10794,2023-08-12,8,Aug,Q3,Kaduna,Jumia,Home & Living,45-54,Female,Young Professional,Mobile,Wallet,2-3 Days,99667.2,1,99667.2,10,9966.72,89700.48,2,5,Medium,0,3.6
+NM-10795,2023-03-05,3,Mar,Q1,Kaduna,Jiji,Electronics,35-44,Female,Homemaker,Desktop,Transfer,Standard (5-7 Days),321166.35,1,321166.35,15,48174.95,272991.4,7,4,High,0,4.4
+NM-10796,2023-11-09,11,Nov,Q4,Oyo,Jiji,Sports & Fitness,35-44,Male,Homemaker,Mobile,Card,2-3 Days,50272.54,1,50272.54,10,5027.25,45245.29,3,4,Medium,0,3.9
+NM-10797,2023-02-20,2,Feb,Q1,Delta,PayPorte,Automobile Parts,25-34,Male,Homemaker,Mobile,Cash on Delivery,Same Day,36500.45,1,36500.45,25,9125.11,27375.34,1,4,Medium,0,3.4
+NM-10798,2023-05-16,5,May,Q2,Enugu,PayPorte,Health & Beauty,45-54,Male,Young Professional,Mobile,Wallet,Standard (5-7 Days),7867.14,1,7867.14,30,2360.14,5507.0,5,3,Medium,0,4.1
+NM-10799,2023-10-07,10,Oct,Q4,Kano,Jumia,Automobile Parts,18-24,Female,Student,Desktop,Transfer,2-3 Days,189193.12,2,378386.24,0,0.0,378386.24,2,2,Low,0,3.9
+NM-10800,2023-03-03,3,Mar,Q1,Enugu,Jumia,Fashion,25-34,Male,Retiree,Desktop,Wallet,2-3 Days,21954.24,3,65862.72,5,3293.14,62569.58,3,4,High,0,4.2
+NM-10801,2023-11-01,11,Nov,Q4,Anambra,Konga,Books & Education,25-34,Male,Student,Desktop,Transfer,Next Day,6943.6,2,13887.2,10,1388.72,12498.48,1,5,Medium,0,4.2
+NM-10802,2023-04-28,4,Apr,Q2,Delta,PayPorte,Automobile Parts,25-34,Female,Retiree,Tablet,Wallet,Same Day,144969.34,1,144969.34,15,21745.4,123223.94,1,5,High,0,4.0
+NM-10803,2023-11-06,11,Nov,Q4,Enugu,Jiji,Sports & Fitness,18-24,Female,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),74393.26,2,148786.52,0,0.0,148786.52,7,2,Low,0,3.6
+NM-10804,2023-10-24,10,Oct,Q4,Abuja,Konga,Food & Grocery,18-24,Female,Student,Mobile,Wallet,Next Day,19481.13,3,58443.39,5,2922.17,55521.22,1,5,High,0,4.4
+NM-10805,2023-09-27,9,Sep,Q3,Rivers,Jiji,Automobile Parts,18-24,Female,Young Professional,Tablet,Card,Standard (5-7 Days),93473.47,2,186946.94,5,9347.35,177599.59,6,1,Low,1,3.5
+NM-10806,2023-01-01,1,Jan,Q1,Borno,Jiji,Food & Grocery,25-34,Female,Retiree,Mobile,Card,Next Day,9859.77,5,49298.85,0,0.0,49298.85,2,4,High,0,4.8
+NM-10807,2023-11-29,11,Nov,Q4,Kaduna,Instagram Shop,Health & Beauty,35-44,Male,Student,Mobile,USSD,Same Day,3525.89,1,3525.89,0,0.0,3525.89,1,5,High,1,4.9
+NM-10808,2023-01-02,1,Jan,Q1,Abuja,Shoprite Online,Food & Grocery,25-34,Female,Homemaker,Mobile,USSD,Same Day,21924.87,1,21924.87,10,2192.49,19732.38,1,5,High,0,3.5
+NM-10809,2023-05-08,5,May,Q2,Kaduna,Jiji,Automobile Parts,35-44,Female,Student,Tablet,Cash on Delivery,Standard (5-7 Days),142185.1,2,284370.2,10,28437.02,255933.18,7,3,Medium,1,3.2
+NM-10810,2023-01-30,1,Jan,Q1,Kaduna,Jiji,Sports & Fitness,35-44,Female,Young Professional,Mobile,Transfer,Next Day,68206.2,2,136412.4,30,40923.72,95488.68,1,2,Low,1,3.5
+NM-10811,2023-02-21,2,Feb,Q1,Borno,Jiji,Automobile Parts,55+,Female,Homemaker,Mobile,Card,Standard (5-7 Days),106816.21,1,106816.21,5,5340.81,101475.4,6,1,Low,1,3.6
+NM-10812,2023-10-13,10,Oct,Q4,Borno,Jumia,Electronics,35-44,Female,Young Professional,Desktop,USSD,2-3 Days,220485.81,1,220485.81,5,11024.29,209461.52,3,3,High,1,4.6
+NM-10813,2023-06-13,6,Jun,Q2,Delta,Shoprite Online,Sports & Fitness,35-44,Male,Business Owner,Desktop,Wallet,Standard (5-7 Days),77321.6,1,77321.6,10,7732.16,69589.44,5,2,Low,0,3.3
+NM-10814,2023-01-28,1,Jan,Q1,Kano,Shoprite Online,Sports & Fitness,35-44,Male,Business Owner,Mobile,USSD,2-3 Days,4695.86,4,18783.44,5,939.17,17844.27,2,3,Low,0,3.9
+NM-10815,2023-04-01,4,Apr,Q2,Delta,PayPorte,Books & Education,25-34,Male,Business Owner,Mobile,USSD,Same Day,5292.56,5,26462.8,0,0.0,26462.8,1,2,Low,0,5.0
+NM-10816,2023-01-07,1,Jan,Q1,Delta,PayPorte,Food & Grocery,25-34,Female,Young Professional,Desktop,Card,2-3 Days,23412.66,1,23412.66,0,0.0,23412.66,3,4,Medium,0,3.3
+NM-10817,2023-09-30,9,Sep,Q3,Rivers,Jiji,Home & Living,35-44,Female,Business Owner,Mobile,Cash on Delivery,2-3 Days,10530.77,2,21061.54,25,5265.39,15796.15,3,5,Medium,0,4.4
+NM-10818,2023-05-11,5,May,Q2,Rivers,Jiji,Health & Beauty,18-24,Female,Retiree,Desktop,USSD,Same Day,12428.85,1,12428.85,10,1242.88,11185.97,1,5,Medium,0,4.9
+NM-10819,2023-04-16,4,Apr,Q2,Delta,Jumia,Books & Education,25-34,Female,Homemaker,Desktop,Wallet,Standard (5-7 Days),4779.1,1,4779.1,10,477.91,4301.19,5,1,Low,0,4.1
+NM-10820,2023-11-22,11,Nov,Q4,Lagos,PayPorte,Electronics,45-54,Male,Young Professional,Mobile,Transfer,Next Day,80111.24,1,80111.24,30,24033.37,56077.87,1,5,Medium,1,3.7
+NM-10821,2023-08-31,8,Aug,Q3,Rivers,Amazon Nigeria,Electronics,35-44,Male,Business Owner,Desktop,Transfer,Same Day,184227.42,1,184227.42,0,0.0,184227.42,1,4,High,0,3.5
+NM-10822,2023-12-27,12,Dec,Q4,Lagos,Shoprite Online,Home & Living,35-44,Male,Business Owner,Desktop,Wallet,Standard (5-7 Days),95192.0,1,95192.0,10,9519.2,85672.8,7,3,Low,0,4.0
+NM-10823,2023-11-03,11,Nov,Q4,Oyo,Amazon Nigeria,Automobile Parts,45-54,Female,Retiree,Mobile,Wallet,Next Day,19696.81,5,98484.05,5,4924.2,93559.85,1,4,Medium,0,3.1
+NM-10824,2023-10-31,10,Oct,Q4,Abuja,Amazon Nigeria,Automobile Parts,45-54,Female,Homemaker,Mobile,USSD,Next Day,94309.85,1,94309.85,0,0.0,94309.85,1,5,High,0,4.6
+NM-10825,2023-03-01,3,Mar,Q1,Borno,Jumia,Food & Grocery,18-24,Male,Student,Desktop,Wallet,Next Day,2342.77,1,2342.77,20,468.55,1874.22,1,5,High,0,4.6
+NM-10826,2023-07-16,7,Jul,Q3,Borno,PayPorte,Books & Education,45-54,Male,Student,Mobile,Cash on Delivery,Same Day,12257.6,1,12257.6,20,2451.52,9806.08,1,5,Medium,0,3.1
+NM-10827,2023-01-18,1,Jan,Q1,Delta,Jumia,Food & Grocery,45-54,Female,Young Professional,Mobile,Card,2-3 Days,2083.95,2,4167.9,30,1250.37,2917.53,3,1,Low,1,4.6
+NM-10828,2023-11-28,11,Nov,Q4,Kaduna,Jumia,Electronics,25-34,Male,Student,Mobile,Cash on Delivery,Standard (5-7 Days),146650.77,1,146650.77,20,29330.15,117320.62,6,1,Low,1,3.8
+NM-10829,2023-10-11,10,Oct,Q4,Borno,Konga,Electronics,25-34,Male,Business Owner,Desktop,USSD,Standard (5-7 Days),62176.95,1,62176.95,10,6217.69,55959.26,6,3,High,0,4.2
+NM-10830,2023-10-30,10,Oct,Q4,Enugu,Amazon Nigeria,Fashion,25-34,Male,Young Professional,Mobile,Cash on Delivery,Same Day,21007.68,1,21007.68,15,3151.15,17856.53,1,5,Medium,0,3.9
+NM-10831,2023-10-20,10,Oct,Q4,Kaduna,Konga,Food & Grocery,35-44,Female,Business Owner,Mobile,Cash on Delivery,Same Day,10476.51,1,10476.51,0,0.0,10476.51,1,5,Medium,0,3.6
+NM-10832,2023-11-27,11,Nov,Q4,Kano,Konga,Automobile Parts,25-34,Female,Young Professional,Mobile,Wallet,Same Day,113873.76,1,113873.76,10,11387.38,102486.38,1,4,High,0,3.6
+NM-10833,2023-05-31,5,May,Q2,Lagos,Shoprite Online,Health & Beauty,45-54,Male,Business Owner,Mobile,USSD,Same Day,14617.57,3,43852.71,0,0.0,43852.71,1,5,High,0,4.7
+NM-10834,2023-08-24,8,Aug,Q3,Borno,Jumia,Electronics,25-34,Female,Young Professional,Mobile,Transfer,2-3 Days,72511.82,3,217535.46,0,0.0,217535.46,2,3,High,0,4.5
+NM-10835,2023-08-20,8,Aug,Q3,Lagos,Jumia,Books & Education,18-24,Male,Homemaker,Mobile,Wallet,Next Day,4745.0,1,4745.0,5,237.25,4507.75,2,4,High,0,4.7
+NM-10836,2023-06-11,6,Jun,Q2,Abuja,Jumia,Sports & Fitness,55+,Female,Retiree,Mobile,Transfer,Same Day,18130.66,1,18130.66,20,3626.13,14504.53,1,3,High,0,3.6
+NM-10837,2023-06-09,6,Jun,Q2,Anambra,Jiji,Electronics,45-54,Female,Student,Tablet,Transfer,Same Day,203194.42,1,203194.42,0,0.0,203194.42,1,5,High,0,3.3
+NM-10838,2023-06-09,6,Jun,Q2,Oyo,Jumia,Books & Education,55+,Male,Retiree,Mobile,Transfer,Next Day,12447.65,1,12447.65,20,2489.53,9958.12,1,4,High,0,4.4
+NM-10839,2023-05-04,5,May,Q2,Abuja,Konga,Health & Beauty,25-34,Female,Student,Tablet,Card,Standard (5-7 Days),13465.34,3,40396.02,5,2019.8,38376.22,6,4,High,0,3.8
+NM-10840,2023-11-19,11,Nov,Q4,Oyo,Amazon Nigeria,Home & Living,45-54,Male,Young Professional,Mobile,Wallet,2-3 Days,116440.43,1,116440.43,20,23288.09,93152.34,3,2,Medium,0,3.9
+NM-10841,2023-01-18,1,Jan,Q1,Kaduna,Konga,Sports & Fitness,35-44,Male,Young Professional,Mobile,Cash on Delivery,Next Day,45104.0,1,45104.0,15,6765.6,38338.4,1,5,Medium,1,3.8
+NM-10842,2023-12-27,12,Dec,Q4,Abuja,WhatsApp Commerce,Books & Education,18-24,Female,Homemaker,Tablet,Wallet,Same Day,14222.8,2,28445.6,0,0.0,28445.6,1,2,Low,1,4.9
+NM-10843,2023-10-17,10,Oct,Q4,Abuja,PayPorte,Electronics,45-54,Female,Business Owner,Mobile,Transfer,Standard (5-7 Days),134710.37,4,538841.48,0,0.0,538841.48,5,2,Medium,1,3.7
+NM-10844,2023-04-08,4,Apr,Q2,Borno,Jumia,Sports & Fitness,18-24,Male,Young Professional,Mobile,Transfer,Standard (5-7 Days),68183.89,1,68183.89,10,6818.39,61365.5,7,1,Medium,0,4.7
+NM-10845,2023-01-17,1,Jan,Q1,Borno,Jumia,Health & Beauty,18-24,Male,Student,Mobile,Transfer,Same Day,31044.32,1,31044.32,10,3104.43,27939.89,1,5,High,1,3.9
+NM-10846,2023-01-24,1,Jan,Q1,Borno,Jiji,Food & Grocery,35-44,Male,Young Professional,Mobile,Wallet,2-3 Days,10310.96,1,10310.96,0,0.0,10310.96,2,1,Medium,0,3.1
+NM-10847,2023-03-06,3,Mar,Q1,Anambra,PayPorte,Books & Education,25-34,Female,Retiree,Mobile,USSD,Standard (5-7 Days),11174.86,4,44699.44,10,4469.94,40229.5,7,3,High,0,3.0
+NM-10848,2023-01-06,1,Jan,Q1,Anambra,Konga,Automobile Parts,18-24,Male,Business Owner,Mobile,Card,Next Day,21992.68,1,21992.68,5,1099.63,20893.05,2,3,Low,0,3.6
+NM-10849,2023-01-17,1,Jan,Q1,Kano,PayPorte,Food & Grocery,45-54,Male,Retiree,Desktop,Card,2-3 Days,15140.31,2,30280.62,20,6056.12,24224.5,3,1,Low,0,3.5
+NM-10850,2023-01-04,1,Jan,Q1,Kano,Amazon Nigeria,Fashion,35-44,Female,Homemaker,Mobile,Transfer,Next Day,14826.78,2,29653.56,25,7413.39,22240.17,2,4,High,0,4.7
+NM-10851,2023-12-10,12,Dec,Q4,Abuja,Jumia,Automobile Parts,55+,Male,Homemaker,Mobile,USSD,Next Day,162388.52,1,162388.52,0,0.0,162388.52,1,5,Medium,1,4.4
+NM-10852,2023-01-04,1,Jan,Q1,Kano,Jumia,Books & Education,25-34,Female,Student,Mobile,Transfer,Next Day,3942.59,1,3942.59,25,985.65,2956.94,1,5,High,0,4.4
+NM-10853,2023-10-09,10,Oct,Q4,Kaduna,Jiji,Automobile Parts,25-34,Male,Young Professional,Desktop,Transfer,Standard (5-7 Days),113715.41,2,227430.82,20,45486.16,181944.66,5,3,Low,0,3.1
+NM-10854,2023-11-08,11,Nov,Q4,Lagos,Shoprite Online,Sports & Fitness,18-24,Female,Retiree,Mobile,Card,Next Day,75637.97,1,75637.97,10,7563.8,68074.17,1,5,Medium,0,4.0
+NM-10855,2023-11-17,11,Nov,Q4,Kano,PayPorte,Books & Education,35-44,Female,Homemaker,Mobile,Card,Next Day,14009.39,5,70046.95,0,0.0,70046.95,1,3,Medium,1,4.3
+NM-10856,2023-11-18,11,Nov,Q4,Kano,Instagram Shop,Fashion,35-44,Female,Homemaker,Mobile,Transfer,Next Day,33861.03,1,33861.03,10,3386.1,30474.93,1,5,Medium,0,4.0
+NM-10857,2023-09-15,9,Sep,Q3,Kano,PayPorte,Fashion,45-54,Female,Student,Mobile,Card,Same Day,6928.56,1,6928.56,0,0.0,6928.56,1,2,Low,0,4.9
+NM-10858,2023-01-12,1,Jan,Q1,Delta,Konga,Sports & Fitness,18-24,Male,Young Professional,Desktop,Cash on Delivery,Next Day,53533.86,5,267669.3,0,0.0,267669.3,1,5,High,0,4.2
+NM-10859,2023-03-25,3,Mar,Q1,Abuja,Instagram Shop,Electronics,18-24,Male,Business Owner,Mobile,USSD,2-3 Days,65529.98,1,65529.98,20,13106.0,52423.98,3,1,Low,1,3.8
+NM-10860,2023-07-21,7,Jul,Q3,Anambra,Konga,Electronics,18-24,Female,Young Professional,Mobile,Cash on Delivery,Next Day,136287.02,1,136287.02,10,13628.7,122658.32,2,1,Low,0,4.4
+NM-10861,2023-03-28,3,Mar,Q1,Borno,Konga,Electronics,25-34,Male,Homemaker,Mobile,USSD,Next Day,144089.01,1,144089.01,15,21613.35,122475.66,1,4,High,1,4.7
+NM-10862,2023-11-01,11,Nov,Q4,Enugu,PayPorte,Health & Beauty,25-34,Female,Business Owner,Mobile,Card,Same Day,33387.06,2,66774.12,15,10016.12,56758.0,1,4,High,0,4.2
+NM-10863,2023-05-25,5,May,Q2,Anambra,Jumia,Home & Living,35-44,Female,Young Professional,Mobile,Wallet,Next Day,113931.99,5,569659.95,0,0.0,569659.95,2,4,Medium,0,4.6
+NM-10864,2023-08-28,8,Aug,Q3,Rivers,Jumia,Sports & Fitness,55+,Male,Business Owner,Mobile,Wallet,2-3 Days,63155.51,1,63155.51,10,6315.55,56839.96,3,5,High,0,4.4
+NM-10865,2023-07-17,7,Jul,Q3,Kaduna,Instagram Shop,Sports & Fitness,55+,Male,Student,Mobile,Card,Standard (5-7 Days),74770.69,2,149541.38,10,14954.14,134587.24,5,4,Medium,0,3.0
+NM-10866,2023-06-15,6,Jun,Q2,Lagos,Jiji,Health & Beauty,35-44,Female,Business Owner,Mobile,Wallet,Next Day,28062.14,1,28062.14,5,1403.11,26659.03,2,2,Low,0,3.5
+NM-10867,2023-11-30,11,Nov,Q4,Borno,WhatsApp Commerce,Health & Beauty,55+,Female,Business Owner,Mobile,Card,Same Day,20195.01,1,20195.01,15,3029.25,17165.76,1,4,High,0,3.1
+NM-10868,2023-03-04,3,Mar,Q1,Borno,Konga,Books & Education,25-34,Female,Young Professional,Mobile,Card,Same Day,8191.71,1,8191.71,5,409.59,7782.12,1,3,High,0,4.2
+NM-10869,2023-08-24,8,Aug,Q3,Kaduna,Jumia,Sports & Fitness,45-54,Female,Homemaker,Desktop,USSD,Standard (5-7 Days),23741.88,3,71225.64,10,7122.56,64103.08,5,3,High,0,4.6
+NM-10870,2023-03-09,3,Mar,Q1,Lagos,PayPorte,Automobile Parts,45-54,Male,Business Owner,Desktop,USSD,Next Day,118842.51,1,118842.51,5,5942.13,112900.38,1,2,Low,1,4.3
+NM-10871,2023-01-24,1,Jan,Q1,Kaduna,Shoprite Online,Books & Education,35-44,Female,Retiree,Mobile,Wallet,2-3 Days,1990.95,4,7963.8,5,398.19,7565.61,2,3,Medium,0,4.9
+NM-10872,2023-11-18,11,Nov,Q4,Abuja,Konga,Health & Beauty,35-44,Female,Student,Tablet,Card,Next Day,25059.15,1,25059.15,0,0.0,25059.15,1,4,High,0,3.7
+NM-10873,2023-11-12,11,Nov,Q4,Lagos,Jiji,Food & Grocery,25-34,Female,Retiree,Desktop,Wallet,Next Day,10101.72,3,30305.16,10,3030.52,27274.64,1,4,High,0,4.4
+NM-10874,2023-04-27,4,Apr,Q2,Rivers,Amazon Nigeria,Food & Grocery,35-44,Male,Homemaker,Mobile,Transfer,Next Day,11734.22,1,11734.22,5,586.71,11147.51,1,3,Low,1,3.1
+NM-10875,2023-09-09,9,Sep,Q3,Kano,Konga,Books & Education,25-34,Male,Business Owner,Desktop,Transfer,Next Day,3183.2,1,3183.2,5,159.16,3024.04,1,3,High,0,4.1
+NM-10876,2023-04-18,4,Apr,Q2,Oyo,Jiji,Health & Beauty,35-44,Male,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),34339.54,4,137358.16,30,41207.45,96150.71,5,4,High,0,3.6
+NM-10877,2023-11-13,11,Nov,Q4,Kano,Konga,Food & Grocery,18-24,Male,Student,Mobile,Card,Standard (5-7 Days),24836.76,1,24836.76,5,1241.84,23594.92,5,4,High,0,4.6
+NM-10878,2023-09-06,9,Sep,Q3,Abuja,Jiji,Health & Beauty,18-24,Male,Young Professional,Mobile,Cash on Delivery,2-3 Days,24242.58,1,24242.58,10,2424.26,21818.32,2,4,High,0,4.5
+NM-10879,2023-12-03,12,Dec,Q4,Kano,Konga,Electronics,35-44,Female,Homemaker,Desktop,Wallet,Next Day,137400.63,1,137400.63,15,20610.09,116790.54,2,3,High,0,4.4
+NM-10880,2023-12-10,12,Dec,Q4,Kaduna,Jumia,Health & Beauty,25-34,Male,Business Owner,Mobile,Transfer,2-3 Days,5468.03,2,10936.06,10,1093.61,9842.45,3,4,Medium,0,3.7
+NM-10881,2023-03-18,3,Mar,Q1,Oyo,Jumia,Food & Grocery,18-24,Female,Retiree,Mobile,Transfer,Same Day,9072.06,4,36288.24,10,3628.82,32659.42,1,5,High,0,3.8
+NM-10882,2023-12-12,12,Dec,Q4,Kano,Konga,Books & Education,18-24,Female,Retiree,Mobile,Card,Next Day,11822.65,1,11822.65,5,591.13,11231.52,2,3,High,0,4.2
+NM-10883,2023-10-24,10,Oct,Q4,Oyo,Jumia,Fashion,55+,Female,Young Professional,Mobile,Cash on Delivery,Same Day,29751.24,1,29751.24,0,0.0,29751.24,1,5,Medium,0,3.9
+NM-10884,2023-08-26,8,Aug,Q3,Oyo,Jiji,Books & Education,18-24,Female,Student,Mobile,USSD,Same Day,6841.18,1,6841.18,10,684.12,6157.06,1,4,High,0,4.9
+NM-10885,2023-07-28,7,Jul,Q3,Anambra,Shoprite Online,Automobile Parts,45-54,Male,Business Owner,Mobile,USSD,2-3 Days,54898.67,1,54898.67,0,0.0,54898.67,2,4,High,0,4.9
+NM-10886,2023-07-09,7,Jul,Q3,Delta,Jumia,Sports & Fitness,25-34,Male,Retiree,Mobile,Card,Next Day,49110.9,2,98221.8,0,0.0,98221.8,2,4,High,0,3.6
+NM-10887,2023-06-19,6,Jun,Q2,Kaduna,Jiji,Sports & Fitness,35-44,Male,Homemaker,Mobile,Wallet,Standard (5-7 Days),61282.66,3,183847.98,25,45962.0,137885.98,6,3,High,0,3.6
+NM-10888,2023-10-22,10,Oct,Q4,Abuja,Konga,Home & Living,35-44,Male,Homemaker,Mobile,Wallet,2-3 Days,106305.52,3,318916.56,0,0.0,318916.56,2,1,Low,0,4.8
+NM-10889,2023-08-17,8,Aug,Q3,Enugu,Jiji,Health & Beauty,55+,Female,Young Professional,Mobile,Transfer,Same Day,6695.38,2,13390.76,0,0.0,13390.76,1,4,High,0,4.3
+NM-10890,2023-05-23,5,May,Q2,Anambra,Konga,Books & Education,25-34,Male,Retiree,Mobile,Wallet,Same Day,9150.25,3,27450.75,5,1372.54,26078.21,1,5,High,0,4.0
+NM-10891,2023-04-08,4,Apr,Q2,Kano,Shoprite Online,Home & Living,25-34,Female,Business Owner,Mobile,Cash on Delivery,2-3 Days,43038.25,1,43038.25,10,4303.82,38734.43,2,5,Medium,0,3.4
+NM-10892,2023-02-07,2,Feb,Q1,Abuja,Jumia,Sports & Fitness,25-34,Male,Business Owner,Mobile,Wallet,2-3 Days,20934.49,1,20934.49,5,1046.72,19887.77,3,3,Medium,1,3.5
+NM-10893,2023-04-29,4,Apr,Q2,Rivers,Jumia,Books & Education,35-44,Male,Homemaker,Mobile,USSD,Next Day,10454.36,2,20908.72,5,1045.44,19863.28,2,4,High,0,3.7
+NM-10894,2023-08-27,8,Aug,Q3,Oyo,Konga,Electronics,25-34,Male,Homemaker,Desktop,Card,Standard (5-7 Days),103271.15,5,516355.75,5,25817.79,490537.96,5,2,Medium,0,4.3
+NM-10895,2023-03-20,3,Mar,Q1,Oyo,Konga,Sports & Fitness,18-24,Male,Young Professional,Mobile,Card,Next Day,51394.24,1,51394.24,0,0.0,51394.24,1,5,Medium,0,3.8
+NM-10896,2023-08-13,8,Aug,Q3,Anambra,Konga,Fashion,25-34,Female,Young Professional,Mobile,Transfer,Standard (5-7 Days),38947.92,1,38947.92,5,1947.4,37000.52,5,4,Medium,0,4.7
+NM-10897,2023-03-09,3,Mar,Q1,Kano,Instagram Shop,Health & Beauty,25-34,Female,Young Professional,Mobile,Cash on Delivery,Next Day,4016.67,1,4016.67,5,200.83,3815.84,1,5,High,0,3.1
+NM-10898,2023-09-01,9,Sep,Q3,Kaduna,Jumia,Automobile Parts,35-44,Female,Young Professional,Mobile,USSD,Standard (5-7 Days),131301.08,2,262602.16,5,13130.11,249472.05,5,3,High,1,3.8
+NM-10899,2023-03-17,3,Mar,Q1,Anambra,Konga,Home & Living,35-44,Male,Homemaker,Desktop,Wallet,Next Day,44040.02,3,132120.06,0,0.0,132120.06,1,2,Medium,0,4.4
+NM-10900,2023-04-06,4,Apr,Q2,Enugu,PayPorte,Food & Grocery,35-44,Female,Student,Mobile,Card,Standard (5-7 Days),4293.78,1,4293.78,25,1073.44,3220.34,7,1,Medium,1,4.5
+NM-10901,2023-04-26,4,Apr,Q2,Lagos,PayPorte,Fashion,35-44,Female,Homemaker,Desktop,Cash on Delivery,2-3 Days,28127.1,1,28127.1,10,2812.71,25314.39,3,4,High,0,3.2
+NM-10902,2023-01-11,1,Jan,Q1,Kano,Jumia,Books & Education,35-44,Male,Homemaker,Desktop,Cash on Delivery,Next Day,6369.67,1,6369.67,0,0.0,6369.67,2,4,Medium,0,4.7
+NM-10903,2023-01-10,1,Jan,Q1,Rivers,Shoprite Online,Electronics,25-34,Male,Homemaker,Desktop,Wallet,2-3 Days,117085.64,3,351256.92,5,17562.85,333694.07,2,4,Medium,0,4.4
+NM-10904,2023-05-12,5,May,Q2,Enugu,PayPorte,Fashion,35-44,Male,Retiree,Desktop,Wallet,Next Day,29204.39,3,87613.17,5,4380.66,83232.51,1,5,Medium,0,4.0
+NM-10905,2023-10-05,10,Oct,Q4,Kaduna,Shoprite Online,Food & Grocery,18-24,Male,Retiree,Mobile,USSD,Standard (5-7 Days),3925.44,3,11776.32,0,0.0,11776.32,5,3,Low,0,4.7
+NM-10906,2023-12-09,12,Dec,Q4,Anambra,Jumia,Food & Grocery,25-34,Male,Retiree,Mobile,Wallet,Standard (5-7 Days),18564.64,1,18564.64,5,928.23,17636.41,5,3,Low,0,3.5
+NM-10907,2023-04-25,4,Apr,Q2,Enugu,Konga,Home & Living,18-24,Female,Homemaker,Desktop,Card,Same Day,86002.84,1,86002.84,15,12900.43,73102.41,1,3,High,0,3.9
+NM-10908,2023-01-05,1,Jan,Q1,Abuja,PayPorte,Food & Grocery,55+,Male,Business Owner,Mobile,Cash on Delivery,Standard (5-7 Days),4391.57,2,8783.14,10,878.31,7904.83,6,2,Low,0,4.6
+NM-10909,2023-07-18,7,Jul,Q3,Kano,Jiji,Books & Education,45-54,Female,Retiree,Mobile,Cash on Delivery,Next Day,10110.38,1,10110.38,20,2022.08,8088.3,2,4,Medium,0,4.2
+NM-10910,2023-03-25,3,Mar,Q1,Anambra,Shoprite Online,Food & Grocery,35-44,Male,Student,Mobile,Transfer,2-3 Days,16069.89,1,16069.89,15,2410.48,13659.41,3,4,High,0,4.4
+NM-10911,2023-11-30,11,Nov,Q4,Abuja,Jumia,Books & Education,35-44,Female,Young Professional,Desktop,Card,2-3 Days,3671.93,2,7343.86,0,0.0,7343.86,2,5,Medium,0,3.5
+NM-10912,2023-06-14,6,Jun,Q2,Lagos,Konga,Home & Living,18-24,Male,Business Owner,Mobile,Card,Standard (5-7 Days),77657.95,1,77657.95,0,0.0,77657.95,7,3,High,0,4.0
+NM-10913,2023-08-12,8,Aug,Q3,Borno,Jumia,Electronics,18-24,Male,Retiree,Mobile,Transfer,Standard (5-7 Days),327743.4,3,983230.2,0,0.0,983230.2,7,4,Medium,0,3.6
+NM-10914,2023-02-25,2,Feb,Q1,Kaduna,Jiji,Automobile Parts,25-34,Male,Business Owner,Mobile,Card,Next Day,8157.53,1,8157.53,0,0.0,8157.53,1,5,High,0,4.5
+NM-10915,2023-12-25,12,Dec,Q4,Rivers,Konga,Food & Grocery,25-34,Female,Retiree,Desktop,Cash on Delivery,Standard (5-7 Days),2455.05,4,9820.2,5,491.01,9329.19,7,1,Medium,0,4.7
+NM-10916,2023-07-29,7,Jul,Q3,Enugu,Jumia,Health & Beauty,25-34,Male,Homemaker,Desktop,Card,Next Day,6295.31,3,18885.93,10,1888.59,16997.34,2,5,High,0,3.7
+NM-10917,2023-07-01,7,Jul,Q3,Lagos,WhatsApp Commerce,Food & Grocery,35-44,Female,Young Professional,Mobile,Cash on Delivery,Standard (5-7 Days),15219.16,1,15219.16,5,760.96,14458.2,7,3,High,1,3.7
+NM-10918,2023-08-16,8,Aug,Q3,Rivers,Jiji,Automobile Parts,35-44,Female,Young Professional,Desktop,Transfer,Next Day,59478.48,1,59478.48,15,8921.77,50556.71,2,5,High,0,3.8
+NM-10919,2023-10-20,10,Oct,Q4,Lagos,Jiji,Books & Education,35-44,Female,Student,Mobile,USSD,2-3 Days,5337.06,1,5337.06,25,1334.27,4002.79,3,4,High,0,4.3
+NM-10920,2023-11-06,11,Nov,Q4,Rivers,Konga,Fashion,25-34,Male,Business Owner,Mobile,Cash on Delivery,Same Day,9999.94,2,19999.88,15,2999.98,16999.9,1,3,High,0,4.7
+NM-10921,2023-10-01,10,Oct,Q4,Lagos,Konga,Health & Beauty,45-54,Male,Young Professional,Mobile,Wallet,Same Day,29590.82,1,29590.82,0,0.0,29590.82,1,5,Medium,0,4.1
+NM-10922,2023-01-08,1,Jan,Q1,Enugu,Jiji,Books & Education,25-34,Female,Retiree,Desktop,USSD,2-3 Days,3516.59,4,14066.36,15,2109.95,11956.41,2,3,High,0,4.5
+NM-10923,2023-10-17,10,Oct,Q4,Anambra,Jumia,Sports & Fitness,25-34,Female,Retiree,Mobile,Card,Standard (5-7 Days),18560.22,1,18560.22,10,1856.02,16704.2,6,3,Medium,0,3.5
+NM-10924,2023-08-07,8,Aug,Q3,Abuja,Jiji,Food & Grocery,18-24,Female,Homemaker,Desktop,Cash on Delivery,Same Day,10564.31,2,21128.62,0,0.0,21128.62,1,5,High,1,3.8
+NM-10925,2023-07-13,7,Jul,Q3,Oyo,PayPorte,Automobile Parts,18-24,Female,Young Professional,Desktop,Wallet,2-3 Days,35218.57,2,70437.14,0,0.0,70437.14,3,2,Medium,1,3.2
+NM-10926,2023-07-19,7,Jul,Q3,Lagos,Konga,Home & Living,25-34,Female,Young Professional,Mobile,USSD,2-3 Days,39911.01,1,39911.01,15,5986.65,33924.36,2,4,High,0,3.9
+NM-10927,2023-11-02,11,Nov,Q4,Delta,Amazon Nigeria,Food & Grocery,18-24,Female,Homemaker,Mobile,USSD,Next Day,3296.2,2,6592.4,5,329.62,6262.78,1,5,Medium,0,3.3
+NM-10928,2023-12-31,12,Dec,Q4,Delta,Konga,Automobile Parts,35-44,Female,Retiree,Mobile,USSD,Next Day,137620.5,2,275241.0,0,0.0,275241.0,2,5,High,0,4.2
+NM-10929,2023-07-05,7,Jul,Q3,Delta,Konga,Fashion,25-34,Female,Retiree,Mobile,Cash on Delivery,Same Day,15957.58,1,15957.58,5,797.88,15159.7,1,4,Medium,0,4.6
+NM-10930,2023-11-05,11,Nov,Q4,Oyo,Jumia,Books & Education,18-24,Male,Young Professional,Mobile,Transfer,Standard (5-7 Days),4242.86,1,4242.86,5,212.14,4030.72,5,1,Low,1,4.3
+NM-10931,2023-06-30,6,Jun,Q2,Borno,WhatsApp Commerce,Automobile Parts,45-54,Female,Student,Mobile,Transfer,Next Day,160525.55,1,160525.55,5,8026.28,152499.27,1,5,Medium,0,3.9
+NM-10932,2023-02-24,2,Feb,Q1,Oyo,Konga,Home & Living,18-24,Female,Homemaker,Desktop,USSD,Same Day,45967.65,2,91935.3,0,0.0,91935.3,1,3,Medium,0,4.3
+NM-10933,2023-07-12,7,Jul,Q3,Anambra,Jiji,Fashion,35-44,Female,Homemaker,Mobile,USSD,Next Day,29422.41,1,29422.41,25,7355.6,22066.81,2,4,Medium,0,3.1
+NM-10934,2023-06-24,6,Jun,Q2,Borno,Jiji,Books & Education,45-54,Female,Homemaker,Mobile,Card,Next Day,3710.3,2,7420.6,10,742.06,6678.54,2,3,Medium,0,4.9
+NM-10935,2023-06-18,6,Jun,Q2,Enugu,Jumia,Books & Education,45-54,Female,Student,Mobile,Wallet,2-3 Days,10073.98,2,20147.96,15,3022.19,17125.77,2,2,Low,1,4.7
+NM-10936,2023-06-18,6,Jun,Q2,Abuja,Shoprite Online,Health & Beauty,45-54,Male,Homemaker,Mobile,Wallet,Standard (5-7 Days),26894.91,1,26894.91,20,5378.98,21515.93,5,4,Medium,0,4.7
+NM-10937,2023-08-11,8,Aug,Q3,Enugu,WhatsApp Commerce,Fashion,25-34,Female,Retiree,Mobile,Transfer,Same Day,38654.69,1,38654.69,0,0.0,38654.69,1,3,High,0,3.0
+NM-10938,2023-08-06,8,Aug,Q3,Lagos,Shoprite Online,Food & Grocery,25-34,Male,Retiree,Mobile,Transfer,Same Day,23266.07,2,46532.14,0,0.0,46532.14,1,5,High,0,4.5
+NM-10939,2023-10-22,10,Oct,Q4,Delta,WhatsApp Commerce,Electronics,35-44,Male,Homemaker,Mobile,USSD,Same Day,95778.92,2,191557.84,0,0.0,191557.84,1,3,High,0,3.5
+NM-10940,2023-01-22,1,Jan,Q1,Anambra,Jumia,Electronics,45-54,Female,Young Professional,Mobile,Wallet,Same Day,109941.37,1,109941.37,0,0.0,109941.37,1,5,High,0,3.8
+NM-10941,2023-05-04,5,May,Q2,Anambra,Jumia,Books & Education,35-44,Male,Young Professional,Mobile,Transfer,Standard (5-7 Days),12279.47,1,12279.47,0,0.0,12279.47,6,1,Low,0,4.0
+NM-10942,2023-07-21,7,Jul,Q3,Anambra,Jumia,Books & Education,18-24,Male,Business Owner,Mobile,Wallet,Same Day,14413.0,2,28826.0,10,2882.6,25943.4,1,4,Medium,0,4.3
+NM-10943,2023-12-27,12,Dec,Q4,Anambra,Jumia,Home & Living,45-54,Male,Homemaker,Mobile,USSD,Standard (5-7 Days),83540.13,1,83540.13,20,16708.03,66832.1,7,4,High,0,4.6
+NM-10944,2023-01-05,1,Jan,Q1,Lagos,WhatsApp Commerce,Fashion,18-24,Female,Retiree,Mobile,Transfer,Same Day,14090.47,1,14090.47,0,0.0,14090.47,1,5,High,0,4.2
+NM-10945,2023-12-22,12,Dec,Q4,Borno,Jumia,Home & Living,25-34,Male,Retiree,Mobile,Transfer,Same Day,91959.72,3,275879.16,20,55175.83,220703.33,1,5,Medium,0,3.9
+NM-10946,2023-03-11,3,Mar,Q1,Kaduna,Shoprite Online,Sports & Fitness,25-34,Female,Retiree,Desktop,Transfer,2-3 Days,68285.23,1,68285.23,0,0.0,68285.23,2,5,High,1,4.6
+NM-10947,2023-08-29,8,Aug,Q3,Anambra,Amazon Nigeria,Health & Beauty,25-34,Male,Young Professional,Mobile,Transfer,Same Day,16903.59,2,33807.18,25,8451.8,25355.38,1,5,High,0,3.2
+NM-10948,2023-03-10,3,Mar,Q1,Lagos,Jiji,Fashion,18-24,Male,Retiree,Mobile,USSD,Same Day,17644.59,2,35289.18,25,8822.3,26466.88,1,5,Medium,0,3.1
+NM-10949,2023-09-11,9,Sep,Q3,Kaduna,Konga,Food & Grocery,18-24,Female,Retiree,Mobile,Transfer,Same Day,17857.74,3,53573.22,0,0.0,53573.22,1,5,High,0,4.1
+NM-10950,2023-10-13,10,Oct,Q4,Borno,Jumia,Food & Grocery,18-24,Female,Retiree,Desktop,Card,Standard (5-7 Days),12917.4,2,25834.8,30,7750.44,18084.36,5,2,Low,0,3.8
+NM-10951,2023-09-27,9,Sep,Q3,Rivers,Jumia,Fashion,18-24,Male,Young Professional,Mobile,Transfer,Same Day,21128.09,2,42256.18,0,0.0,42256.18,1,5,High,0,4.5
+NM-10952,2023-07-29,7,Jul,Q3,Lagos,Jiji,Home & Living,18-24,Male,Young Professional,Desktop,Cash on Delivery,Next Day,115220.16,2,230440.32,0,0.0,230440.32,2,3,Low,0,3.3
+NM-10953,2023-12-02,12,Dec,Q4,Borno,WhatsApp Commerce,Electronics,18-24,Female,Business Owner,Mobile,Cash on Delivery,Same Day,166242.79,1,166242.79,0,0.0,166242.79,1,5,High,0,3.4
+NM-10954,2023-02-26,2,Feb,Q1,Lagos,Shoprite Online,Health & Beauty,35-44,Female,Retiree,Desktop,USSD,Standard (5-7 Days),21008.08,1,21008.08,30,6302.42,14705.66,5,3,Medium,0,5.0
+NM-10955,2023-07-23,7,Jul,Q3,Kano,Shoprite Online,Health & Beauty,25-34,Male,Homemaker,Desktop,USSD,Next Day,3000.39,1,3000.39,0,0.0,3000.39,2,5,High,0,3.5
+NM-10956,2023-11-17,11,Nov,Q4,Delta,Shoprite Online,Books & Education,35-44,Male,Homemaker,Mobile,Card,Next Day,6267.15,1,6267.15,20,1253.43,5013.72,2,4,High,0,4.9
+NM-10957,2023-02-24,2,Feb,Q1,Kano,Jumia,Sports & Fitness,25-34,Male,Retiree,Mobile,USSD,Same Day,47697.91,1,47697.91,25,11924.48,35773.43,1,5,High,0,4.2
+NM-10958,2023-01-05,1,Jan,Q1,Anambra,Jumia,Automobile Parts,25-34,Female,Retiree,Mobile,Wallet,Next Day,104038.38,1,104038.38,5,5201.92,98836.46,1,5,Medium,0,4.1
+NM-10959,2023-09-28,9,Sep,Q3,Borno,Amazon Nigeria,Food & Grocery,25-34,Female,Homemaker,Mobile,Transfer,Same Day,23465.67,2,46931.34,25,11732.83,35198.51,1,5,High,0,5.0
+NM-10960,2023-09-28,9,Sep,Q3,Oyo,Jiji,Automobile Parts,18-24,Female,Homemaker,Mobile,USSD,Next Day,86761.94,1,86761.94,0,0.0,86761.94,1,5,High,0,4.5
+NM-10961,2023-09-23,9,Sep,Q3,Lagos,Konga,Sports & Fitness,18-24,Male,Homemaker,Desktop,Transfer,Same Day,32644.66,2,65289.32,15,9793.4,55495.92,1,5,Medium,0,4.2
+NM-10962,2023-11-18,11,Nov,Q4,Abuja,Jumia,Fashion,25-34,Female,Retiree,Desktop,Cash on Delivery,Same Day,9395.26,1,9395.26,10,939.53,8455.73,1,5,High,0,4.4
+NM-10963,2023-05-06,5,May,Q2,Lagos,Konga,Sports & Fitness,25-34,Male,Young Professional,Mobile,USSD,Standard (5-7 Days),7087.91,1,7087.91,10,708.79,6379.12,5,3,High,0,4.1
+NM-10964,2023-03-14,3,Mar,Q1,Abuja,Jiji,Fashion,35-44,Male,Business Owner,Mobile,USSD,2-3 Days,34887.64,4,139550.56,5,6977.53,132573.03,2,3,High,0,3.7
+NM-10965,2023-11-02,11,Nov,Q4,Kaduna,Shoprite Online,Health & Beauty,25-34,Female,Homemaker,Mobile,Cash on Delivery,2-3 Days,10637.44,2,21274.88,15,3191.23,18083.65,3,2,Low,1,4.4
+NM-10966,2023-05-28,5,May,Q2,Kano,PayPorte,Fashion,25-34,Female,Student,Mobile,Wallet,Next Day,43662.13,1,43662.13,20,8732.43,34929.7,1,4,High,0,4.8
+NM-10967,2023-01-05,1,Jan,Q1,Delta,Jumia,Sports & Fitness,25-34,Male,Business Owner,Mobile,Card,Next Day,26394.1,1,26394.1,0,0.0,26394.1,1,5,High,0,4.8
+NM-10968,2023-01-29,1,Jan,Q1,Kaduna,Jiji,Health & Beauty,25-34,Male,Student,Mobile,Cash on Delivery,Same Day,11096.32,1,11096.32,0,0.0,11096.32,1,3,Low,0,4.8
+NM-10969,2023-12-02,12,Dec,Q4,Kano,Jumia,Food & Grocery,25-34,Male,Young Professional,Desktop,Wallet,Same Day,22802.34,4,91209.36,15,13681.4,77527.96,1,5,Medium,0,4.7
+NM-10970,2023-11-21,11,Nov,Q4,Oyo,Jumia,Electronics,25-34,Male,Business Owner,Mobile,USSD,Standard (5-7 Days),115448.33,3,346344.99,0,0.0,346344.99,5,1,Medium,0,4.1
+NM-10971,2023-03-25,3,Mar,Q1,Kano,Jumia,Sports & Fitness,55+,Female,Retiree,Tablet,Wallet,Standard (5-7 Days),75455.3,2,150910.6,15,22636.59,128274.01,7,4,High,0,4.4
+NM-10972,2023-08-15,8,Aug,Q3,Anambra,Instagram Shop,Automobile Parts,55+,Female,Young Professional,Desktop,Card,Same Day,177703.83,1,177703.83,10,17770.38,159933.45,1,5,Medium,0,3.4
+NM-10973,2023-03-06,3,Mar,Q1,Lagos,Jumia,Fashion,55+,Female,Student,Mobile,Wallet,Standard (5-7 Days),12882.33,3,38646.99,15,5797.05,32849.94,6,3,High,0,4.7
+NM-10974,2023-03-30,3,Mar,Q1,Kano,Jumia,Automobile Parts,25-34,Female,Retiree,Mobile,USSD,Next Day,11300.85,1,11300.85,10,1130.09,10170.76,2,2,Low,0,4.1
+NM-10975,2023-04-02,4,Apr,Q2,Lagos,Amazon Nigeria,Automobile Parts,25-34,Female,Business Owner,Mobile,Card,2-3 Days,147011.01,1,147011.01,0,0.0,147011.01,2,4,Medium,0,4.6
+NM-10976,2023-01-16,1,Jan,Q1,Lagos,Jumia,Food & Grocery,45-54,Male,Retiree,Mobile,USSD,Same Day,4724.67,1,4724.67,5,236.23,4488.44,1,5,High,0,4.8
+NM-10977,2023-01-17,1,Jan,Q1,Rivers,Jumia,Home & Living,18-24,Female,Young Professional,Mobile,Transfer,Same Day,112911.22,1,112911.22,20,22582.24,90328.98,1,3,High,0,4.1
+NM-10978,2023-01-27,1,Jan,Q1,Enugu,Konga,Fashion,35-44,Female,Student,Desktop,Cash on Delivery,2-3 Days,33313.86,1,33313.86,10,3331.39,29982.47,3,3,Medium,0,3.8
+NM-10979,2023-09-28,9,Sep,Q3,Delta,Konga,Sports & Fitness,25-34,Male,Business Owner,Mobile,Wallet,Same Day,55375.67,3,166127.01,10,16612.7,149514.31,1,5,Medium,0,4.0
+NM-10980,2023-10-29,10,Oct,Q4,Anambra,Jumia,Fashion,45-54,Female,Young Professional,Mobile,Wallet,Next Day,29617.22,1,29617.22,5,1480.86,28136.36,1,4,High,0,4.7
+NM-10981,2023-09-14,9,Sep,Q3,Lagos,Jumia,Health & Beauty,35-44,Male,Retiree,Mobile,Wallet,2-3 Days,3523.03,1,3523.03,0,0.0,3523.03,2,3,Medium,0,3.7
+NM-10982,2023-12-08,12,Dec,Q4,Borno,Jumia,Automobile Parts,45-54,Male,Retiree,Mobile,Wallet,2-3 Days,98654.68,1,98654.68,5,4932.73,93721.95,2,4,High,1,4.4
+NM-10983,2023-01-05,1,Jan,Q1,Kano,Jumia,Electronics,25-34,Male,Young Professional,Desktop,Transfer,Next Day,87891.18,1,87891.18,25,21972.79,65918.39,2,5,High,0,4.3
+NM-10984,2023-08-06,8,Aug,Q3,Oyo,Jiji,Health & Beauty,25-34,Male,Retiree,Mobile,Wallet,Same Day,22022.33,3,66066.99,15,9910.05,56156.94,1,3,Medium,0,4.0
+NM-10985,2023-06-18,6,Jun,Q2,Kaduna,Shoprite Online,Automobile Parts,35-44,Female,Student,Mobile,USSD,Next Day,52673.13,1,52673.13,0,0.0,52673.13,2,5,High,0,5.0
+NM-10986,2023-02-26,2,Feb,Q1,Delta,Jiji,Automobile Parts,25-34,Female,Young Professional,Mobile,Transfer,2-3 Days,34268.62,2,68537.24,20,13707.45,54829.79,3,2,Medium,0,3.7
+NM-10987,2023-05-30,5,May,Q2,Kano,Konga,Electronics,18-24,Male,Young Professional,Mobile,Wallet,Standard (5-7 Days),160769.11,2,321538.22,30,96461.47,225076.75,6,3,Low,0,4.1
+NM-10988,2023-04-28,4,Apr,Q2,Lagos,Shoprite Online,Books & Education,25-34,Female,Homemaker,Mobile,Transfer,Standard (5-7 Days),7995.58,2,15991.16,0,0.0,15991.16,6,4,High,1,3.6
+NM-10989,2023-05-13,5,May,Q2,Abuja,Amazon Nigeria,Sports & Fitness,18-24,Male,Student,Mobile,Cash on Delivery,Same Day,62563.91,1,62563.91,10,6256.39,56307.52,1,5,High,0,3.9
+NM-10990,2023-10-08,10,Oct,Q4,Kano,Jumia,Automobile Parts,55+,Male,Student,Mobile,Card,Next Day,193643.87,1,193643.87,5,9682.19,183961.68,1,3,High,0,4.1
+NM-10991,2023-01-30,1,Jan,Q1,Lagos,Konga,Electronics,35-44,Male,Student,Mobile,USSD,Standard (5-7 Days),247463.77,2,494927.54,15,74239.13,420688.41,6,4,High,0,3.8
+NM-10992,2023-12-16,12,Dec,Q4,Anambra,Shoprite Online,Sports & Fitness,35-44,Male,Student,Desktop,Wallet,2-3 Days,53874.06,1,53874.06,5,2693.7,51180.36,3,4,Medium,0,4.2
+NM-10993,2023-03-08,3,Mar,Q1,Lagos,Jumia,Health & Beauty,45-54,Female,Business Owner,Desktop,Card,Next Day,17301.85,1,17301.85,0,0.0,17301.85,1,3,Low,0,4.6
+NM-10994,2023-10-06,10,Oct,Q4,Delta,Konga,Fashion,35-44,Male,Business Owner,Mobile,Cash on Delivery,Same Day,18621.85,1,18621.85,15,2793.28,15828.57,1,5,High,1,4.3
+NM-10995,2023-05-17,5,May,Q2,Kano,Jumia,Food & Grocery,18-24,Female,Student,Tablet,Cash on Delivery,Same Day,6240.85,1,6240.85,5,312.04,5928.81,1,5,High,1,4.7
+NM-10996,2023-05-30,5,May,Q2,Abuja,Konga,Home & Living,35-44,Female,Homemaker,Desktop,Cash on Delivery,2-3 Days,72079.79,1,72079.79,5,3603.99,68475.8,2,5,Medium,0,3.7
+NM-10997,2023-07-23,7,Jul,Q3,Oyo,Shoprite Online,Automobile Parts,55+,Male,Homemaker,Desktop,Card,Next Day,153196.56,1,153196.56,0,0.0,153196.56,2,4,High,0,4.4
+NM-10998,2023-06-02,6,Jun,Q2,Delta,Jumia,Fashion,25-34,Female,Young Professional,Desktop,Card,Standard (5-7 Days),43947.49,2,87894.98,5,4394.75,83500.23,7,3,Medium,0,4.6
+NM-10999,2023-09-16,9,Sep,Q3,Enugu,Jiji,Sports & Fitness,18-24,Female,Retiree,Mobile,Card,2-3 Days,69296.35,1,69296.35,15,10394.45,58901.9,3,5,Medium,0,3.0
+NM-11000,2023-06-03,6,Jun,Q2,Abuja,Jiji,Food & Grocery,45-54,Female,Student,Mobile,Wallet,Same Day,22288.68,1,22288.68,0,0.0,22288.68,1,4,High,0,3.4
